@@ -1,0 +1,1916 @@
+========================================================================
+KOREA POST — INTERNATIONAL LETTER POST MONITOR
+========================================================================
+Source: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal?frnMailDivcdTab=1&frnTranspPartyDivcd=2
+Generated (UTC): 2026-10-26 05:02:17
+
+SUMMARY
+------------------------------------------------------------------------
+Master-list destinations: 248
+Destinations found in dropdown: 27
+Matched to master list: 27
+Unmatched dropdown destinations: 0
+Master-list destinations missing from dropdown: 221
+Destinations with suspension indicators in notices: 5
+Total unique suspended destinations: 226
+
+NOTE: A missing dropdown entry is flagged as potentially suspended.
+A notice match is a keyword-based indicator and should be reviewed.
+
+========================================================================
+SECTION 1 — ALL DESTINATIONS IN THE DROPDOWN
+========================================================================
+
+[DESTINATION 1 of 27]
+Postcrossing No.: 205
+Korean name: 남아프리카공화국
+English name: South Africa
+Dropdown value: ZA
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 2 of 27]
+Postcrossing No.: 155
+Korean name: 네덜란드(네델란드)
+English name: Netherlands
+Dropdown value: NL
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 3 of 27]
+Postcrossing No.: 165
+Korean name: 노르웨이
+English name: Norway
+Dropdown value: NO
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 4 of 27]
+Postcrossing No.: 182
+Korean name: 러시아
+English name: Russia
+Dropdown value: RU
+Urgent notice (Korean): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수  재개(2025.3.17.~)
+  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+Urgent notice (English): [Translation unavailable] o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수  재개(2025.3.17.~)
+  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+------------------------------------------------------------------------
+[DESTINATION 5 of 27]
+Postcrossing No.: 133
+Korean name: 말레이시아
+English name: Malaysia
+Dropdown value: MY
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 6 of 27]
+Postcrossing No.: 235
+Korean name: 미국
+English name: U.S.A.
+Dropdown value: US
+Urgent notice (Korean): o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
+ -  접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요)  반송 시 1개월 이상 소요.
+Urgent notice (English): [Translation unavailable] o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
+ -  접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요)  반송 시 1개월 이상 소요.
+------------------------------------------------------------------------
+[DESTINATION 7 of 27]
+Postcrossing No.: 19
+Korean name: 방글라데시
+English name: Bangladesh
+Dropdown value: BD
+Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+------------------------------------------------------------------------
+[DESTINATION 8 of 27]
+Postcrossing No.: 241
+Korean name: 베트남
+English name: Vietnam
+Dropdown value: VN
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 9 of 27]
+Postcrossing No.: 31
+Korean name: 브라질
+English name: Brazil
+Dropdown value: BR
+Urgent notice (Korean): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
+
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+Urgent notice (English): [Translation unavailable] ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
+
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+------------------------------------------------------------------------
+[DESTINATION 10 of 27]
+Postcrossing No.: 213
+Korean name: 스웨덴
+English name: Sweden
+Dropdown value: SE
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 11 of 27]
+Postcrossing No.: 208
+Korean name: 스페인(에스파니아)
+English name: Spain
+Dropdown value: ES
+Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+------------------------------------------------------------------------
+[DESTINATION 12 of 27]
+Postcrossing No.: 199
+Korean name: 싱가포르
+English name: Singapore
+Dropdown value: SG
+Urgent notice (Korean): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+Urgent notice (English): [Translation unavailable] o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+------------------------------------------------------------------------
+[DESTINATION 13 of 27]
+Postcrossing No.: 105
+Korean name: 아일랜드
+English name: Ireland
+Dropdown value: IE
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 14 of 27]
+Postcrossing No.: 233
+Korean name: 영국
+English name: United Kingdom
+Dropdown value: GB
+Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+
+- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+
+- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+------------------------------------------------------------------------
+[DESTINATION 15 of 27]
+Postcrossing No.: 14
+Korean name: 오스트레일리아(호주)
+English name: Australia
+Dropdown value: AU
+Urgent notice (Korean): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+  - 대상 : 호주행 국제우편
+  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
+  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
+  - 사유 : 내용 물품으로 인한 질병 확산 방지
+Urgent notice (English): [Translation unavailable] o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+  - 대상 : 호주행 국제우편
+  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
+  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
+  - 사유 : 내용 물품으로 인한 질병 확산 방지
+------------------------------------------------------------------------
+[DESTINATION 16 of 27]
+Postcrossing No.: 101
+Korean name: 인도
+English name: India
+Dropdown value: IN
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 17 of 27]
+Postcrossing No.: 102
+Korean name: 인도네시아
+English name: Indonesia
+Dropdown value: ID
+Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생  (우정사업본부 국제사업과, 2021.03.31.)
+
+ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
+Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생  (우정사업본부 국제사업과, 2021.03.31.)
+
+ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
+------------------------------------------------------------------------
+[DESTINATION 18 of 27]
+Postcrossing No.: 110
+Korean name: 일본
+English name: Japan
+Dropdown value: JP
+Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+------------------------------------------------------------------------
+[DESTINATION 19 of 27]
+Postcrossing No.: 45
+Korean name: 중국
+English name: China
+Dropdown value: CN
+Urgent notice (Korean): o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
+Urgent notice (English): [Translation unavailable] o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
+------------------------------------------------------------------------
+[DESTINATION 20 of 27]
+Postcrossing No.: 40
+Korean name: 캐나다
+English name: Canada
+Dropdown value: CA
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 21 of 27]
+Postcrossing No.: 219
+Korean name: 타이(태국)
+English name: Thailand
+Dropdown value: TH
+Urgent notice (Korean): ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+Urgent notice (English): [Translation unavailable] ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+------------------------------------------------------------------------
+[DESTINATION 22 of 27]
+Postcrossing No.: 216
+Korean name: 타이완(대만)
+English name: Taiwan
+Dropdown value: TW
+Urgent notice (Korean): ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터)
+ - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
+Urgent notice (English): [Translation unavailable] ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터)
+ - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
+------------------------------------------------------------------------
+[DESTINATION 23 of 27]
+Postcrossing No.: 176
+Korean name: 폴란드
+English name: Poland
+Dropdown value: PL
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 24 of 27]
+Postcrossing No.: 76
+Korean name: 프랑스
+English name: France
+Dropdown value: FR
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 25 of 27]
+Postcrossing No.: 75
+Korean name: 핀란드
+English name: Finland
+Dropdown value: FI
+Urgent notice (Korean): (none)
+Urgent notice (English): (none)
+------------------------------------------------------------------------
+[DESTINATION 26 of 27]
+Postcrossing No.: 174
+Korean name: 필리핀
+English name: Philippines
+Dropdown value: PH
+Urgent notice (Korean): .
+Urgent notice (English): .
+------------------------------------------------------------------------
+[DESTINATION 27 of 27]
+Postcrossing No.: 98
+Korean name: 홍콩(중국)
+English name: Hong Kong
+Dropdown value: HK
+Urgent notice (Korean): o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG) 
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+Urgent notice (English): [Translation unavailable] o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG) 
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+------------------------------------------------------------------------
+
+========================================================================
+SECTION 2 — SUSPENDED DESTINATIONS (226 TOTAL)
+========================================================================
+
+Postcrossing No.: 1
+Korean name: (not present in dropdown)
+English name: Afghanistan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 2
+Korean name: (not present in dropdown)
+English name: Åland Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 3
+Korean name: (not present in dropdown)
+English name: Albania
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 4
+Korean name: (not present in dropdown)
+English name: Algeria
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 5
+Korean name: (not present in dropdown)
+English name: American Samoa
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 6
+Korean name: (not present in dropdown)
+English name: Andorra
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 7
+Korean name: (not present in dropdown)
+English name: Angola
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 8
+Korean name: (not present in dropdown)
+English name: Anguilla
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 9
+Korean name: (not present in dropdown)
+English name: Antarctica
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 10
+Korean name: (not present in dropdown)
+English name: Antigua & Barbuda
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 11
+Korean name: (not present in dropdown)
+English name: Argentina
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 12
+Korean name: (not present in dropdown)
+English name: Armenia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 13
+Korean name: (not present in dropdown)
+English name: Aruba
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 14
+Korean name: 오스트레일리아(호주)
+English name: Australia
+Reason: Urgent notice indicates possible service suspension
+Urgent notice (Korean): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+  - 대상 : 호주행 국제우편
+  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
+  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
+  - 사유 : 내용 물품으로 인한 질병 확산 방지
+Urgent notice (English): [Translation unavailable] o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+  - 대상 : 호주행 국제우편
+  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
+  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
+  - 사유 : 내용 물품으로 인한 질병 확산 방지
+------------------------------------------------------------------------
+Postcrossing No.: 15
+Korean name: (not present in dropdown)
+English name: Austria
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 16
+Korean name: (not present in dropdown)
+English name: Azerbaijan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 17
+Korean name: (not present in dropdown)
+English name: Bahamas
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 18
+Korean name: (not present in dropdown)
+English name: Bahrain
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 20
+Korean name: (not present in dropdown)
+English name: Barbados
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 21
+Korean name: (not present in dropdown)
+English name: Belarus
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 22
+Korean name: (not present in dropdown)
+English name: Belgium
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 23
+Korean name: (not present in dropdown)
+English name: Belize
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 24
+Korean name: (not present in dropdown)
+English name: Benin
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 25
+Korean name: (not present in dropdown)
+English name: Bermuda
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 26
+Korean name: (not present in dropdown)
+English name: Bhutan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 27
+Korean name: (not present in dropdown)
+English name: Bolivia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 28
+Korean name: (not present in dropdown)
+English name: Bonaire, Sint Eustatius and Saba
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 29
+Korean name: (not present in dropdown)
+English name: Bosnia-Herzegovina
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 30
+Korean name: (not present in dropdown)
+English name: Botswana
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 31
+Korean name: 브라질
+English name: Brazil
+Reason: Urgent notice indicates possible service suspension
+Urgent notice (Korean): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
+
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+Urgent notice (English): [Translation unavailable] ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
+
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+------------------------------------------------------------------------
+Postcrossing No.: 32
+Korean name: (not present in dropdown)
+English name: British Indian Ocean Territory
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 33
+Korean name: (not present in dropdown)
+English name: Brunei
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 34
+Korean name: (not present in dropdown)
+English name: Bulgaria
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 35
+Korean name: (not present in dropdown)
+English name: Burkina Faso
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 36
+Korean name: (not present in dropdown)
+English name: Burundi
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 37
+Korean name: (not present in dropdown)
+English name: Cabo Verde
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 38
+Korean name: (not present in dropdown)
+English name: Cambodia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 39
+Korean name: (not present in dropdown)
+English name: Cameroon
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 41
+Korean name: (not present in dropdown)
+English name: Cayman Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 42
+Korean name: (not present in dropdown)
+English name: Central African Republic
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 43
+Korean name: (not present in dropdown)
+English name: Chad
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 44
+Korean name: (not present in dropdown)
+English name: Chile
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 46
+Korean name: (not present in dropdown)
+English name: Christmas Island
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 47
+Korean name: (not present in dropdown)
+English name: Cocos Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 48
+Korean name: (not present in dropdown)
+English name: Colombia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 49
+Korean name: (not present in dropdown)
+English name: Comoros
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 50
+Korean name: (not present in dropdown)
+English name: Congo
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 51
+Korean name: (not present in dropdown)
+English name: Dem. Rep. Of Congo
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 52
+Korean name: (not present in dropdown)
+English name: Cook Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 53
+Korean name: (not present in dropdown)
+English name: Costa Rica
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 54
+Korean name: (not present in dropdown)
+English name: Côte d'Ivoire
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 55
+Korean name: (not present in dropdown)
+English name: Croatia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 56
+Korean name: (not present in dropdown)
+English name: Cuba
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 57
+Korean name: (not present in dropdown)
+English name: Curaçao
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 58
+Korean name: (not present in dropdown)
+English name: Cyprus
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 59
+Korean name: (not present in dropdown)
+English name: Czechia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 60
+Korean name: (not present in dropdown)
+English name: Denmark
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 61
+Korean name: (not present in dropdown)
+English name: Djibouti
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 62
+Korean name: (not present in dropdown)
+English name: Dominica
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 63
+Korean name: (not present in dropdown)
+English name: Dominican Republic
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 64
+Korean name: (not present in dropdown)
+English name: Ecuador
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 65
+Korean name: (not present in dropdown)
+English name: Egypt
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 66
+Korean name: (not present in dropdown)
+English name: El Salvador
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 67
+Korean name: (not present in dropdown)
+English name: Equatorial Guinea
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 68
+Korean name: (not present in dropdown)
+English name: Eritrea
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 69
+Korean name: (not present in dropdown)
+English name: Estonia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 70
+Korean name: (not present in dropdown)
+English name: Eswatini /Swaziland
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 71
+Korean name: (not present in dropdown)
+English name: Ethiopia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 72
+Korean name: (not present in dropdown)
+English name: Falkland Islands /Malvinas
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 73
+Korean name: (not present in dropdown)
+English name: Faroe Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 74
+Korean name: (not present in dropdown)
+English name: Fiji
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 77
+Korean name: (not present in dropdown)
+English name: French Guiana
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 78
+Korean name: (not present in dropdown)
+English name: French Polynesia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 79
+Korean name: (not present in dropdown)
+English name: French Southern Territories
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 80
+Korean name: (not present in dropdown)
+English name: Gabon
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 81
+Korean name: (not present in dropdown)
+English name: Gambia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 82
+Korean name: (not present in dropdown)
+English name: Georgia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 83
+Korean name: (not present in dropdown)
+English name: Germany
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 84
+Korean name: (not present in dropdown)
+English name: Ghana
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 85
+Korean name: (not present in dropdown)
+English name: Gibraltar
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 86
+Korean name: (not present in dropdown)
+English name: Greece
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 87
+Korean name: (not present in dropdown)
+English name: Greenland
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 88
+Korean name: (not present in dropdown)
+English name: Grenada
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 89
+Korean name: (not present in dropdown)
+English name: Guadeloupe
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 90
+Korean name: (not present in dropdown)
+English name: Guam
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 91
+Korean name: (not present in dropdown)
+English name: Guatemala
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 92
+Korean name: (not present in dropdown)
+English name: Guernsey
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 93
+Korean name: (not present in dropdown)
+English name: Guinea
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 94
+Korean name: (not present in dropdown)
+English name: Guinea-Bissau
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 95
+Korean name: (not present in dropdown)
+English name: Guyana
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 96
+Korean name: (not present in dropdown)
+English name: Haiti
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 97
+Korean name: (not present in dropdown)
+English name: Honduras
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 99
+Korean name: (not present in dropdown)
+English name: Hungary
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 100
+Korean name: (not present in dropdown)
+English name: Iceland
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 103
+Korean name: (not present in dropdown)
+English name: Iran
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 104
+Korean name: (not present in dropdown)
+English name: Iraq
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 106
+Korean name: (not present in dropdown)
+English name: Isle of Man
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 107
+Korean name: (not present in dropdown)
+English name: Israel
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 108
+Korean name: (not present in dropdown)
+English name: Italy
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 109
+Korean name: (not present in dropdown)
+English name: Jamaica
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 111
+Korean name: (not present in dropdown)
+English name: Jersey
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 112
+Korean name: (not present in dropdown)
+English name: Jordan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 113
+Korean name: (not present in dropdown)
+English name: Kazakhstan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 114
+Korean name: (not present in dropdown)
+English name: Kenya
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 115
+Korean name: (not present in dropdown)
+English name: Kiribati
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 116
+Korean name: (not present in dropdown)
+English name: Korea(North)
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 117
+Korean name: (not present in dropdown)
+English name: Korea(South)
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 118
+Korean name: (not present in dropdown)
+English name: Kosovo
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 119
+Korean name: (not present in dropdown)
+English name: Kuwait
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 120
+Korean name: (not present in dropdown)
+English name: Kyrgyzstan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 121
+Korean name: (not present in dropdown)
+English name: Laos
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 122
+Korean name: (not present in dropdown)
+English name: Latvia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 123
+Korean name: (not present in dropdown)
+English name: Lebanon
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 124
+Korean name: (not present in dropdown)
+English name: Lesotho
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 125
+Korean name: (not present in dropdown)
+English name: Liberia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 126
+Korean name: (not present in dropdown)
+English name: Libya
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 127
+Korean name: (not present in dropdown)
+English name: Liechtenstein
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 128
+Korean name: (not present in dropdown)
+English name: Lithuania
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 129
+Korean name: (not present in dropdown)
+English name: Luxembourg
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 130
+Korean name: (not present in dropdown)
+English name: Macao
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 131
+Korean name: (not present in dropdown)
+English name: Madagascar
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 132
+Korean name: (not present in dropdown)
+English name: Malawi
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 134
+Korean name: (not present in dropdown)
+English name: Maldives
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 135
+Korean name: (not present in dropdown)
+English name: Mali
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 136
+Korean name: (not present in dropdown)
+English name: Malta
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 137
+Korean name: (not present in dropdown)
+English name: Marshall Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 138
+Korean name: (not present in dropdown)
+English name: Martinique
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 139
+Korean name: (not present in dropdown)
+English name: Mauritania
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 140
+Korean name: (not present in dropdown)
+English name: Mauritius
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 141
+Korean name: (not present in dropdown)
+English name: Mayotte
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 142
+Korean name: (not present in dropdown)
+English name: Mexico
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 143
+Korean name: (not present in dropdown)
+English name: Micronesia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 144
+Korean name: (not present in dropdown)
+English name: Moldova
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 145
+Korean name: (not present in dropdown)
+English name: Monaco
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 146
+Korean name: (not present in dropdown)
+English name: Mongolia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 147
+Korean name: (not present in dropdown)
+English name: Montenegro
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 148
+Korean name: (not present in dropdown)
+English name: Montserrat
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 149
+Korean name: (not present in dropdown)
+English name: Morocco
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 150
+Korean name: (not present in dropdown)
+English name: Mozambique
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 151
+Korean name: (not present in dropdown)
+English name: Myanmar
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 152
+Korean name: (not present in dropdown)
+English name: Namibia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 153
+Korean name: (not present in dropdown)
+English name: Nauru / Naoero
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 154
+Korean name: (not present in dropdown)
+English name: Nepal
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 156
+Korean name: (not present in dropdown)
+English name: New Caledonia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 157
+Korean name: (not present in dropdown)
+English name: New Zealand
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 158
+Korean name: (not present in dropdown)
+English name: Nicaragua
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 159
+Korean name: (not present in dropdown)
+English name: Niger
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 160
+Korean name: (not present in dropdown)
+English name: Nigeria
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 161
+Korean name: (not present in dropdown)
+English name: Niue
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 162
+Korean name: (not present in dropdown)
+English name: Norfolk Island
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 163
+Korean name: (not present in dropdown)
+English name: Northern Mariana Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 164
+Korean name: (not present in dropdown)
+English name: North Macedonia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 166
+Korean name: (not present in dropdown)
+English name: Oman
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 167
+Korean name: (not present in dropdown)
+English name: Pakistan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 168
+Korean name: (not present in dropdown)
+English name: Palau
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 169
+Korean name: (not present in dropdown)
+English name: Palestine
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 170
+Korean name: (not present in dropdown)
+English name: Panama
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 171
+Korean name: (not present in dropdown)
+English name: Papua New Guinea
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 172
+Korean name: (not present in dropdown)
+English name: Paraguay
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 173
+Korean name: (not present in dropdown)
+English name: Peru
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 175
+Korean name: (not present in dropdown)
+English name: Pitcairn
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 177
+Korean name: (not present in dropdown)
+English name: Portugal
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 178
+Korean name: (not present in dropdown)
+English name: Puerto Rico
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 179
+Korean name: (not present in dropdown)
+English name: Qatar
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 180
+Korean name: (not present in dropdown)
+English name: Réunion
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 181
+Korean name: (not present in dropdown)
+English name: Romania
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 182
+Korean name: 러시아
+English name: Russia
+Reason: Urgent notice indicates possible service suspension
+Urgent notice (Korean): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수  재개(2025.3.17.~)
+  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+Urgent notice (English): [Translation unavailable] o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수  재개(2025.3.17.~)
+  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+------------------------------------------------------------------------
+Postcrossing No.: 183
+Korean name: (not present in dropdown)
+English name: Rwanda
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 184
+Korean name: (not present in dropdown)
+English name: Saint Barthélemy
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 185
+Korean name: (not present in dropdown)
+English name: Saint Helena, Ascension and Tristan da Cunha
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 186
+Korean name: (not present in dropdown)
+English name: Saint Kitts and Nevis
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 187
+Korean name: (not present in dropdown)
+English name: Saint Lucia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 188
+Korean name: (not present in dropdown)
+English name: Saint Martin
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 189
+Korean name: (not present in dropdown)
+English name: Saint Pierre & Miquelon
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 190
+Korean name: (not present in dropdown)
+English name: Saint Vincent and the Grenadines
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 191
+Korean name: (not present in dropdown)
+English name: Samoa
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 192
+Korean name: (not present in dropdown)
+English name: San Marino
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 193
+Korean name: (not present in dropdown)
+English name: Sao Tome and Principe
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 194
+Korean name: (not present in dropdown)
+English name: Saudi Arabia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 195
+Korean name: (not present in dropdown)
+English name: Senegal
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 196
+Korean name: (not present in dropdown)
+English name: Serbia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 197
+Korean name: (not present in dropdown)
+English name: Seychelles
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 198
+Korean name: (not present in dropdown)
+English name: Sierra Leone
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 199
+Korean name: 싱가포르
+English name: Singapore
+Reason: Urgent notice indicates possible service suspension
+Urgent notice (Korean): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+Urgent notice (English): [Translation unavailable] o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+------------------------------------------------------------------------
+Postcrossing No.: 200
+Korean name: (not present in dropdown)
+English name: Sint Maarten
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 201
+Korean name: (not present in dropdown)
+English name: Slovakia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 202
+Korean name: (not present in dropdown)
+English name: Slovenia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 203
+Korean name: (not present in dropdown)
+English name: Solomon Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 204
+Korean name: (not present in dropdown)
+English name: Somalia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 206
+Korean name: (not present in dropdown)
+English name: South Georgia and S. Sandwich Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 207
+Korean name: (not present in dropdown)
+English name: South Sudan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 209
+Korean name: (not present in dropdown)
+English name: Sri Lanka
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 210
+Korean name: (not present in dropdown)
+English name: Sudan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 211
+Korean name: (not present in dropdown)
+English name: Suriname
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 212
+Korean name: (not present in dropdown)
+English name: Svalbard and Jan Mayen
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 214
+Korean name: (not present in dropdown)
+English name: Switzerland
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 215
+Korean name: (not present in dropdown)
+English name: Syria
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 217
+Korean name: (not present in dropdown)
+English name: Tajikistan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 218
+Korean name: (not present in dropdown)
+English name: Tanzania
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 220
+Korean name: (not present in dropdown)
+English name: Timor-Leste
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 221
+Korean name: (not present in dropdown)
+English name: Togo
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 222
+Korean name: (not present in dropdown)
+English name: Tokelau
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 223
+Korean name: (not present in dropdown)
+English name: Tonga
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 224
+Korean name: (not present in dropdown)
+English name: Trinidad and Tobago
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 225
+Korean name: (not present in dropdown)
+English name: Tunisia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 226
+Korean name: (not present in dropdown)
+English name: Turkey
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 227
+Korean name: (not present in dropdown)
+English name: Turkmenistan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 228
+Korean name: (not present in dropdown)
+English name: Turks and Caicos Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 229
+Korean name: (not present in dropdown)
+English name: Tuvalu
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 230
+Korean name: (not present in dropdown)
+English name: Uganda
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 231
+Korean name: (not present in dropdown)
+English name: Ukraine
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 232
+Korean name: (not present in dropdown)
+English name: United Arab Emirates
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 233
+Korean name: 영국
+English name: United Kingdom
+Reason: Urgent notice indicates possible service suspension
+Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+
+- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+
+- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+------------------------------------------------------------------------
+Postcrossing No.: 234
+Korean name: (not present in dropdown)
+English name: Uruguay
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 236
+Korean name: (not present in dropdown)
+English name: U.S. Minor Outlying Islands
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 237
+Korean name: (not present in dropdown)
+English name: Uzbekistan
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 238
+Korean name: (not present in dropdown)
+English name: Vanuatu
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 239
+Korean name: (not present in dropdown)
+English name: Vatican
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 240
+Korean name: (not present in dropdown)
+English name: Venezuela
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 242
+Korean name: (not present in dropdown)
+English name: Virgin Islands (UK)
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 243
+Korean name: (not present in dropdown)
+English name: Virgin Islands of the USA
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 244
+Korean name: (not present in dropdown)
+English name: Wallis & Futuna
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 245
+Korean name: (not present in dropdown)
+English name: Western Sahara
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 246
+Korean name: (not present in dropdown)
+English name: Yemen
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 247
+Korean name: (not present in dropdown)
+English name: Zambia
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+Postcrossing No.: 248
+Korean name: (not present in dropdown)
+English name: Zimbabwe
+Reason: Missing from the Korea Post destination dropdown
+Urgent notice (Korean): (not available)
+Urgent notice (English): (not available)
+------------------------------------------------------------------------
+
+Extraction warnings: none recorded.
+
+END OF REPORT
