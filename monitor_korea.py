@@ -882,6 +882,18 @@ page.on("request", log_request)
                 wait_until="domcontentloaded",
             )
 
+page.on(
+    "request",
+    lambda request: print(
+        f"[NETWORK REQUEST] {request.resource_type}: "
+        f"{request.method} {request.url}"
+    )
+    if request.resource_type in ("xhr", "fetch")
+    else None,
+)
+
+page.goto(PAGE_URL)
+
             page.wait_for_timeout(2000)
             print("\n========== TAB HTML ==========")
 
