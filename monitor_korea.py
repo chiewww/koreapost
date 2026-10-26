@@ -942,7 +942,19 @@ def main():
     )
 
     print(f"Destination options discovered: {len(options)}")
+    print("\n--- DESTINATION DROPDOWN DIAGNOSTICS ---")
+    print(f"Page URL: {response.url}")
+    print(f"HTTP status: {response.status_code}")
+    print(f"Dropdown count: {len(options)}")
+    print(f"Select name: {destination_select.get('name')!r}")
+    print(f"Select ID: {destination_select.get('id')!r}")
+    print(f"Form action: {form.get('action') if form else None!r}")
+    print(f"Form method: {form.get('method') if form else None!r}")
 
+    for item in options:
+        print(f"OPTION: value={item['value']!r}, label={item['korean']!r}")
+
+    print("--- END DIAGNOSTICS ---\n")
     records = []
     seen_values = set()
 
