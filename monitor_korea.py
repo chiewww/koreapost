@@ -720,9 +720,10 @@ def main():
         try:
             print(f"Opening: {PAGE_URL}")
             page.goto(PAGE_URL, wait_until="domcontentloaded")
-            page.wait_for_timeout(1200)
+            page.wait_for_timeout(2000)
 
-            select_international_letter_tab(page)
+            # The URL already specifies the International Letter Post tab.
+            # Do not click the tab again; doing so may change the page state.
 
             # Read the full dropdown before iterating. Do not filter by notice.
             options = read_dropdown_options(page)
