@@ -879,6 +879,13 @@ def main():
             )
 
             page.wait_for_timeout(2000)
+            html = page.locator(
+                "select[name='nation'][title='도착국']"
+            ).evaluate("(el) => el.outerHTML")
+
+            print("\n========== DROPDOWN HTML ==========")
+            print(html)
+            print("===================================\n")
 
             print("Final URL:", page.url)
             print("Page title:", page.title())
