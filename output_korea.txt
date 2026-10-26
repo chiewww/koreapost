@@ -1,289 +1,339 @@
 KOREA POST INTERNATIONAL LETTER POST MONITOR
-Generated: 2026-10-26 05:57 UTC
-Destination dropdown count: 28
+Generated: 2026-10-26 07:12 UTC
+Destination dropdown count: 27
 
 DESTINATIONS
 ============================================================
-#UNMATCHED | 선택하세요 | Please select | code=-
-
 #205 | 남아프리카공화국 | South Africa | code=ZA
+긴급공지: No text extracted.
 
 #155 | 네덜란드(네델란드) | Netherlands | code=NL
+긴급공지: No text extracted.
 
 #165 | 노르웨이 | Norway | code=NO
+긴급공지: No text extracted.
 
 #182 | 러시아 | Russia | code=RU
+긴급공지: No text extracted.
 
 #133 | 말레이시아 | Malaysia | code=MY
+긴급공지: No text extracted.
 
 #235 | 미국 | U.S.A. | code=US
+긴급공지: No text extracted.
 
 #19 | 방글라데시 | Bangladesh | code=BD
+긴급공지: No text extracted.
 
 #241 | 베트남 | Vietnam | code=VN
+긴급공지: No text extracted.
 
 #31 | 브라질 | Brazil | code=BR
+긴급공지: No text extracted.
 
 #213 | 스웨덴 | Sweden | code=SE
+긴급공지: No text extracted.
 
 #208 | 스페인(에스파니아) | Spain | code=ES
+긴급공지: No text extracted.
 
 #199 | 싱가포르 | Singapore | code=SG
+긴급공지: No text extracted.
 
 #105 | 아일랜드 | Ireland | code=IE
+긴급공지: No text extracted.
 
 #233 | 영국 | United Kingdom | code=GB
+긴급공지: No text extracted.
 
 #14 | 오스트레일리아(호주) | Australia | code=AU
+긴급공지: No text extracted.
 
 #101 | 인도 | India | code=IN
+긴급공지: No text extracted.
 
 #102 | 인도네시아 | Indonesia | code=ID
+긴급공지: No text extracted.
 
 #110 | 일본 | Japan | code=JP
+긴급공지: No text extracted.
 
 #45 | 중국 | China | code=CN
+긴급공지: No text extracted.
 
 #40 | 캐나다 | Canada | code=CA
+긴급공지: No text extracted.
 
 #219 | 타이(태국) | Thailand | code=TH
+긴급공지: No text extracted.
 
 #216 | 타이완(대만) | Taiwan | code=TW
+긴급공지: No text extracted.
 
 #176 | 폴란드 | Poland | code=PL
+긴급공지: No text extracted.
 
 #76 | 프랑스 | France | code=FR
+긴급공지: No text extracted.
 
 #75 | 핀란드 | Finland | code=FI
+긴급공지: No text extracted.
 
 #174 | 필리핀 | Philippines | code=PH
+긴급공지: No text extracted.
 
 #98 | 홍콩(중국) | Hong Kong | code=HK
+긴급공지: No text extracted.
 
 
-SUSPENDED / NOT-LISTED DESTINATIONS
+A. URGENT NOTICES WITH POSSIBLE SUSPENSION WORDING
 ============================================================
-#1 | Afghanistan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#2 | Åland Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#3 | Albania | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#4 | Algeria | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#5 | American Samoa | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#6 | Andorra | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#7 | Angola | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#8 | Anguilla | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#9 | Antarctica | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#10 | Antigua & Barbuda | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#11 | Argentina | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#12 | Armenia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#13 | Aruba | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#15 | Austria | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#16 | Azerbaijan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#17 | Bahamas | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#18 | Bahrain | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#20 | Barbados | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#21 | Belarus | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#22 | Belgium | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#23 | Belize | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#24 | Benin | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#25 | Bermuda | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#26 | Bhutan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#27 | Bolivia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#28 | Bonaire, Sint Eustatius and Saba | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#29 | Bosnia-Herzegovina | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#30 | Botswana | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#32 | British Indian Ocean Territory | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#33 | Brunei | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#34 | Bulgaria | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#35 | Burkina Faso | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#36 | Burundi | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#37 | Cabo Verde | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#38 | Cambodia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#39 | Cameroon | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#41 | Cayman Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#42 | Central African Republic | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#43 | Chad | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#44 | Chile | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#46 | Christmas Island | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#47 | Cocos Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#48 | Colombia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#49 | Comoros | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#50 | Congo | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#51 | Dem. Rep. Of Congo | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#52 | Cook Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#53 | Costa Rica | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#54 | Côte d'Ivoire | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#55 | Croatia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#56 | Cuba | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#57 | Curaçao | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#58 | Cyprus | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#59 | Czechia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#60 | Denmark | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#61 | Djibouti | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#62 | Dominica | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#63 | Dominican Republic | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#64 | Ecuador | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#65 | Egypt | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#66 | El Salvador | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#67 | Equatorial Guinea | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#68 | Eritrea | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#69 | Estonia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#70 | Eswatini /Swaziland | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#71 | Ethiopia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#72 | Falkland Islands /Malvinas | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#73 | Faroe Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#74 | Fiji | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#77 | French Guiana | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#78 | French Polynesia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#79 | French Southern Territories | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#80 | Gabon | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#81 | Gambia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#82 | Georgia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#83 | Germany | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#84 | Ghana | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#85 | Gibraltar | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#86 | Greece | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#87 | Greenland | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#88 | Grenada | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#89 | Guadeloupe | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#90 | Guam | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#91 | Guatemala | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#92 | Guernsey | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#93 | Guinea | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#94 | Guinea-Bissau | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#95 | Guyana | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#96 | Haiti | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#97 | Honduras | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#99 | Hungary | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#100 | Iceland | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#103 | Iran | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#104 | Iraq | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#106 | Isle of Man | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#107 | Israel | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#108 | Italy | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#109 | Jamaica | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#111 | Jersey | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#112 | Jordan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#113 | Kazakhstan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#114 | Kenya | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#115 | Kiribati | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#116 | Korea(North) | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#117 | Korea(South) | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#118 | Kosovo | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#119 | Kuwait | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#120 | Kyrgyzstan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#121 | Laos | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#122 | Latvia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#123 | Lebanon | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#124 | Lesotho | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#125 | Liberia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#126 | Libya | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#127 | Liechtenstein | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#128 | Lithuania | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#129 | Luxembourg | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#130 | Macao | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#131 | Madagascar | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#132 | Malawi | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#134 | Maldives | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#135 | Mali | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#136 | Malta | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#137 | Marshall Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#138 | Martinique | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#139 | Mauritania | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#140 | Mauritius | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#141 | Mayotte | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#142 | Mexico | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#143 | Micronesia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#144 | Moldova | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#145 | Monaco | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#146 | Mongolia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#147 | Montenegro | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#148 | Montserrat | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#149 | Morocco | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#150 | Mozambique | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#151 | Myanmar | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#152 | Namibia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#153 | Nauru / Naoero | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#154 | Nepal | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#156 | New Caledonia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#157 | New Zealand | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#158 | Nicaragua | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#159 | Niger | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#160 | Nigeria | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#161 | Niue | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#162 | Norfolk Island | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#163 | Northern Mariana Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#164 | North Macedonia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#166 | Oman | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#167 | Pakistan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#168 | Palau | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#169 | Palestine | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#170 | Panama | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#171 | Papua New Guinea | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#172 | Paraguay | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#173 | Peru | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#175 | Pitcairn | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#177 | Portugal | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#178 | Puerto Rico | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#179 | Qatar | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#180 | Réunion | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#181 | Romania | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#183 | Rwanda | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#184 | Saint Barthélemy | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#185 | Saint Helena, Ascension and Tristan da Cunha | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#186 | Saint Kitts and Nevis | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#187 | Saint Lucia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#188 | Saint Martin | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#189 | Saint Pierre & Miquelon | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#190 | Saint Vincent and the Grenadines | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#191 | Samoa | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#192 | San Marino | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#193 | Sao Tome and Principe | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#194 | Saudi Arabia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#195 | Senegal | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#196 | Serbia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#197 | Seychelles | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#198 | Sierra Leone | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#200 | Sint Maarten | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#201 | Slovakia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#202 | Slovenia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#203 | Solomon Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#204 | Somalia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#206 | South Georgia and S. Sandwich Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#207 | South Sudan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#209 | Sri Lanka | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#210 | Sudan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#211 | Suriname | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#212 | Svalbard and Jan Mayen | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#214 | Switzerland | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#215 | Syria | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#217 | Tajikistan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#218 | Tanzania | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#220 | Timor-Leste | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#221 | Togo | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#222 | Tokelau | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#223 | Tonga | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#224 | Trinidad and Tobago | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#225 | Tunisia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#226 | Turkey | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#227 | Turkmenistan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#228 | Turks and Caicos Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#229 | Tuvalu | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#230 | Uganda | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#231 | Ukraine | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#232 | United Arab Emirates | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#234 | Uruguay | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#236 | U.S. Minor Outlying Islands | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#237 | Uzbekistan | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#238 | Vanuatu | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#239 | Vatican | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#240 | Venezuela | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#242 | Virgin Islands (UK) | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#243 | Virgin Islands of the USA | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#244 | Wallis & Futuna | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#245 | Western Sahara | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#246 | Yemen | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#247 | Zambia | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-#248 | Zimbabwe | NOT LISTED IN LIVE DROPDOWN (verify suspension)
-TOTAL SUSPENDED / NOT-LISTED CANDIDATES: 221
+No urgent notices matched the configured terms.
+
+B. MASTER-LIST DESTINATIONS NOT MATCHED TO LIVE DROPDOWN
+============================================================
+#1 | Afghanistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#2 | Åland Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#3 | Albania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#4 | Algeria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#5 | American Samoa | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#6 | Andorra | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#7 | Angola | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#8 | Anguilla | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#9 | Antarctica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#10 | Antigua & Barbuda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#11 | Argentina | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#12 | Armenia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#13 | Aruba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#15 | Austria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#16 | Azerbaijan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#17 | Bahamas | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#18 | Bahrain | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#20 | Barbados | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#21 | Belarus | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#22 | Belgium | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#23 | Belize | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#24 | Benin | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#25 | Bermuda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#26 | Bhutan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#27 | Bolivia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#28 | Bonaire, Sint Eustatius and Saba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#29 | Bosnia-Herzegovina | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#30 | Botswana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#32 | British Indian Ocean Territory | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#33 | Brunei | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#34 | Bulgaria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#35 | Burkina Faso | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#36 | Burundi | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#37 | Cabo Verde | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#38 | Cambodia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#39 | Cameroon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#41 | Cayman Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#42 | Central African Republic | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#43 | Chad | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#44 | Chile | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#46 | Christmas Island | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#47 | Cocos Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#48 | Colombia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#49 | Comoros | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#50 | Congo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#51 | Dem. Rep. Of Congo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#52 | Cook Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#53 | Costa Rica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#54 | Côte d'Ivoire | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#55 | Croatia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#56 | Cuba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#57 | Curaçao | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#58 | Cyprus | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#59 | Czechia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#60 | Denmark | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#61 | Djibouti | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#62 | Dominica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#63 | Dominican Republic | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#64 | Ecuador | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#65 | Egypt | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#66 | El Salvador | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#67 | Equatorial Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#68 | Eritrea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#69 | Estonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#70 | Eswatini /Swaziland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#71 | Ethiopia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#72 | Falkland Islands /Malvinas | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#73 | Faroe Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#74 | Fiji | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#77 | French Guiana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#78 | French Polynesia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#79 | French Southern Territories | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#80 | Gabon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#81 | Gambia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#82 | Georgia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#83 | Germany | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#84 | Ghana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#85 | Gibraltar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#86 | Greece | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#87 | Greenland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#88 | Grenada | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#89 | Guadeloupe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#90 | Guam | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#91 | Guatemala | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#92 | Guernsey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#93 | Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#94 | Guinea-Bissau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#95 | Guyana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#96 | Haiti | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#97 | Honduras | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#99 | Hungary | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#100 | Iceland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#103 | Iran | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#104 | Iraq | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#106 | Isle of Man | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#107 | Israel | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#108 | Italy | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#109 | Jamaica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#111 | Jersey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#112 | Jordan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#113 | Kazakhstan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#114 | Kenya | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#115 | Kiribati | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#116 | Korea(North) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#117 | Korea(South) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#118 | Kosovo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#119 | Kuwait | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#120 | Kyrgyzstan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#121 | Laos | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#122 | Latvia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#123 | Lebanon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#124 | Lesotho | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#125 | Liberia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#126 | Libya | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#127 | Liechtenstein | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#128 | Lithuania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#129 | Luxembourg | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#130 | Macao | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#131 | Madagascar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#132 | Malawi | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#134 | Maldives | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#135 | Mali | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#136 | Malta | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#137 | Marshall Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#138 | Martinique | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#139 | Mauritania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#140 | Mauritius | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#141 | Mayotte | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#142 | Mexico | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#143 | Micronesia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#144 | Moldova | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#145 | Monaco | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#146 | Mongolia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#147 | Montenegro | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#148 | Montserrat | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#149 | Morocco | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#150 | Mozambique | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#151 | Myanmar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#152 | Namibia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#153 | Nauru / Naoero | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#154 | Nepal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#156 | New Caledonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#157 | New Zealand | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#158 | Nicaragua | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#159 | Niger | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#160 | Nigeria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#161 | Niue | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#162 | Norfolk Island | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#163 | Northern Mariana Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#164 | North Macedonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#166 | Oman | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#167 | Pakistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#168 | Palau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#169 | Palestine | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#170 | Panama | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#171 | Papua New Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#172 | Paraguay | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#173 | Peru | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#175 | Pitcairn | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#177 | Portugal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#178 | Puerto Rico | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#179 | Qatar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#180 | Réunion | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#181 | Romania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#183 | Rwanda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#184 | Saint Barthélemy | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#185 | Saint Helena, Ascension and Tristan da Cunha | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#186 | Saint Kitts and Nevis | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#187 | Saint Lucia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#188 | Saint Martin | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#189 | Saint Pierre & Miquelon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#190 | Saint Vincent and the Grenadines | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#191 | Samoa | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#192 | San Marino | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#193 | Sao Tome and Principe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#194 | Saudi Arabia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#195 | Senegal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#196 | Serbia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#197 | Seychelles | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#198 | Sierra Leone | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#200 | Sint Maarten | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#201 | Slovakia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#202 | Slovenia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#203 | Solomon Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#204 | Somalia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#206 | South Georgia and S. Sandwich Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#207 | South Sudan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#209 | Sri Lanka | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#210 | Sudan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#211 | Suriname | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#212 | Svalbard and Jan Mayen | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#214 | Switzerland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#215 | Syria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#217 | Tajikistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#218 | Tanzania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#220 | Timor-Leste | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#221 | Togo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#222 | Tokelau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#223 | Tonga | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#224 | Trinidad and Tobago | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#225 | Tunisia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#226 | Turkey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#227 | Turkmenistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#228 | Turks and Caicos Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#229 | Tuvalu | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#230 | Uganda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#231 | Ukraine | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#232 | United Arab Emirates | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#234 | Uruguay | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#236 | U.S. Minor Outlying Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#237 | Uzbekistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#238 | Vanuatu | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#239 | Vatican | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#240 | Venezuela | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#242 | Virgin Islands (UK) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#243 | Virgin Islands of the USA | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#244 | Wallis & Futuna | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#245 | Western Sahara | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#246 | Yemen | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#247 | Zambia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+#248 | Zimbabwe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
+
+IMPORTANT INTERPRETATION
+============================================================
+A destination absent from the observed dropdown is not confirmed suspended by that fact alone.
+Suspension wording is a candidate indicator and should be checked against the full official notice and applicable service rules.
+This report extracts only 긴급공지. It intentionally excludes 주요안내사항.
+
+DATA-QUALITY SUMMARY
+============================================================
+Live dropdown destinations: 27
+Master-list destinations not matched: 221
+Urgent notices with possible suspension wording: 0
+Destination processing errors: 0
+
+WARNING: FEWER THAN 100 LIVE DROPDOWN DESTINATIONS
+The observed dropdown may be incomplete, may be in a different page state, or may be populated dynamically.
+Do not treat the unmatched master-list destinations as confirmed suspensions.
+
+BROWSER NETWORK DIAGNOSTICS
+============================================================
+XHR/fetch requests and responses observed during this run:
+No XHR/fetch events were captured. The page may use other resource types or load its options in the initial HTML.
 
 END OF REPORT
