@@ -1,10 +1,10 @@
 KOREA POST INTERNATIONAL LETTER POST MONITOR
-Generated: 2026-10-26 05:53 UTC
+Generated: 2026-10-26 05:57 UTC
 Destination dropdown count: 28
 
 DESTINATIONS
 ============================================================
-#UNMATCHED | 선택하세요 | 선택하세요 | code=-
+#UNMATCHED | 선택하세요 | Please select | code=-
 
 #205 | 남아프리카공화국 | South Africa | code=ZA
 
