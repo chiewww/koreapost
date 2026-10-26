@@ -563,39 +563,65 @@ def select_destination_dropdown(page):
 
 
 def read_dropdown_options(page):
-    select = select_destination_dropdown(page)
+    """
+    Read every destination from the actual destination dropdown.
+    Do not use the first select[name='nation'] blindly.
+    """
+    selectors = [
+        "select[name='nation'][title='도착국']",
+        "select[title='도착국']",
+        "select[name='nation']",
+    ]
 
-    options = select.locator("option").evaluate_all(
-        """els => els.map(el => ({
-            value: (el.value || '').trim(),
-            label: (el.innerText || el.textContent || '').trim()
-        }))"""
+    for selector in selectors:
+        dropdown = page.locator(selector)
+
+        # Skip selectors that do not identify exactly one dropdown.
+        if dropdown.count() != 1:
+            continue
+
+        options = dropdown.locator("option").evaluate_all("""
+            elements => elements.map(option => ({
+                value: (option.value || "").trim(),
+                text: (option.textContent || "").trim(),
+                selected: option.selected
+            }))
+        """)
+
+        # Keep real destination entries, excluding empty placeholders.
+        destinations = []
+        for option in options:
+            value = option["value"]
+            text = option["text"]
+
+            if not value or not text:
+                continue
+
+            # Ignore common placeholder options.
+            if text in ("선택", "선택하세요", "도착국 선택", "국가 선택"):
+                continue
+
+            destinations.append({
+                "value": value,
+                "text": text,
+            })
+
+        print(f"Dropdown selector used: {selector}")
+        print(f"Raw option count: {len(options)}")
+        print(f"Destination option count: {len(destinations)}")
+        print("First 10 destinations:")
+        for item in destinations[:10]:
+            print(f"  value={item['value']!r}, text={item['text']!r}")
+        print("Last 10 destinations:")
+        for item in destinations[-10:]:
+            print(f"  value={item['value']!r}, text={item['text']!r}")
+
+        return destinations
+
+    raise RuntimeError(
+        "Could not identify the destination dropdown "
+        "(select[name='nation'][title='도착국'])."
     )
-
-    results = []
-    seen = set()
-
-    for option in options:
-        code = option["value"].strip().upper()
-        korean_name = re.sub(r"\s+", " ", option["label"]).strip()
-
-        if not code or not korean_name:
-            continue
-
-        if code.lower() in {"select", "all", "none", "0"}:
-            continue
-
-        if code in seen:
-            continue
-
-        seen.add(code)
-        results.append((code, korean_name))
-
-    if not results:
-        raise RuntimeError("The destination dropdown contains no options.")
-
-    return results
-
 
 def click_search(page):
     """Click the search control after selecting a destination."""
