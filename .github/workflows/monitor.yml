@@ -1,0 +1,59 @@
+
+name: Korea Post Daily Monitor
+
+on:
+  schedule:
+    # Daily at 06:15 UTC
+    - cron: "15 6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: koreapost-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # 1. Check out the repository
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Run the monitor
+      - name: Generate Korea Post report
+        run: python monitor_korea.py
+
+      # 5. Commit the report only when it changes
+      - name: Commit updated report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output_korea.txt
+
+          if git diff --cached --quiet; then
+            echo "The report has not changed."
+          else
+            git commit -m "Update Korea Post monitoring report"
+            git push
+          fi
