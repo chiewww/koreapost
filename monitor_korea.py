@@ -1,20 +1,23 @@
 
 # ============================================================
 # Korea Post International Letter Post Monitor
+# File: monitor_korea.py
 # Output: output_korea.txt
 #
 # Features:
-#   1. Reads the live Korea Post destination dropdown.
-#   2. Records the original Postcrossing master-list number.
-#   3. Extracts ONLY 긴급공지 (urgent notices).
-#   4. Excludes 주요안내사항.
-#   5. Translates urgent notices into English where possible.
-#   6. Flags explicit suspension wording.
-#   7. Lists master-list destinations missing from the dropdown.
-#   8. Logs XHR/fetch network activity to help diagnose the dropdown.
+#   1. Opens the Korea Post service page.
+#   2. Explicitly clicks the 국제통상 tab (a#go_emsP).
+#   3. Captures XHR/fetch network diagnostics.
+#   4. Reads the live destination dropdown.
+#   5. Matches destinations against the 248-entry master list.
+#   6. Extracts ONLY 긴급공지, excluding 주요안내사항.
+#   7. Translates Korean urgent notices into English when possible.
+#   8. Flags possible suspension wording in urgent notices.
+#   9. Reports unmatched master-list destinations without claiming
+#      they are suspended.
 #
 # IMPORTANT:
-# Missing from the dropdown does NOT prove a destination is suspended.
+# Missing from the dropdown does NOT prove suspension.
 # ============================================================
 
 from __future__ import annotations
@@ -27,7 +30,7 @@ from pathlib import Path
 
 import pycountry
 import requests
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.sync_api import sync_playwright
 
 
 # ============================================================
@@ -43,6 +46,7 @@ OUTPUT_FILE = Path("output_korea.txt")
 
 BROWSER_TIMEOUT_MS = 20000
 INITIAL_PAGE_WAIT_MS = 2500
+TAB_WAIT_MS = 2500
 SEARCH_WAIT_MS = 900
 TRANSLATION_TIMEOUT_SECONDS = 20
 REQUEST_DELAY_SECONDS = 0.3
@@ -59,8 +63,7 @@ TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
 
 # ============================================================
-# 2. SUSPENSION WORDING
-# These terms indicate possible suspension, not a legal conclusion.
+# 2. POSSIBLE SUSPENSION WORDING
 # ============================================================
 
 SUSPENSION_TERMS = (
@@ -88,7 +91,7 @@ SUSPENSION_TERMS = (
 
 # ============================================================
 # 3. POSTCROSSING MASTER LIST
-# Original number and English name, entries 1–248.
+# Original numbers 1–248 are preserved.
 # ============================================================
 
 MASTER_LIST_TEXT = """
@@ -344,21 +347,21 @@ MASTER_LIST_TEXT = """
 
 
 def parse_master_list():
-    result = []
+    entries = []
 
     for line in MASTER_LIST_TEXT.splitlines():
         number, name = line.split("|", 1)
-        result.append((int(number), name.strip()))
+        entries.append((int(number), name.strip()))
 
-    expected = list(range(1, 249))
-    actual = [number for number, _ in result]
+    expected_numbers = list(range(1, 249))
+    actual_numbers = [number for number, _ in entries]
 
-    if actual != expected:
+    if actual_numbers != expected_numbers:
         raise ValueError(
-            "Master list validation failed: expected entries numbered 1–248."
+            "Master list validation failed. Expected entries 1–248."
         )
 
-    return result
+    return entries
 
 
 MASTER_LIST = parse_master_list()
@@ -473,6 +476,20 @@ def master_number(name: str):
     return MASTER_INDEX.get(canonical(name))
 
 
+def english_name(code: str, korean_name: str) -> str:
+    code = (code or "").strip().upper()
+
+    if code in CODE_NAME_OVERRIDES:
+        return CODE_NAME_OVERRIDES[code]
+
+    country = pycountry.countries.get(alpha_2=code)
+
+    if country:
+        return getattr(country, "common_name", country.name)
+
+    return translate_text(korean_name) or korean_name
+
+
 # ============================================================
 # 5. TRANSLATION
 # ============================================================
@@ -481,7 +498,7 @@ translation_cache = {}
 
 
 def translate_text(text: str):
-    """Translate Korean text to English. Return None on failure."""
+    """Translate Korean text to English; return None if unavailable."""
     text = re.sub(r"\s+", " ", text).strip()
 
     if not text:
@@ -490,7 +507,7 @@ def translate_text(text: str):
     if text in translation_cache:
         return translation_cache[text]
 
-    # Split very long text into smaller pieces.
+    # Split long notices into smaller translation requests.
     if len(text) > 3500:
         pieces = []
         remaining = text
@@ -559,33 +576,12 @@ def translate_text(text: str):
     return None
 
 
-def english_name(code: str, korean_name: str) -> str:
-    """Map a Korea Post country code to a master-list English name."""
-    code = (code or "").strip().upper()
-
-    if code in CODE_NAME_OVERRIDES:
-        return CODE_NAME_OVERRIDES[code]
-
-    country = pycountry.countries.get(alpha_2=code)
-
-    if country:
-        # Use the standard country name; aliases handle many differences.
-        return getattr(country, "common_name", country.name)
-
-    return translate_text(korean_name) or korean_name
-
-
 # ============================================================
 # 6. NETWORK DIAGNOSTICS
 # ============================================================
 
 def attach_network_diagnostics(page, network_events):
-    """
-    Log browser XHR/fetch requests and their responses.
-
-    These diagnostics help reveal whether the destination list is loaded
-    dynamically. They do not change requests or page behavior.
-    """
+    """Record browser XHR/fetch requests and their responses."""
 
     def on_request(request):
         if request.resource_type in ("xhr", "fetch"):
@@ -596,6 +592,7 @@ def attach_network_diagnostics(page, network_events):
                 "url": request.url,
             }
             network_events.append(event)
+
             print(
                 "[NETWORK REQUEST]",
                 request.resource_type,
@@ -607,10 +604,7 @@ def attach_network_diagnostics(page, network_events):
         request = response.request
 
         if request.resource_type in ("xhr", "fetch"):
-            try:
-                content_type = response.headers.get("content-type", "")
-            except Exception:
-                content_type = ""
+            content_type = response.headers.get("content-type", "")
 
             event = {
                 "kind": "response",
@@ -634,11 +628,124 @@ def attach_network_diagnostics(page, network_events):
 
 
 # ============================================================
-# 7. BROWSER HELPERS
+# 7. PAGE AND TAB DIAGNOSTICS
+# ============================================================
+
+def print_page_diagnostics(page, heading="PAGE DIAGNOSTICS"):
+    print(f"\n========== {heading} ==========")
+    print("Final URL:", page.url)
+    print("Page title:", page.title())
+
+    print("\nTabs and service labels:")
+
+    for label in ["국제소포", "국제통상"]:
+        locator = page.get_by_text(label, exact=True)
+        print(f"{label}: count={locator.count()}")
+
+        for index in range(locator.count()):
+            try:
+                item = locator.nth(index)
+                print(
+                    f"  [{index}]",
+                    "tag=", item.evaluate("(el) => el.tagName"),
+                    "id=", item.get_attribute("id"),
+                    "href=", item.get_attribute("href"),
+                    "title=", item.get_attribute("title"),
+                    "class=", item.get_attribute("class"),
+                    "aria-selected=",
+                    item.get_attribute("aria-selected"),
+                )
+            except Exception as exc:
+                print("  Could not inspect:", exc)
+
+    print("\nHidden fields related to service selection:")
+
+    try:
+        hidden_fields = page.locator(
+            "input[type='hidden'][name='frnMailDivcdTab'], "
+            "input[type='hidden'][name='frnTranspPartyDivcd']"
+        ).evaluate_all("""
+            elements => elements.map(el => ({
+                name: el.name,
+                value: el.value,
+                id: el.id
+            }))
+        """)
+        for field in hidden_fields:
+            print(" ", field)
+    except Exception as exc:
+        print("Could not inspect hidden fields:", exc)
+
+    print("\nAll select elements:")
+
+    selects = page.locator("select")
+
+    for index in range(selects.count()):
+        item = selects.nth(index)
+
+        try:
+            print({
+                "index": index,
+                "name": item.get_attribute("name"),
+                "title": item.get_attribute("title"),
+                "id": item.get_attribute("id"),
+                "options": item.locator("option").count(),
+                "visible": item.is_visible(),
+            })
+        except Exception as exc:
+            print(f"Select {index} inspection failed:", exc)
+
+    print("======================================\n")
+
+
+def activate_international_letter_tab(page):
+    """
+    Click the JavaScript-controlled 국제통상 tab.
+
+    The supplied HTML showed:
+        <a id="go_emsP" href="#" title="국제통상">국제통상</a>
+
+    Clicking is intentional because href='#' does not navigate to a
+    separate service URL by itself.
+    """
+    tab = page.locator("a#go_emsP")
+
+    if tab.count() != 1:
+        raise RuntimeError(
+            "Expected exactly one a#go_emsP International Letter Post tab; "
+            f"found {tab.count()}."
+        )
+
+    print("Activating 국제통상 using a#go_emsP ...")
+
+    try:
+        tab.click(timeout=BROWSER_TIMEOUT_MS)
+    except Exception as exc:
+        raise RuntimeError(
+            f"Could not click the 국제통상 tab: {exc}"
+        ) from exc
+
+    # The tab may update the page with JavaScript or trigger a navigation.
+    try:
+        page.wait_for_load_state(
+            "domcontentloaded",
+            timeout=4000,
+        )
+    except Exception:
+        # A JavaScript-only update does not necessarily navigate.
+        pass
+
+    page.wait_for_timeout(TAB_WAIT_MS)
+
+    print("URL after clicking 국제통상:", page.url)
+    print("Title after clicking 국제통상:", page.title())
+
+
+# ============================================================
+# 8. DESTINATION DROPDOWN
 # ============================================================
 
 def select_destination_dropdown(page):
-    """Find the destination dropdown, normally select[name='nation'].""" 
     selectors = [
         "select[name='nation'][title='도착국']",
         "select[title='도착국']",
@@ -651,7 +758,7 @@ def select_destination_dropdown(page):
         if locator.count() == 1 and locator.is_visible():
             return locator
 
-    # Fallback: inspect all visible select elements.
+    # Fallback: search visible select elements.
     selects = page.locator("select")
 
     for index in range(selects.count()):
@@ -661,10 +768,13 @@ def select_destination_dropdown(page):
             if not candidate.is_visible():
                 continue
 
-            details = candidate.evaluate(
-                "(el) => `${el.name || ''} ${el.id || ''} "
-                "${el.title || ''}`.toLowerCase()"
-            )
+            details = candidate.evaluate("""
+                el => [
+                    el.name || '',
+                    el.id || '',
+                    el.title || ''
+                ].join(' ').toLowerCase()
+            """)
 
             if any(
                 word in details
@@ -676,89 +786,70 @@ def select_destination_dropdown(page):
             continue
 
     raise RuntimeError(
-        "Could not find the destination dropdown. "
-        "Korea Post may have changed the page."
+        "Could not find the destination dropdown."
     )
 
 
 def read_dropdown_options(page):
-    """
-    Read destination options from the live dropdown.
-    Placeholder entries are excluded.
-    """
-    selectors = [
-        "select[name='nation'][title='도착국']",
-        "select[title='도착국']",
-        "select[name='nation']",
-    ]
+    """Read the current dropdown options, excluding placeholders."""
+    dropdown = select_destination_dropdown(page)
 
-    for selector in selectors:
-        dropdown = page.locator(selector)
+    options = dropdown.locator("option").evaluate_all("""
+        elements => elements.map(option => ({
+            value: (option.value || '').trim(),
+            text: (option.textContent || '').trim(),
+            selected: option.selected
+        }))
+    """)
 
-        if dropdown.count() != 1:
+    destinations = []
+
+    placeholders = {
+        "선택",
+        "선택하세요",
+        "도착국 선택",
+        "국가 선택",
+        "전체",
+    }
+
+    for option in options:
+        value = option["value"]
+        text = option["text"]
+
+        if not value or not text:
             continue
 
-        options = dropdown.locator("option").evaluate_all("""
-            elements => elements.map(option => ({
-                value: (option.value || "").trim(),
-                text: (option.textContent || "").trim(),
-                selected: option.selected
-            }))
-        """)
+        if text in placeholders:
+            continue
 
-        destinations = []
+        destinations.append({
+            "value": value,
+            "text": text,
+        })
 
-        placeholders = {
-            "선택",
-            "선택하세요",
-            "도착국 선택",
-            "국가 선택",
-            "전체",
-        }
+    print("\n========== DROPDOWN RESULTS ==========")
+    print("Dropdown selector:", "select[name='nation'][title='도착국']")
+    print("Raw option count:", len(options))
+    print("Destination dropdown count:", len(destinations))
 
-        for option in options:
-            value = option["value"]
-            text = option["text"]
+    print("\nAll current destination options:")
+    for index, option in enumerate(destinations, start=1):
+        print(
+            f"  {index}. value={option['value']!r}, "
+            f"text={option['text']!r}"
+        )
 
-            if not value or not text:
-                continue
+    print("======================================\n")
 
-            if text in placeholders:
-                continue
+    return destinations
 
-            destinations.append({
-                "value": value,
-                "text": text,
-            })
 
-        print(f"Dropdown selector used: {selector}")
-        print(f"Raw option count: {len(options)}")
-        print(f"Destination option count: {len(destinations)}")
-
-        print("First 10 destinations:")
-        for item in destinations[:10]:
-            print(
-                f"  value={item['value']!r}, "
-                f"text={item['text']!r}"
-            )
-
-        print("Last 10 destinations:")
-        for item in destinations[-10:]:
-            print(
-                f"  value={item['value']!r}, "
-                f"text={item['text']!r}"
-            )
-
-        return destinations
-
-    raise RuntimeError(
-        "Could not identify the destination dropdown "
-        "(select[name='nation'][title='도착국'])."
-    )
-
+# ============================================================
+# 9. SEARCH AND URGENT NOTICE EXTRACTION
+# ============================================================
 
 def click_search(page):
-    """Click the Korea Post search control."""
+    """Click the visible 검색 control."""
     try:
         button = page.get_by_text("검색", exact=True).first
 
@@ -767,10 +858,10 @@ def click_search(page):
             page.wait_for_timeout(SEARCH_WAIT_MS)
             return
 
-    except (PlaywrightTimeoutError, Exception):
+    except Exception:
         pass
 
-    # Fallback for buttons, links, inputs, or image-based controls.
+    # Fallback for button, link, input, or image-based controls.
     clicked = page.evaluate("""
         () => {
             const nodes = [
@@ -814,7 +905,7 @@ def extract_urgent_notice(page) -> str:
     Extract only the text between 긴급공지 and 주요안내사항.
 
     If either boundary is missing, return an empty string rather than
-    risk accidentally including 주요안내사항.
+    risk including text from 주요안내사항.
     """
     body_text = page.locator("body").inner_text(timeout=10000)
 
@@ -833,18 +924,12 @@ def extract_urgent_notice(page) -> str:
         return ""
 
     section = body_text[start:end]
+
     lines = [
         line.strip()
         for line in section.splitlines()
         if line.strip()
     ]
-
-    # Remove standalone headings and UI labels.
-    while lines and lines[0] in {
-        "국가별 공통사항",
-        "국가별공통사항",
-    }:
-        lines.pop(0)
 
     ignored = {
         "초기화",
@@ -852,6 +937,8 @@ def extract_urgent_notice(page) -> str:
         "닫기",
         "검색",
         "도착국",
+        "국가별 공통사항",
+        "국가별공통사항",
     }
 
     lines = [
@@ -866,54 +953,8 @@ def is_suspension_notice(text: str) -> bool:
     return any(term in text for term in SUSPENSION_TERMS)
 
 
-def print_page_diagnostics(page):
-    """Print page, tab, and select-element information."""
-    print("\n========== PAGE DIAGNOSTICS ==========")
-    print("Final URL:", page.url)
-    print("Page title:", page.title())
-
-    print("\nTabs and service labels:")
-
-    for label in ["국제소포", "국제통상"]:
-        locator = page.get_by_text(label, exact=True)
-        print(f"{label}: count={locator.count()}")
-
-        for index in range(locator.count()):
-            try:
-                item = locator.nth(index)
-                print(
-                    f"  [{index}]",
-                    "tag=", item.evaluate("(el) => el.tagName"),
-                    "class=", item.get_attribute("class"),
-                    "aria-selected=", item.get_attribute("aria-selected"),
-                )
-            except Exception as exc:
-                print("  Could not inspect:", exc)
-
-    print("\nAll select elements:")
-
-    selects = page.locator("select")
-
-    for index in range(selects.count()):
-        item = selects.nth(index)
-
-        try:
-            print({
-                "index": index,
-                "name": item.get_attribute("name"),
-                "title": item.get_attribute("title"),
-                "id": item.get_attribute("id"),
-                "options": item.locator("option").count(),
-                "visible": item.is_visible(),
-            })
-        except Exception as exc:
-            print(f"  Select {index} inspection failed: {exc}")
-
-    print("======================================\n")
-
-
 # ============================================================
-# 8. REPORT HELPERS
+# 10. REPORT GENERATION
 # ============================================================
 
 def format_destination_line(record):
@@ -924,12 +965,18 @@ def format_destination_line(record):
     )
 
     return (
-        f"{number} | {record['korean']} | "
-        f"{record['english']} | code={record['code']}"
+        f"{number} | {record['korean']} | {record['english']} | "
+        f"code={record['code']}"
     )
 
 
-def build_report(timestamp, destination_records, missing, errors, network_events):
+def build_report(
+    timestamp,
+    destination_records,
+    missing,
+    errors,
+    network_events,
+):
     lines = [
         "KOREA POST INTERNATIONAL LETTER POST MONITOR",
         f"Generated: {timestamp}",
@@ -959,7 +1006,10 @@ def build_report(timestamp, destination_records, missing, errors, network_events
 
         lines.append("")
 
-    # Possible suspensions are separated from unlisted destinations.
+    # --------------------------------------------------------
+    # A. Potential suspension indicators
+    # --------------------------------------------------------
+
     lines.extend([
         "",
         "A. URGENT NOTICES WITH POSSIBLE SUSPENSION WORDING",
@@ -988,16 +1038,23 @@ def build_report(timestamp, destination_records, missing, errors, network_events
             )
 
             lines.append(
-                f"{number} | {record['korean']} | {record['english']} | "
-                f"code={record['code']} | urgent notice contains "
-                "possible suspension wording"
+                f"{number} | {record['korean']} | "
+                f"{record['english']} | code={record['code']}"
             )
+
             if record["notice_ko"]:
                 lines.append(f"  Korean: {record['notice_ko']}")
+
             if record["notice_en"]:
                 lines.append(f"  English: {record['notice_en']}")
     else:
-        lines.append("No urgent notices matched the configured terms.")
+        lines.append(
+            "No urgent notices matched the configured suspension terms."
+        )
+
+    # --------------------------------------------------------
+    # B. Master-list destinations not matched
+    # --------------------------------------------------------
 
     lines.extend([
         "",
@@ -1014,6 +1071,10 @@ def build_report(timestamp, destination_records, missing, errors, network_events
     else:
         lines.append("All master-list destinations matched.")
 
+    # --------------------------------------------------------
+    # C. Data-quality summary
+    # --------------------------------------------------------
+
     lines.extend([
         "",
         "IMPORTANT INTERPRETATION",
@@ -1021,8 +1082,8 @@ def build_report(timestamp, destination_records, missing, errors, network_events
         "A destination absent from the observed dropdown is not confirmed "
         "suspended by that fact alone.",
         "Suspension wording is a candidate indicator and should be checked "
-        "against the full official notice and applicable service rules.",
-        "This report extracts only 긴급공지. It intentionally excludes "
+        "against the complete official notice.",
+        "This report extracts only 긴급공지 and intentionally excludes "
         "주요안내사항.",
         "",
         "DATA-QUALITY SUMMARY",
@@ -1038,9 +1099,9 @@ def build_report(timestamp, destination_records, missing, errors, network_events
         lines.extend([
             "",
             "WARNING: FEWER THAN 100 LIVE DROPDOWN DESTINATIONS",
-            "The observed dropdown may be incomplete, may be in a different "
-            "page state, or may be populated dynamically.",
-            "Do not treat the unmatched master-list destinations as confirmed "
+            "The observed dropdown may be incomplete, may be in the wrong "
+            "service state, or may be populated dynamically.",
+            "Do not treat unmatched master-list destinations as confirmed "
             "suspensions.",
         ])
 
@@ -1052,11 +1113,15 @@ def build_report(timestamp, destination_records, missing, errors, network_events
         ])
         lines.extend(f"- {error}" for error in errors)
 
+    # --------------------------------------------------------
+    # D. Network diagnostics
+    # --------------------------------------------------------
+
     lines.extend([
         "",
         "BROWSER NETWORK DIAGNOSTICS",
         "=" * 60,
-        "XHR/fetch requests and responses observed during this run:",
+        "XHR/fetch requests and responses captured during this run:",
     ])
 
     if network_events:
@@ -1075,8 +1140,8 @@ def build_report(timestamp, destination_records, missing, errors, network_events
                 )
     else:
         lines.append(
-            "No XHR/fetch events were captured. The page may use other "
-            "resource types or load its options in the initial HTML."
+            "No XHR/fetch events were captured. The page may use another "
+            "resource type or include options in its initial HTML."
         )
 
     lines.extend([
@@ -1088,11 +1153,13 @@ def build_report(timestamp, destination_records, missing, errors, network_events
 
 
 # ============================================================
-# 9. MAIN
+# 11. MAIN
 # ============================================================
 
 def main():
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    timestamp = datetime.now(timezone.utc).strftime(
+        "%Y-%m-%d %H:%M UTC"
+    )
 
     destination_records = []
     errors = []
@@ -1107,10 +1174,12 @@ def main():
         )
         page.set_default_timeout(BROWSER_TIMEOUT_MS)
 
+        # Attach listeners before navigation and tab activation.
         attach_network_diagnostics(page, network_events)
 
         try:
-            print(f"Opening: {PAGE_URL}")
+            print("Opening Korea Post page:")
+            print(PAGE_URL)
 
             page.goto(
                 PAGE_URL,
@@ -1119,36 +1188,56 @@ def main():
             )
 
             page.wait_for_timeout(INITIAL_PAGE_WAIT_MS)
-            print_page_diagnostics(page)
 
-            # Do not click the 국제통상 label automatically.
-            # The URL already requests that tab; clicking it may alter
-            # the page state or switch to a different service.
+            print_page_diagnostics(
+                page,
+                heading="PAGE DIAGNOSTICS BEFORE TAB CLICK",
+            )
 
+            # ------------------------------------------------
+            # CRITICAL UPDATE:
+            # Explicitly activate the JavaScript-controlled tab.
+            # ------------------------------------------------
+
+            activate_international_letter_tab(page)
+
+            print_page_diagnostics(
+                page,
+                heading="PAGE DIAGNOSTICS AFTER TAB CLICK",
+            )
+
+            # Read the dropdown only after clicking 국제통상.
             options = read_dropdown_options(page)
 
-            print("Dropdown destinations found:", len(options))
+            print(
+                "Destination dropdown count after tab click:",
+                len(options),
+            )
 
             if len(options) < 100:
                 print(
-                    "WARNING: The live dropdown has fewer than 100 "
-                    "destinations. This does not establish that the other "
-                    "destinations are suspended."
+                    "WARNING: Fewer than 100 destinations are available "
+                    "after clicking 국제통상. The missing destinations "
+                    "will NOT be classified as confirmed suspensions."
                 )
 
-            # Snapshot the live dropdown before changing the selection.
+            # -----------------------------------------------
+            # Process each destination visible in the dropdown
+            # -----------------------------------------------
+
             for index, option in enumerate(options, start=1):
                 code = option["value"]
                 korean_name = option["text"]
 
                 print(
                     f"[{index}/{len(options)}] "
-                    f"Selecting {korean_name} ({code})"
+                    f"Checking {korean_name} ({code})"
                 )
 
                 try:
                     dropdown = select_destination_dropdown(page)
                     dropdown.select_option(value=code)
+
                     click_search(page)
 
                     notice_ko = extract_urgent_notice(page)
@@ -1187,7 +1276,7 @@ def main():
             browser.close()
 
     # ========================================================
-    # 10. FIND MASTER-LIST DESTINATIONS NOT MATCHED
+    # 12. FIND UNMATCHED MASTER-LIST DESTINATIONS
     # ========================================================
 
     found_numbers = {
@@ -1203,7 +1292,7 @@ def main():
     ]
 
     # ========================================================
-    # 11. WRITE REPORT
+    # 13. WRITE REPORT
     # ========================================================
 
     report = build_report(
@@ -1220,15 +1309,14 @@ def main():
     print("Report written to:", OUTPUT_FILE.resolve())
     print("Destinations processed:", len(destination_records))
     print("Master-list destinations not matched:", len(missing))
-    print("Destination errors:", len(errors))
+    print("Destination processing errors:", len(errors))
     print("Network events captured:", len(network_events))
     print("=================================\n")
 
-    # Fail the workflow if no destinations could be processed.
     if not destination_records:
         raise RuntimeError(
             "No destinations were processed. Check the GitHub Actions log "
-            "and the browser diagnostics in this run."
+            "and output_korea.txt for browser diagnostics."
         )
 
 
