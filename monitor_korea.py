@@ -753,6 +753,11 @@ def main():
 
             # Read the full dropdown before iterating. Do not filter by notice.
             options = read_dropdown_options(page)
+            if len(options) < 100:
+                raise RuntimeError(
+                    f"Only {len(options)} destinations were read. "
+                    "Refusing to generate a potentially incorrect report."
+                )
             print("Raw dropdown option count:",
                   page.locator("select[name='nation'] option").count())
             print("First 10 options:",
