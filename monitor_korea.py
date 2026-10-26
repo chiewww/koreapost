@@ -32,7 +32,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 
 PAGE_URL = (
     "https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal"
-    "?frnMailDivcdTab=2&frnTranspPartyDivcd=2"
+    "?frnMailDivcdTab=1&frnTranspPartyDivcd=2"
 )
 
 OUTPUT_FILE = Path("output_korea.txt")
