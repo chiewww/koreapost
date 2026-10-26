@@ -873,12 +873,7 @@ def main():
         try:
             print(f"Opening: {PAGE_URL}")
             
-def log_request(request):
-    if request.resource_type in ("xhr", "fetch"):
-        print(
-            f"[NETWORK REQUEST] {request.resource_type}: "
-            f"{request.method} {request.url}"
-        )
+
 
 page.on("request", log_request)
 
