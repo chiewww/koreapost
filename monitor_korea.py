@@ -747,7 +747,38 @@ def main():
             print(f"Opening: {PAGE_URL}")
             page.goto(PAGE_URL, wait_until="domcontentloaded")
             page.wait_for_timeout(2000)
+            
+            print("\n========== PAGE DIAGNOSTICS ==========")
+            print("Final URL:", page.url)
+            print("Page title:", page.title())
 
+            print("\nTabs and service labels:")
+            for label in ["국제소포", "국제통상"]:
+                locator = page.get_by_text(label, exact=True)
+                print(f"{label}: count={locator.count()}")
+                for i in range(locator.count()):
+                    try:
+                        print(
+                            f"  [{i}]",
+                            locator.nth(i).get_attribute("class"),
+                            locator.nth(i).get_attribute("aria-selected"),
+                        )
+                    except Exception as exc:
+                        print("  Could not inspect:", exc)
+
+            print("\nAll select elements:")
+            for i in range(page.locator("select").count()):
+                item = page.locator("select").nth(i)
+                print({
+                    "index": i,
+                    "name": item.get_attribute("name"),
+                    "title": item.get_attribute("title"),
+                    "id": item.get_attribute("id"),
+                    "options": item.locator("option").count(),
+                })
+
+            print("======================================\n")
+            
             # The URL already specifies the International Letter Post tab.
             # Do not click the tab again; doing so may change the page state.
 
