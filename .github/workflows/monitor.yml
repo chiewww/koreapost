@@ -5,7 +5,6 @@ on:
   schedule:
     # Daily at 06:15 UTC
     - cron: "15 6 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -18,14 +17,12 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
-      # 1. Check out the repository
       - name: Check out repository
         uses: actions/checkout@v5
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -33,18 +30,28 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.txt
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Run the monitor
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
       - name: Generate Korea Post report
         run: python monitor_korea.py
 
-      # 5. Commit the report only when it changes
+      - name: Upload report as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: output-korea
+          path: output_korea.txt
+          if-no-files-found: warn
+          retention-days: 30
+
       - name: Commit updated report
+        if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
