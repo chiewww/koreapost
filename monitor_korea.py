@@ -888,6 +888,21 @@ page.on("request", log_request)
             )
 
             page.wait_for_timeout(2000)
+            print("\n========== TAB HTML ==========")
+
+            for i, element in enumerate(
+                page.locator("a, button, label, input, [role='tab']").all()
+            ):
+                try:
+                    text = element.inner_text(timeout=500).strip()
+                    if "국제소포" in text or "국제통상" in text:
+                        print(f"\n--- Tab candidate {i}: {text!r} ---")
+                        print(element.evaluate("(el) => el.outerHTML"))
+                except Exception:
+                    pass
+
+            print("\n========== END TAB HTML ==========\n")
+
             html = page.locator(
                 "select[name='nation'][title='도착국']"
             ).evaluate("(el) => el.outerHTML")
