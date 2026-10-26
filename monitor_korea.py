@@ -727,6 +727,12 @@ def main():
 
             # Read the full dropdown before iterating. Do not filter by notice.
             options = read_dropdown_options(page)
+            print("Raw dropdown option count:",
+                  page.locator("select[name='nation'] option").count())
+            print("First 10 options:",
+                  page.locator("select[name='nation'] option").all_text_contents()[:10])
+            print("Last 10 options:",
+                  page.locator("select[name='nation'] option").all_text_contents()[-10:])
             print(f"Dropdown destinations found: {len(options)}")
 
             for index, (code, korean_name) in enumerate(options, start=1):
