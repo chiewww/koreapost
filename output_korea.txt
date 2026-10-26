@@ -1,1916 +1,2631 @@
-========================================================================
-KOREA POST — INTERNATIONAL LETTER POST MONITOR
-========================================================================
-Source: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal?frnMailDivcdTab=1&frnTranspPartyDivcd=2
-Generated (UTC): 2026-10-26 05:16:27
+KOREA POST INTERNATIONAL LETTER POST MONITOR
+================================================================
+Generated: 2026-10-26 05:28:36 UTC
+Page: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal?frnMailDivcdTab=1&frnTranspPartyDivcd=2
+HTTP status: 200
+Master Postcrossing destinations: 248
+Live dropdown destinations: 27
+Urgent/notice blocks detected on main page: 3
 
-SUMMARY
-------------------------------------------------------------------------
-Master-list destinations: 248
-Destinations found in dropdown: 27
-Matched to master list: 27
-Unmatched dropdown destinations: 0
-Master-list destinations missing from dropdown: 221
-Destinations with suspension indicators in notices: 5
-Total unique suspended destinations: 226
+IMPORTANT INTERPRETATION
+----------------------------------------------------------------
+This report reflects the HTML returned by Korea Post when the
+script ran. A destination absent from the dropdown is listed
+as 'not listed / verify suspension'; absence alone does not
+confirm an official service suspension.
 
-NOTE: A missing dropdown entry is flagged as potentially suspended.
-A notice match is a keyword-based indicator and should be reviewed.
+The website may render additional information with JavaScript
+or require a form interaction that plain HTTP requests cannot
+reproduce. Review the extraction warnings below.
 
-========================================================================
-SECTION 1 — ALL DESTINATIONS IN THE DROPDOWN
-========================================================================
-
-[DESTINATION 1 of 27]
-Postcrossing No.: 205
-Korean name: 남아프리카공화국
-English name: South Africa
-Dropdown value: ZA
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 2 of 27]
-Postcrossing No.: 155
-Korean name: 네덜란드(네델란드)
-English name: Netherlands
-Dropdown value: NL
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 3 of 27]
-Postcrossing No.: 165
-Korean name: 노르웨이
-English name: Norway
-Dropdown value: NO
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 4 of 27]
-Postcrossing No.: 182
-Korean name: 러시아
-English name: Russia
-Dropdown value: RU
-Urgent notice (Korean): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
-o 러시아 K-Packet 접수  재개(2025.3.17.~)
-  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
-Urgent notice (English): [Translation unavailable] o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
-o 러시아 K-Packet 접수  재개(2025.3.17.~)
-  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
-------------------------------------------------------------------------
-[DESTINATION 5 of 27]
-Postcrossing No.: 133
-Korean name: 말레이시아
-English name: Malaysia
-Dropdown value: MY
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 6 of 27]
-Postcrossing No.: 235
-Korean name: 미국
-English name: U.S.A.
-Dropdown value: US
-Urgent notice (Korean): o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
- -  접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요)  반송 시 1개월 이상 소요.
-Urgent notice (English): [Translation unavailable] o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
- -  접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요)  반송 시 1개월 이상 소요.
-------------------------------------------------------------------------
-[DESTINATION 7 of 27]
-Postcrossing No.: 19
-Korean name: 방글라데시
-English name: Bangladesh
-Dropdown value: BD
-Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-------------------------------------------------------------------------
-[DESTINATION 8 of 27]
-Postcrossing No.: 241
-Korean name: 베트남
-English name: Vietnam
-Dropdown value: VN
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 9 of 27]
-Postcrossing No.: 31
-Korean name: 브라질
-English name: Brazil
-Dropdown value: BR
-Urgent notice (Korean): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
-
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-Urgent notice (English): [Translation unavailable] ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
-
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-------------------------------------------------------------------------
-[DESTINATION 10 of 27]
-Postcrossing No.: 213
-Korean name: 스웨덴
-English name: Sweden
-Dropdown value: SE
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 11 of 27]
-Postcrossing No.: 208
-Korean name: 스페인(에스파니아)
-English name: Spain
-Dropdown value: ES
-Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-------------------------------------------------------------------------
-[DESTINATION 12 of 27]
-Postcrossing No.: 199
-Korean name: 싱가포르
-English name: Singapore
-Dropdown value: SG
-Urgent notice (Korean): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
-o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
-o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
-Urgent notice (English): [Translation unavailable] o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
-o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
-o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
-------------------------------------------------------------------------
-[DESTINATION 13 of 27]
-Postcrossing No.: 105
-Korean name: 아일랜드
-English name: Ireland
-Dropdown value: IE
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 14 of 27]
-Postcrossing No.: 233
-Korean name: 영국
-English name: United Kingdom
-Dropdown value: GB
-Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-
-- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
-Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-
-- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
-------------------------------------------------------------------------
-[DESTINATION 15 of 27]
-Postcrossing No.: 14
-Korean name: 오스트레일리아(호주)
-English name: Australia
-Dropdown value: AU
-Urgent notice (Korean): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
-o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
-o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
-o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
-o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
-  - 대상 : 호주행 국제우편
-  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
-  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
-  - 사유 : 내용 물품으로 인한 질병 확산 방지
-Urgent notice (English): [Translation unavailable] o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
-o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
-o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
-o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
-o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
-o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
-  - 대상 : 호주행 국제우편
-  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
-  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
-  - 사유 : 내용 물품으로 인한 질병 확산 방지
-------------------------------------------------------------------------
-[DESTINATION 16 of 27]
-Postcrossing No.: 101
-Korean name: 인도
-English name: India
-Dropdown value: IN
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 17 of 27]
-Postcrossing No.: 102
-Korean name: 인도네시아
-English name: Indonesia
-Dropdown value: ID
-Urgent notice (Korean): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생  (우정사업본부 국제사업과, 2021.03.31.)
-
-ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
-Urgent notice (English): [Translation unavailable] ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생  (우정사업본부 국제사업과, 2021.03.31.)
-
-ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
-------------------------------------------------------------------------
-[DESTINATION 18 of 27]
-Postcrossing No.: 110
-Korean name: 일본
-English name: Japan
-Dropdown value: JP
-Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-------------------------------------------------------------------------
-[DESTINATION 19 of 27]
-Postcrossing No.: 45
-Korean name: 중국
-English name: China
-Dropdown value: CN
-Urgent notice (Korean): o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
-Urgent notice (English): [Translation unavailable] o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
-------------------------------------------------------------------------
-[DESTINATION 20 of 27]
-Postcrossing No.: 40
-Korean name: 캐나다
-English name: Canada
-Dropdown value: CA
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 21 of 27]
-Postcrossing No.: 219
-Korean name: 타이(태국)
-English name: Thailand
-Dropdown value: TH
-Urgent notice (Korean): ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-Urgent notice (English): [Translation unavailable] ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-------------------------------------------------------------------------
-[DESTINATION 22 of 27]
-Postcrossing No.: 216
-Korean name: 타이완(대만)
-English name: Taiwan
-Dropdown value: TW
-Urgent notice (Korean): ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터)
- - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
-Urgent notice (English): [Translation unavailable] ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터)
- - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
-------------------------------------------------------------------------
-[DESTINATION 23 of 27]
-Postcrossing No.: 176
-Korean name: 폴란드
-English name: Poland
-Dropdown value: PL
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 24 of 27]
-Postcrossing No.: 76
-Korean name: 프랑스
-English name: France
-Dropdown value: FR
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 25 of 27]
-Postcrossing No.: 75
-Korean name: 핀란드
-English name: Finland
-Dropdown value: FI
-Urgent notice (Korean): (none)
-Urgent notice (English): (none)
-------------------------------------------------------------------------
-[DESTINATION 26 of 27]
-Postcrossing No.: 174
-Korean name: 필리핀
-English name: Philippines
-Dropdown value: PH
-Urgent notice (Korean): .
-Urgent notice (English): .
-------------------------------------------------------------------------
-[DESTINATION 27 of 27]
-Postcrossing No.: 98
-Korean name: 홍콩(중국)
-English name: Hong Kong
-Dropdown value: HK
-Urgent notice (Korean): o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG) 
+1. DESTINATIONS IN THE LIVE DROPDOWN
+================================================================
+1. #205 | 남아프리카공화국 | South Africa | code=ZA
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 4 지역
+선편 4 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 60
+선편 60
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+2
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ전체 종적조회 가능 우편물(소형포장물, 등기우편물,EMS 및 소포)에 휴대전화번호 기재 요청
+ * 평균송달소요일수(선편) : 90~120일
+금지·제한품목
+ㅇ제한품목 : 여권 (단, 남아공 대사관으로 보내는 경우만 발송 가능)
+ㅇ액체를 포함한 우편물 발송금지
+ㅇ소포, 통상의 리튬배터리를 포함한 우편물 발송금지 (UPU회람-72, ‘18.5.28.)
+배달특이사항
+.
+세관·통관사항
+ㅇ면세한도: 400 ZAR (남아프리카공화국 랜드)
+ㅇ상업송장(Invoice) 작성: 반드시 영어로 기재, 가격도 USD로 표기, 기표지번호를 기재하면 통관이 순조로움. 
+ㅇInvoice 상에 수취인 연락처, 휴대폰번호, 이메일 주소 반드시 기재
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 4 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 4 지역
+선편 4 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 접수 시 주의사항
+ㅇ전체 종적조회 가능 우편물(소형포장물, 등기우편물,EMS 및 소포)에 휴대전화번호 기재 요청
+* 평균송달소요일수(선편) : 90~120일
+금지·제한품목
+ㅇ제한품목 : 여권 (단, 남아공 대사관으로 보내는 경우만 발송 가능)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ제한품목 : 여권 (단, 남아공 대사관으로 보내는 경우만 발송 가능)
+ㅇ액체를 포함한 우편물 발송금지
+ㅇ소포, 통상의 리튬배터리를 포함한 우편물 발송금지 (UPU회람-72, ‘18.5.28.)
+배달특이사항
+.
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+2. #155 | 네덜란드(네델란드) | Netherlands | code=NL
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+2
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생
+o 수취인명은 주소지 우편함/문패에 적혀있는 이름과 동일하게 기재(우편함/문패 에 수취인명이 없는경우 배달불가)
+금지·제한품목
+ㅇ금지품목 : 위험물, 산동물, 무기류, 가연성 필름, 복권류, 외설잡지, 페인트류, 성냥, Absinthe(술종류), 탄약, 모조우표, 모조 환증서, 상표 및 저작권 위반 물건, 본드, 환어음, 주식, 혈액, 화학제품, 음식물, 백지수표 및 서명 없는 여행자수표
+ㅇ수입제한품목 : 마약 및 환각제(보건부 허가), 식물, 감자, 과일, 씨앗(산지에서 발행된 항독위생처리필증), 꿀벌(수입허가서), 동물용 혈청 및 항생제(수입허가서), 의약품(미등록된 약들은 당국의 수입허가), 동물제품, 상아, 가죽, 산호 등(산지에서 발행된 수입허가), 육류 및 육류제품(산지에서 발행된 위생처리필증), 현금, 여행자수표, 보석류(백금, 금, 은 등)는 등기로 발송, 가공음식물(오직 캔류 및 진공포장(가공)5kg 미만, 술/담배류는 개인에게 가는 선물인경우만 수입허용(상업송장 기재)
+배달특이사항
+o 수취인명은 주소지 우편함/문패에 적혀있는 이름과 동일하게 기재(우편함/문패 에 수취인명이 없는경우 배달불가)
+세관·통관사항
+ㅇ수입세: 0~20%(평균 3~5%), VAT(0.6~17.5%)
+ㅇ소비세: 다양
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 접수 시 주의사항
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생
+o 수취인명은 주소지 우편함/문패에 적혀있는 이름과 동일하게 기재(우편함/문패 에 수취인명이 없는경우 배달불가)
+금지·제한품목
+ㅇ금지품목 : 위험물, 산동물, 무기류, 가연성 필름, 복권류, 외설잡지, 페인트류, 성냥, Absinthe(술종류), 탄약, 모조우표, 모조 환증서, 상표 및 저작권 위반 물건, 본드, 환어음, 주식, 혈액, 화학제품, 음식물, 백지수표 및 서명 없는 여행자수표
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+3. #165 | 노르웨이 | Norway | code=NO
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 21
+선편 21
+보험서장 취급지역
+항공 전국
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 350크로네 이하 물품에 대해 VOEC 번호(B2C만 해당) 입력(세금식별번호란)
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+금지·제한품목
+ㅇ금지품목: 육가공품, 담배, 동물부산물
+ㅇ의약품 반입 금지(반입 시 반송처리). 단, EU/EEA국가로부터의 반입은 3개월치의 분량내에서 허용
+배달특이사항
+세관·통관사항
+o 면세한도: 선물 1,000 NOK(노르웨이 크로네), 상품견본/상품 350 NOK(노르웨이 크로네)
+o 자국으로 저가상품(3,000NOK 이하) 발송 시 적용되는 세금 변경 안내
+o 350크로네 이하 물품에 대해 VOEC 번호(B2C만 해당) 입력(세금식별번호란)
+o 4.1일부 부가가치세 면제(350 NOK)하는 자국 부가세, 통관료, 소비세 폐지, 3,000 NOK 이하 상품 판매업체는 노르웨이에 부가가치세 등록 및 상품가에 VAT 추가시켜야함
+o 간소한 전자상거래 부가세 등록시스템인 VOEC 이용가능(www.skatteetaten.no/voec): 판매업체가 VOEC 규정에 따르지 않을 시 해당 판매업체로부터 노르웨이로 운송되는 우편물은 국경에서 관세 적용되며, 노르웨이우정은 만국우편협약 제20조에 따라 해당 우편물의 수취인에게 통관수수료를 부과하고 해당 우편물의 배달이 지연될 수 있음"
+* UPU 회람 2020-8 (20.02.14.)
+ㅇ음식물, 수입제한품목, 소비세 부과대상 물품으로 정의된 물품들에 대한 VAT 및 다른 간접세 면제가 '20.1.1.부로 폐지
+(상세내용 노르웨이 통관당국 홈페이지 참조)
+노르웨이 세관당국 홈페이지: www.skatteetaten.no/en/person/duties/purchases-from-abroad (or) www.skatteetaten.no/en/business-and-organisa
+tion/vat-and-duties/vat/foreign/exporting-goods-to-consumers-in-norway--important-changes.
+ㅇ3,000NOK이하 저단가 상품에 대한 현재의 면제규정도 '20.4.1.부로 폐지예정(미정)"
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 350크로네 이하 물품에 대해 VOEC 번호(B2C만 해당) 입력(세금식별번호란)
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+금지·제한품목
+ㅇ금지품목: 육가공품, 담배, 동물부산물
+ㅇ의약품 반입 금지(반입 시 반송처리). 단, EU/EEA국가로부터의 반입은 3개월치의 분량내에서 허용
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: o 4.1일부 부가가치세 면제(350 NOK)하는 자국 부가세, 통관료, 소비세 폐지, 3,000 NOK 이하 상품 판매업체는 노르웨이에 부가가치세 등록 및 상품가에 VAT 추가시켜야함
+o 간소한 전자상거래 부가세 등록시스템인 VOEC 이용가능(www.skatteetaten.no/voec): 판매업체가 VOEC 규정에 따르지 않을 시 해당 판매업체로부터 노르웨이로 운송되는 우편물은 국경에서 관세 적용되며, 노르웨이우정은 만국우편협약 제20조에 따라 해당 우편물의 수취인에게 통관수수료를 부과하고 해당 우편물의 배달이 지연될 수 있음"
+* UPU 회람 2020-8 (20.02.14.)
+ㅇ음식물, 수입제한품목, 소비세 부과대상 물품으로 정의된 물품들에 대한 VAT 및 다른 간접세 면제가 '20.1.1.부로 폐지
+(상세내용 노르웨이 통관당국 홈페이지 참조)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+4. #182 | 러시아 | Russia | code=RU
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+2
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+* (UPU 회람 2020-9)
+ㅇ개인 물품에 대한 관세부과(2020.1.1. 변경)
+-200유로 또는 31kg 초과하지 않을 경우 우편물은 세금 부과하지 않음
+-200유로 또는 31kg 초과 시 200유로 초과 가치의 15%, kg당 최소 2유로를 넘지 않음 (2020.2.14.)
+금지·제한품목
+ㅇ금지품목: 육가공품, 유제품, 동물부산물, 술, 예술품, 향수, 머니오더, 화폐, 수화물tag, 전자제품, 헌옷
+ㅇ제한품목: 음료수(Door to Airport, 수입허가서 필요)
+배달특이사항
+세관·통관사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수 재개(2025.3.17.~)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국가별 공통사항
+o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
+o 러시아 K-Packet 접수 재개(2025.3.17.~)
+* (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 러시아 K-Packet 접수 재개(2025.3.17.~)
+* (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+주요안내사항
+접수 시 주의사항
+* (UPU 회람 2020-9)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ개인 물품에 대한 관세부과(2020.1.1. 변경)
+200유로 또는 31kg 초과하지 않을 경우 우편물은 세금 부과하지 않음
+200유로 또는 31kg 초과 시 200유로 초과 가치의 15%, kg당 최소 2유로를 넘지 않음 (2020.2.14.)
+금지·제한품목
+ㅇ금지품목: 육가공품, 유제품, 동물부산물, 술, 예술품, 향수, 머니오더, 화폐, 수화물tag, 전자제품, 헌옷
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+5. #133 | 말레이시아 | Malaysia | code=MY
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+980(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+內
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 500링깃 이하 물품에 대해 LVG 등록번호(B2C만 해당) 입력(세금식별번호란)
+ㅇ보험서장: Papeet RP; Papeete CMP지역에 한함
 ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-Urgent notice (English): [Translation unavailable] o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG) 
+금지·제한품목
+ㅇ금지품목 : 현행 화폐가 새겨진 물건, 산호(보석류 제외), 거북알, 외설잡지, 칼날이 나오는 칼, 코란을 새긴 옷감, 조개알, 안전모, 비디오 카메라, 비디오게임, 양배추, 바틱천, 쌀류, 단색 복사기, 옥외 안테나, 국내용 전자장치, 전파통신장치, 설탕, 조가비, 모든 종류의 광석, 골동품, 야자수, 우유및 우유제품, 섬유, 군용 의류 및 기기, 철, 강철등 고철, 지붕타일
+배달특이사항
+세관·통관사항
+o 500링깃 이하 물품에 대해 LVG 등록번호(B2C만 해당) 입력(세금식별번호란)
+ㅇ면세한도: 500 MYR(말레이시아 링깃) 이하
+ㅇ개인용 우편수입한도액: 200 MYR(말레이시아 링깃)까지
+ㅇ관세 및 수수료(수입세: 5 ~ 30 %, 판매세: 5 ~ 15 %)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ보험서장: Papeet RP; Papeete CMP지역에 한함
 ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
-------------------------------------------------------------------------
-
-========================================================================
-SECTION 2 — SUSPENDED DESTINATIONS (226 TOTAL)
-========================================================================
-
-Postcrossing No.: 1
-Korean name: (not present in dropdown)
-English name: Afghanistan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 2
-Korean name: (not present in dropdown)
-English name: Åland Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 3
-Korean name: (not present in dropdown)
-English name: Albania
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 4
-Korean name: (not present in dropdown)
-English name: Algeria
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 5
-Korean name: (not present in dropdown)
-English name: American Samoa
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 6
-Korean name: (not present in dropdown)
-English name: Andorra
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 7
-Korean name: (not present in dropdown)
-English name: Angola
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 8
-Korean name: (not present in dropdown)
-English name: Anguilla
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 9
-Korean name: (not present in dropdown)
-English name: Antarctica
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 10
-Korean name: (not present in dropdown)
-English name: Antigua & Barbuda
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 11
-Korean name: (not present in dropdown)
-English name: Argentina
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 12
-Korean name: (not present in dropdown)
-English name: Armenia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 13
-Korean name: (not present in dropdown)
-English name: Aruba
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 14
-Korean name: 오스트레일리아(호주)
-English name: Australia
-Reason: Urgent notice indicates possible service suspension
-Urgent notice (Korean): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+금지·제한품목
+ㅇ금지품목 : 현행 화폐가 새겨진 물건, 산호(보석류 제외), 거북알, 외설잡지, 칼날이 나오는 칼, 코란을 새긴 옷감, 조개알, 안전모, 비디오 카메라, 비디오게임, 양배추, 바틱천, 쌀류, 단색 복사기, 옥외 안테나, 국내용 전자장치, 전파통신장치, 설탕, 조가비, 모든 종류의 광석, 골동품, 야자수, 우유및 우유제품, 섬유, 군용 의류 및 기기, 철, 강철등 고철, 지붕타일
+배달특이사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+6. #235 | 미국 | U.S.A. | code=US
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+소형포장물 미국
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ평균송달소요일수(선편) : 50~70일
+ㅇ우편낭배달인쇄물 등기취급 불가
+ㅇ주소변경, 반환요청 불가
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(앞 5자리)
+ - 공백 포함, 전체 우편번호 직접 입력 가능 (7자리/9자리, 99999 99, 99999 9999)
+금지·제한품목
+ㅇ금지품목 : 음식물, 육가공품(햄, 레토르트 식품), 라면(스프 포함) 등, 담배 및 담배상품(종류불문), 위험한 물건, 복권 및 복권관련 광고, 종자류, 건초 , 식용유(참기름, 올리브유 등), 모조품 등
+ㅇ제한품목 : 의약품(양약, 한약, 영양제등), 건강보조제, 건강식품(홍삼, 인삼등)비알콜음료, 혈액(Airfreight mode)
+ㅇ개별 진공포장된 한약은 나무포장하여 발송가능하며 송장상에 Health Drink로 표기
+ㅇ복권 취급불가
+ㅇ담배류는 어떤 형태든 발송 불가
+배달특이사항
+o 우편번호, 아파트 호수, STE# 미기재, 오기재 시 배달 지연되거나 사전통보 없이 반송될 수 있음(반송 시 1개월 이상 소요)
+o 시한성 서류(개인정보/보안/공증 관련 등)는 주소지가 학교, 아파트, 기숙사, 관공서인 경우 메일룸이나 오피스에서 대리수령(대리수령인과 수취인의 관계 증명 불가
+o 수취인 이름이 주소지 우편함/문패에 동일하게 기재되지 않을시 배달불가
+세관·통관사항
+ㅇ전자제품의 경우, 수취인이 FCC 740 Form 제출해야 함
+ㅇ인삼류는 건삼의 경우 소량 발송 가능
+ㅇ 주류는 수취인이 캘리포니아 주류 수입허가서를 제출해야만 통관 가능
+ㅇ의료기구에 해당되는 물품은 현지 세관으로 아래사항을 확인해줘야 함. 제조 원산지, 제조자의 정확한 이름과 주소, 제조회사의 의료기기 등록번호, 의료기기 제품 등록번호, 510K(의료기기 관련 서류 양식)
+ㅇ면세한도 : 100USD
+ㅇ통관허용한도 : 2,000$까지
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
+접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국가별 공통사항
+o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.)
+접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
 o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
-o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
-o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
-o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
-o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
-  - 대상 : 호주행 국제우편
-  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
-  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
-  - 사유 : 내용 물품으로 인한 질병 확산 방지
-Urgent notice (English): [Translation unavailable] o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요) 반송 시 1개월 이상 소요.
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄
 o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 
-o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
-o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
-o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) 
-o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
-  - 대상 : 호주행 국제우편
-  - 대상품목 : 동물을 재료로 사용한 반려동물 음식
-  - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분
-  - 사유 : 내용 물품으로 인한 질병 확산 방지
-------------------------------------------------------------------------
-Postcrossing No.: 15
-Korean name: (not present in dropdown)
-English name: Austria
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 16
-Korean name: (not present in dropdown)
-English name: Azerbaijan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 17
-Korean name: (not present in dropdown)
-English name: Bahamas
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 18
-Korean name: (not present in dropdown)
-English name: Bahrain
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 20
-Korean name: (not present in dropdown)
-English name: Barbados
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 21
-Korean name: (not present in dropdown)
-English name: Belarus
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 22
-Korean name: (not present in dropdown)
-English name: Belgium
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 23
-Korean name: (not present in dropdown)
-English name: Belize
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 24
-Korean name: (not present in dropdown)
-English name: Benin
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 25
-Korean name: (not present in dropdown)
-English name: Bermuda
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 26
-Korean name: (not present in dropdown)
-English name: Bhutan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 27
-Korean name: (not present in dropdown)
-English name: Bolivia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 28
-Korean name: (not present in dropdown)
-English name: Bonaire, Sint Eustatius and Saba
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 29
-Korean name: (not present in dropdown)
-English name: Bosnia-Herzegovina
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 30
-Korean name: (not present in dropdown)
-English name: Botswana
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 31
-Korean name: 브라질
-English name: Brazil
-Reason: Urgent notice indicates possible service suspension
-Urgent notice (Korean): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
-
+o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요) 반송 시 1개월 이상 소요.
+주요안내사항
+접수 시 주의사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 배달특이사항
+o 우편번호, 아파트 호수, STE# 미기재, 오기재 시 배달 지연되거나 사전통보 없이 반송될 수 있음(반송 시 1개월 이상 소요)
+o 시한성 서류(개인정보/보안/공증 관련 등)는 주소지가 학교, 아파트, 기숙사, 관공서인 경우 메일룸이나 오피스에서 대리수령(대리수령인과 수취인의 관계 증명 불가
+o 수취인 이름이 주소지 우편함/문패에 동일하게 기재되지 않을시 배달불가
+세관·통관사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+7. #19 | 방글라데시 | Bangladesh | code=BD
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 적용지역에한함
+선편 적용지역에한함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+30(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+8. #241 | 베트남 | Vietnam | code=VN
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 60
+선편 60
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+0
+세관신고서매수
+4
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ 평균송달소요일수(선편) : 70~90일
+ㅇ 선적서류, 입학서류, 결혼서류는 EMS프리미엄으로 접수
+ㅇ 미통관 우편물의 세관 반송시 장기간 소요
+ㅇ 우편번호 검색 기능은 배달 예상소요일 기준의 우편번호 단위로(6자리) 검색되므로 개편된 우편번호(5자리)를 사용하시려면 직접 입력해 주시기 바랍니다.
+금지·제한품목
+ㅇ금지품목: 전자제품, 담배, 건어물, 육가공품, 혈액, 본드, 송금수표(money order), 주식, 신용카드, 처방약품, 미술품, 정치적인쇄물, 신문, 담배,캔 이외의 음식물, 연하장, 마이크로필름/카드, 라벨, 초대장, 보석, 잡지, 지도, 개인서신(서류발송 시 항공우편봉투에 넣지 말것), 중고물품(used goods)
+ㅇ제한품목
+-신문, 잡지, 비디오테이프, 컴퓨터 디스켓 등은 문화국의 검색을 받은 후 통관됨
+-동전, 은행권, 수표, 유가증권, 금,은, 보석류, 기타 귀중품이 들어있는 우편물 접수금지
+-휴대전화, 화장품, 주류는 중과세(또는 벌금), 폐기 및 압류될 수 있음
+배달특이사항
+세관·통관사항
+ㅇ세관 규정 강화로 배달지연 발생이 빈번함(세관계류 시 1주~3주 소요, 서류도 통관함)
+ㅇ면세한도: 선물 100만 VND(베트남 동)
+ ( 베트남 관세청 안내사이트 www.customs.gov.vn )
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ 선적서류, 입학서류, 결혼서류는 EMS프리미엄으로 접수
+ㅇ 미통관 우편물의 세관 반송시 장기간 소요
+ㅇ 우편번호 검색 기능은 배달 예상소요일 기준의 우편번호 단위로(6자리) 검색되므로 개편된 우편번호(5자리)를 사용하시려면 직접 입력해 주시기 바랍니다.
+금지·제한품목
+ㅇ금지품목: 전자제품, 담배, 건어물, 육가공품, 혈액, 본드, 송금수표(money order), 주식, 신용카드, 처방약품, 미술품, 정치적인쇄물, 신문, 담배,캔 이외의 음식물, 연하장, 마이크로필름/카드, 라벨, 초대장, 보석, 잡지, 지도, 개인서신(서류발송 시 항공우편봉투에 넣지 말것), 중고물품(used goods)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 세관·통관사항
+ㅇ세관 규정 강화로 배달지연 발생이 빈번함(세관계류 시 1주~3주 소요, 서류도 통관함)
+ㅇ면세한도: 선물 100만 VND(베트남 동)
+( 베트남 관세청 안내사이트 www.customs.gov.vn )
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+9. #31 | 브라질 | Brazil | code=BR
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 4 지역
+선편 4 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 평균송달소요일수(선편) : 100~120일
+o CN22, CN23의 여백에 수취인의 관세납부번호(CPF, 000.000.000-00) 기재 요청(2019.11.15. 우정사업본부 국제사업과)
+o 우편번호 검색 기능은 해당국에서 제공하는 배달보장일 기준의 우편번호 단위로 검색 됨(앞 5자리)
+ - 공백 포함, 전체 우편번호 직접 입력 가능 (9자리, 99999 9999)
+o 발송인,수취인 주소,세관신고서(내용품명 등) 영문 작성 필수(한글 혼용 금지)
+o 통관조치에 필요한 정보(이름, 발/수취인 주소, 전화번호, 상품상세정보 등)가 없는 우편물 발송 금지 (UPU회람-100, ‘18.9.6.)
+o 세관계류시 주소변경 및 반환청구 불가
+금지·제한품목
+ㅇ금지품목: 주류, 담배류, 액체류, 화장품, 집에서 녹화한 CD, 건어물(오징어, 명태, 쥐포), 중고품, 의약품, 라벨, 중고물품, 선박부속품, 음식물은 주로 반송됨(원산지/유통기한이 표시된 가공식품만 소량 가능, 한약은 자체 폐기), 알콜성 음료, 중고품 취급불가
+배달특이사항
+세관·통관사항
+ㅇ면세한도: 선물 50 USD 이하
+ㅇCN22, CN23의 여백에 수취인의 관세납부번호(CPF, 000.000.000-00) 기재 요청(2019.11.15. 우정사업본부 국제사업과)
+ㅇ우편발송수수료(Fee for Postal Dispatch, 통관회부료) 도입으로 통관에 제출되는 모든 우편물에 대하여 15BRL 지급 필수, 미지급 시 접수지로 반송
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 4 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 4 지역
+선편 4 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
 o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-Urgent notice (English): [Translation unavailable] ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
-
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.)
 o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
-------------------------------------------------------------------------
-Postcrossing No.: 32
-Korean name: (not present in dropdown)
-English name: British Indian Ocean Territory
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 33
-Korean name: (not present in dropdown)
-English name: Brunei
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 34
-Korean name: (not present in dropdown)
-English name: Bulgaria
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 35
-Korean name: (not present in dropdown)
-English name: Burkina Faso
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 36
-Korean name: (not present in dropdown)
-English name: Burundi
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 37
-Korean name: (not present in dropdown)
-English name: Cabo Verde
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 38
-Korean name: (not present in dropdown)
-English name: Cambodia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 39
-Korean name: (not present in dropdown)
-English name: Cameroon
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 41
-Korean name: (not present in dropdown)
-English name: Cayman Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 42
-Korean name: (not present in dropdown)
-English name: Central African Republic
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 43
-Korean name: (not present in dropdown)
-English name: Chad
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 44
-Korean name: (not present in dropdown)
-English name: Chile
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 46
-Korean name: (not present in dropdown)
-English name: Christmas Island
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 47
-Korean name: (not present in dropdown)
-English name: Cocos Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 48
-Korean name: (not present in dropdown)
-English name: Colombia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 49
-Korean name: (not present in dropdown)
-English name: Comoros
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 50
-Korean name: (not present in dropdown)
-English name: Congo
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 51
-Korean name: (not present in dropdown)
-English name: Dem. Rep. Of Congo
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 52
-Korean name: (not present in dropdown)
-English name: Cook Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 53
-Korean name: (not present in dropdown)
-English name: Costa Rica
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 54
-Korean name: (not present in dropdown)
-English name: Côte d'Ivoire
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 55
-Korean name: (not present in dropdown)
-English name: Croatia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 56
-Korean name: (not present in dropdown)
-English name: Cuba
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 57
-Korean name: (not present in dropdown)
-English name: Curaçao
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 58
-Korean name: (not present in dropdown)
-English name: Cyprus
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 59
-Korean name: (not present in dropdown)
-English name: Czechia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 60
-Korean name: (not present in dropdown)
-English name: Denmark
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 61
-Korean name: (not present in dropdown)
-English name: Djibouti
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 62
-Korean name: (not present in dropdown)
-English name: Dominica
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 63
-Korean name: (not present in dropdown)
-English name: Dominican Republic
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 64
-Korean name: (not present in dropdown)
-English name: Ecuador
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 65
-Korean name: (not present in dropdown)
-English name: Egypt
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 66
-Korean name: (not present in dropdown)
-English name: El Salvador
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 67
-Korean name: (not present in dropdown)
-English name: Equatorial Guinea
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 68
-Korean name: (not present in dropdown)
-English name: Eritrea
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 69
-Korean name: (not present in dropdown)
-English name: Estonia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 70
-Korean name: (not present in dropdown)
-English name: Eswatini /Swaziland
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 71
-Korean name: (not present in dropdown)
-English name: Ethiopia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 72
-Korean name: (not present in dropdown)
-English name: Falkland Islands /Malvinas
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 73
-Korean name: (not present in dropdown)
-English name: Faroe Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 74
-Korean name: (not present in dropdown)
-English name: Fiji
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 77
-Korean name: (not present in dropdown)
-English name: French Guiana
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 78
-Korean name: (not present in dropdown)
-English name: French Polynesia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 79
-Korean name: (not present in dropdown)
-English name: French Southern Territories
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 80
-Korean name: (not present in dropdown)
-English name: Gabon
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 81
-Korean name: (not present in dropdown)
-English name: Gambia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 82
-Korean name: (not present in dropdown)
-English name: Georgia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 83
-Korean name: (not present in dropdown)
-English name: Germany
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 84
-Korean name: (not present in dropdown)
-English name: Ghana
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 85
-Korean name: (not present in dropdown)
-English name: Gibraltar
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 86
-Korean name: (not present in dropdown)
-English name: Greece
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 87
-Korean name: (not present in dropdown)
-English name: Greenland
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 88
-Korean name: (not present in dropdown)
-English name: Grenada
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 89
-Korean name: (not present in dropdown)
-English name: Guadeloupe
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 90
-Korean name: (not present in dropdown)
-English name: Guam
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 91
-Korean name: (not present in dropdown)
-English name: Guatemala
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 92
-Korean name: (not present in dropdown)
-English name: Guernsey
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 93
-Korean name: (not present in dropdown)
-English name: Guinea
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 94
-Korean name: (not present in dropdown)
-English name: Guinea-Bissau
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 95
-Korean name: (not present in dropdown)
-English name: Guyana
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 96
-Korean name: (not present in dropdown)
-English name: Haiti
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 97
-Korean name: (not present in dropdown)
-English name: Honduras
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 99
-Korean name: (not present in dropdown)
-English name: Hungary
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 100
-Korean name: (not present in dropdown)
-English name: Iceland
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 103
-Korean name: (not present in dropdown)
-English name: Iran
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 104
-Korean name: (not present in dropdown)
-English name: Iraq
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 106
-Korean name: (not present in dropdown)
-English name: Isle of Man
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 107
-Korean name: (not present in dropdown)
-English name: Israel
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 108
-Korean name: (not present in dropdown)
-English name: Italy
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 109
-Korean name: (not present in dropdown)
-English name: Jamaica
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 111
-Korean name: (not present in dropdown)
-English name: Jersey
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 112
-Korean name: (not present in dropdown)
-English name: Jordan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 113
-Korean name: (not present in dropdown)
-English name: Kazakhstan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 114
-Korean name: (not present in dropdown)
-English name: Kenya
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 115
-Korean name: (not present in dropdown)
-English name: Kiribati
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 116
-Korean name: (not present in dropdown)
-English name: Korea(North)
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 117
-Korean name: (not present in dropdown)
-English name: Korea(South)
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 118
-Korean name: (not present in dropdown)
-English name: Kosovo
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 119
-Korean name: (not present in dropdown)
-English name: Kuwait
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 120
-Korean name: (not present in dropdown)
-English name: Kyrgyzstan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 121
-Korean name: (not present in dropdown)
-English name: Laos
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 122
-Korean name: (not present in dropdown)
-English name: Latvia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 123
-Korean name: (not present in dropdown)
-English name: Lebanon
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 124
-Korean name: (not present in dropdown)
-English name: Lesotho
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 125
-Korean name: (not present in dropdown)
-English name: Liberia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 126
-Korean name: (not present in dropdown)
-English name: Libya
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 127
-Korean name: (not present in dropdown)
-English name: Liechtenstein
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 128
-Korean name: (not present in dropdown)
-English name: Lithuania
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 129
-Korean name: (not present in dropdown)
-English name: Luxembourg
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 130
-Korean name: (not present in dropdown)
-English name: Macao
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 131
-Korean name: (not present in dropdown)
-English name: Madagascar
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 132
-Korean name: (not present in dropdown)
-English name: Malawi
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 134
-Korean name: (not present in dropdown)
-English name: Maldives
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 135
-Korean name: (not present in dropdown)
-English name: Mali
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 136
-Korean name: (not present in dropdown)
-English name: Malta
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 137
-Korean name: (not present in dropdown)
-English name: Marshall Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 138
-Korean name: (not present in dropdown)
-English name: Martinique
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 139
-Korean name: (not present in dropdown)
-English name: Mauritania
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 140
-Korean name: (not present in dropdown)
-English name: Mauritius
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 141
-Korean name: (not present in dropdown)
-English name: Mayotte
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 142
-Korean name: (not present in dropdown)
-English name: Mexico
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 143
-Korean name: (not present in dropdown)
-English name: Micronesia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 144
-Korean name: (not present in dropdown)
-English name: Moldova
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 145
-Korean name: (not present in dropdown)
-English name: Monaco
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 146
-Korean name: (not present in dropdown)
-English name: Mongolia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 147
-Korean name: (not present in dropdown)
-English name: Montenegro
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 148
-Korean name: (not present in dropdown)
-English name: Montserrat
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 149
-Korean name: (not present in dropdown)
-English name: Morocco
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 150
-Korean name: (not present in dropdown)
-English name: Mozambique
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 151
-Korean name: (not present in dropdown)
-English name: Myanmar
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 152
-Korean name: (not present in dropdown)
-English name: Namibia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 153
-Korean name: (not present in dropdown)
-English name: Nauru / Naoero
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 154
-Korean name: (not present in dropdown)
-English name: Nepal
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 156
-Korean name: (not present in dropdown)
-English name: New Caledonia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 157
-Korean name: (not present in dropdown)
-English name: New Zealand
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 158
-Korean name: (not present in dropdown)
-English name: Nicaragua
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 159
-Korean name: (not present in dropdown)
-English name: Niger
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 160
-Korean name: (not present in dropdown)
-English name: Nigeria
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 161
-Korean name: (not present in dropdown)
-English name: Niue
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 162
-Korean name: (not present in dropdown)
-English name: Norfolk Island
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 163
-Korean name: (not present in dropdown)
-English name: Northern Mariana Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 164
-Korean name: (not present in dropdown)
-English name: North Macedonia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 166
-Korean name: (not present in dropdown)
-English name: Oman
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 167
-Korean name: (not present in dropdown)
-English name: Pakistan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 168
-Korean name: (not present in dropdown)
-English name: Palau
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 169
-Korean name: (not present in dropdown)
-English name: Palestine
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 170
-Korean name: (not present in dropdown)
-English name: Panama
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 171
-Korean name: (not present in dropdown)
-English name: Papua New Guinea
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 172
-Korean name: (not present in dropdown)
-English name: Paraguay
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 173
-Korean name: (not present in dropdown)
-English name: Peru
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 175
-Korean name: (not present in dropdown)
-English name: Pitcairn
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 177
-Korean name: (not present in dropdown)
-English name: Portugal
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 178
-Korean name: (not present in dropdown)
-English name: Puerto Rico
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 179
-Korean name: (not present in dropdown)
-English name: Qatar
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 180
-Korean name: (not present in dropdown)
-English name: Réunion
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 181
-Korean name: (not present in dropdown)
-English name: Romania
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 182
-Korean name: 러시아
-English name: Russia
-Reason: Urgent notice indicates possible service suspension
-Urgent notice (Korean): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
-o 러시아 K-Packet 접수  재개(2025.3.17.~)
-  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
-Urgent notice (English): [Translation unavailable] o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~)
-o 러시아 K-Packet 접수  재개(2025.3.17.~)
-  * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
-------------------------------------------------------------------------
-Postcrossing No.: 183
-Korean name: (not present in dropdown)
-English name: Rwanda
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 184
-Korean name: (not present in dropdown)
-English name: Saint Barthélemy
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 185
-Korean name: (not present in dropdown)
-English name: Saint Helena, Ascension and Tristan da Cunha
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 186
-Korean name: (not present in dropdown)
-English name: Saint Kitts and Nevis
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 187
-Korean name: (not present in dropdown)
-English name: Saint Lucia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 188
-Korean name: (not present in dropdown)
-English name: Saint Martin
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 189
-Korean name: (not present in dropdown)
-English name: Saint Pierre & Miquelon
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 190
-Korean name: (not present in dropdown)
-English name: Saint Vincent and the Grenadines
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 191
-Korean name: (not present in dropdown)
-English name: Samoa
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 192
-Korean name: (not present in dropdown)
-English name: San Marino
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 193
-Korean name: (not present in dropdown)
-English name: Sao Tome and Principe
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 194
-Korean name: (not present in dropdown)
-English name: Saudi Arabia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 195
-Korean name: (not present in dropdown)
-English name: Senegal
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 196
-Korean name: (not present in dropdown)
-English name: Serbia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 197
-Korean name: (not present in dropdown)
-English name: Seychelles
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 198
-Korean name: (not present in dropdown)
-English name: Sierra Leone
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 199
-Korean name: 싱가포르
-English name: Singapore
-Reason: Urgent notice indicates possible service suspension
-Urgent notice (Korean): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+주요안내사항
+접수 시 주의사항
+o 평균송달소요일수(선편) : 100~120일
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 발송인,수취인 주소,세관신고서(내용품명 등) 영문 작성 필수(한글 혼용 금지)
+o 통관조치에 필요한 정보(이름, 발/수취인 주소, 전화번호, 상품상세정보 등)가 없는 우편물 발송 금지 (UPU회람-100, ‘18.9.6.)
+o 세관계류시 주소변경 및 반환청구 불가
+금지·제한품목
+ㅇ금지품목: 주류, 담배류, 액체류, 화장품, 집에서 녹화한 CD, 건어물(오징어, 명태, 쥐포), 중고품, 의약품, 라벨, 중고물품, 선박부속품, 음식물은 주로 반송됨(원산지/유통기한이 표시된 가공식품만 소량 가능, 한약은 자체 폐기), 알콜성 음료, 중고품 취급불가
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇCN22, CN23의 여백에 수취인의 관세납부번호(CPF, 000.000.000-00) 기재 요청(2019.11.15. 우정사업본부 국제사업과)
+ㅇ우편발송수수료(Fee for Postal Dispatch, 통관회부료) 도입으로 통관에 제출되는 모든 우편물에 대하여 15BRL 지급 필수, 미지급 시 접수지로 반송
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+10. #213 | 스웨덴 | Sweden | code=SE
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+1000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위 검색 됨(공백없이 5자리)
+ - 공백 포함, 전체 우편번호 직접 입력 가능 (5자리, 999 99)
+o (UPU 국제사무국 회람-33(2019.2.25. 관련)
+ - (대상우편물) EMS, 소포, 통상(k-packet, 등기)
+ - (사유) 스웨덴 통관 절차 강화
+ - (조치 사항) 접수시 고객에게 아래 사항을 정중히 안내
+ ① 발송인, 수취인의 주소와 이름을 정확하게 기재(영어나 프랑스어) 
+ - 수취인과 발송인의 이메일,핸드폰 연락처를 가능한 기재(권고)
+ ② 물품명, 수량, 중량, 가액 등 세관신고서를 정확히 기재(CN22, CN23, CP72)
+ ③ 미기재/불충분 시 세관에서 반송됨
+금지·제한품목
+ㅇ금지품목 : 귀금속, 무기류, 복권 및 관련 광고 
+ㅇ제한품목 : 피하주사바늘, 도핑(약물), 전파기기, 18세 미만에게 배달되는 담배제품, 설탕, 주류, 꿀벌, 버터, 마가린, 육류제품
+배달특이사항
+ㅇ주소변경 및 반환청구 불가 1회배달/부재 시 도착통지서 발행(우체국 방문수령)
+세관·통관사항
+ㅇ면세한도: 선물 45 EUR 이하 (2021.09.27. 수정 본부 국제사업과)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o (UPU 국제사무국 회람-33(2019.2.25. 관련)
+(대상우편물) EMS, 소포, 통상(k-packet, 등기)
+(사유) 스웨덴 통관 절차 강화
+(조치 사항) 접수시 고객에게 아래 사항을 정중히 안내
+① 발송인, 수취인의 주소와 이름을 정확하게 기재(영어나 프랑스어)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+11. #208 | 스페인(에스파니아) | Spain | code=ES
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 15
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+2531(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ 평균송달소요일수(선편) : 80~100일
+금지·제한품목
+ㅇ금지품목: 목화씨, 당분 함유 음식물, 버섯류 및 포자, 놀이카드, 종교적 유물 및 물건(묵주 등), 담배, 총기류, 복권, 술, 육가공품, 혈액, 화학제품, 의약품, 여행자수표, 환어음, 수표, 지급명령서, 개인수표, 머니오더
+ㅇ 제한품목 : 향수는 5병까지만 가능, 담배 400PCS까지, 잡지는 1권까지, 광고홍보물 5kg까지
+배달특이사항
+세관·통관사항
+ㅇ아시아지역에서 발송되는 섬유류는 USD 19 이상이거나 중량 5kg 이상인 경우 통관 위해 수취인이 수입허가를 세관에 제출(서류 미비로 20일 이내로 통관되지 않은 경우는 반송 조치)
+ㅇ의류는 세관에 계류되며, 음식물(라면, 통조림 포함)은 반송됨
+ㅇ면세한도: 선물 45 EUR 이하 (2021.09.27. 수정 본부 국제사업과)
+ㅇ통관기초정보[국제사업과-772(2012.06.12.카할라국가에 대한 통관기초정보 제공)]
+ㅇ 관세 납부 시기: 선납부 또는 배달시(우편물에 따라 다름)
+ㅇ관세 납부 방법: 현금
+ㅇ통관절차대행수수료 : 소형포장물 81 ESP, 소포 및 EMS 184 ESP, Mbag 287 ESP
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국가별 공통사항
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+접수 시 주의사항
+ㅇ 평균송달소요일수(선편) : 80~100일
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ통관기초정보[국제사업과-772(2012.06.12.카할라국가에 대한 통관기초정보 제공)]
+ㅇ 관세 납부 시기: 선납부 또는 배달시(우편물에 따라 다름)
+ㅇ관세 납부 방법: 현금
+ㅇ통관절차대행수수료 : 소형포장물 81 ESP, 소포 및 EMS 184 ESP, Mbag 287 ESP
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+12. #199 | 싱가포르 | Singapore | code=SG
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+2000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o (2019.7.2.~) 소형포장물, 소포, 비서류 EMS 등 '상품'을 포함하는 모든 우편물에 수취인 전화번호 기재 요청(UPU 회람 2019-97)
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(SIN)
+ - 전체 우편번호 직접 입력 가능 (6자리, 999999)
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+o 판매되는 식초, 꿀, 식용유는 발송 가능하나 나무포장 필수
+금지·제한품목
+ㅇ금지품목: 조미료, 총기류, 껌, 양도 가능한 채권,마약류, 코뿌르 화산암
+ㅇ제한품목: 백지수표(5kg미만), 무기명의 신용카드(10개 미만), 신문(10부), 정기간행물(5kg 미만), 주류(10리터 이하), 가축 사료(400SGD[싱가포르 달러] 미만), 담배(2kg이하),김치(정식 수입 통관 절차 필요)
+배달특이사항
+세관·통관사항
+ㅇ수입세(GST): 주류, 담배 400SGD[싱가포르 달러] 초과 3% 부과
+ㅇ관세 납부
+ - 납부시기: 배달 시 납부
+ - 납부방법: 현금, 수표, 지로
+ - 관세납부 우편물 수령방법: 배달 또는 세관방문
+ - 통관회부료: 15SGD[싱가포르 달러]
+ - 관세부과 우편물 배달수수료: 주소지 배달 시 5SGD [싱가포르 달러], 창구 배부 시 3SGD[싱가포르 달러]
+ - 통관업무 대표 전화번호: 65 6845 6682
+ㅇ면세한도: 400SGD[싱가포르 달러](담배, 주류 제외)
+ㅇ싱가포르 도착 모든 우편물(통상, 소포, EMS)의 물품가액이 400SGD[싱가포르 달러]를 넘는 경우 상품 및 서비스세(GST, Goods and services tax) 과세 대상. 신속한 통관을 위하여 물품가액을 보여주는 상업송장 혹은 영수증을 우편물 겉면에 부착 요청. 특히 주류, 담배의 경우 수량 등 상세정보 필요
+ㅇ 통관에 필요한 양식(CN22, 23) 철저 기재, 
+ 특히 상품가액과 내용품 기재 포함
+ㅇ알코올 발송 시 송장에 수량, 크기, 가격, 주조방식을 기재(주조방식에 따라 관세율이 달라짐)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
+o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국가별 공통사항
+o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
 o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
 o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
-Urgent notice (English): [Translation unavailable] o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.)
-o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.)
 o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
-------------------------------------------------------------------------
-Postcrossing No.: 200
-Korean name: (not present in dropdown)
-English name: Sint Maarten
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 201
-Korean name: (not present in dropdown)
-English name: Slovakia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 202
-Korean name: (not present in dropdown)
-English name: Slovenia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 203
-Korean name: (not present in dropdown)
-English name: Solomon Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 204
-Korean name: (not present in dropdown)
-English name: Somalia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 206
-Korean name: (not present in dropdown)
-English name: South Georgia and S. Sandwich Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 207
-Korean name: (not present in dropdown)
-English name: South Sudan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 209
-Korean name: (not present in dropdown)
-English name: Sri Lanka
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 210
-Korean name: (not present in dropdown)
-English name: Sudan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 211
-Korean name: (not present in dropdown)
-English name: Suriname
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 212
-Korean name: (not present in dropdown)
-English name: Svalbard and Jan Mayen
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 214
-Korean name: (not present in dropdown)
-English name: Switzerland
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 215
-Korean name: (not present in dropdown)
-English name: Syria
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 217
-Korean name: (not present in dropdown)
-English name: Tajikistan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 218
-Korean name: (not present in dropdown)
-English name: Tanzania
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 220
-Korean name: (not present in dropdown)
-English name: Timor-Leste
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 221
-Korean name: (not present in dropdown)
-English name: Togo
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 222
-Korean name: (not present in dropdown)
-English name: Tokelau
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 223
-Korean name: (not present in dropdown)
-English name: Tonga
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 224
-Korean name: (not present in dropdown)
-English name: Trinidad and Tobago
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 225
-Korean name: (not present in dropdown)
-English name: Tunisia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 226
-Korean name: (not present in dropdown)
-English name: Turkey
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 227
-Korean name: (not present in dropdown)
-English name: Turkmenistan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 228
-Korean name: (not present in dropdown)
-English name: Turks and Caicos Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 229
-Korean name: (not present in dropdown)
-English name: Tuvalu
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 230
-Korean name: (not present in dropdown)
-English name: Uganda
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 231
-Korean name: (not present in dropdown)
-English name: Ukraine
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 232
-Korean name: (not present in dropdown)
-English name: United Arab Emirates
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 233
-Korean name: 영국
-English name: United Kingdom
-Reason: Urgent notice indicates possible service suspension
-Urgent notice (Korean): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+주요안내사항
+접수 시 주의사항
+o (2019.7.2.~) 소형포장물, 소포, 비서류 EMS 등 '상품'을 포함하는 모든 우편물에 수취인 전화번호 기재 요청(UPU 회람 2019-97)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o (2019.7.2.~) 소형포장물, 소포, 비서류 EMS 등 '상품'을 포함하는 모든 우편물에 수취인 전화번호 기재 요청(UPU 회람 2019-97)
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(SIN)
+전체 우편번호 직접 입력 가능 (6자리, 999999)
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 전체 우편번호 직접 입력 가능 (6자리, 999999)
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+o 판매되는 식초, 꿀, 식용유는 발송 가능하나 나무포장 필수
+금지·제한품목
+ㅇ금지품목: 조미료, 총기류, 껌, 양도 가능한 채권,마약류, 코뿌르 화산암
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 납부방법: 현금, 수표, 지로
+관세납부 우편물 수령방법: 배달 또는 세관방문
+통관회부료: 15SGD[싱가포르 달러]
+관세부과 우편물 배달수수료: 주소지 배달 시 5SGD [싱가포르 달러], 창구 배부 시 3SGD[싱가포르 달러]
+통관업무 대표 전화번호: 65 6845 6682
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 통관회부료: 15SGD[싱가포르 달러]
+관세부과 우편물 배달수수료: 주소지 배달 시 5SGD [싱가포르 달러], 창구 배부 시 3SGD[싱가포르 달러]
+통관업무 대표 전화번호: 65 6845 6682
+ㅇ면세한도: 400SGD[싱가포르 달러](담배, 주류 제외)
+ㅇ싱가포르 도착 모든 우편물(통상, 소포, EMS)의 물품가액이 400SGD[싱가포르 달러]를 넘는 경우 상품 및 서비스세(GST, Goods and services tax) 과세 대상. 신속한 통관을 위하여 물품가액을 보여주는 상업송장 혹은 영수증을 우편물 겉면에 부착 요청. 특히 주류, 담배의 경우 수량 등 상세정보 필요
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ면세한도: 400SGD[싱가포르 달러](담배, 주류 제외)
+ㅇ싱가포르 도착 모든 우편물(통상, 소포, EMS)의 물품가액이 400SGD[싱가포르 달러]를 넘는 경우 상품 및 서비스세(GST, Goods and services tax) 과세 대상. 신속한 통관을 위하여 물품가액을 보여주는 상업송장 혹은 영수증을 우편물 겉면에 부착 요청. 특히 주류, 담배의 경우 수량 등 상세정보 필요
+ㅇ 통관에 필요한 양식(CN22, 23) 철저 기재,
+특히 상품가액과 내용품 기재 포함
+ㅇ알코올 발송 시 송장에 수량, 크기, 가격, 주조방식을 기재(주조방식에 따라 관세율이 달라짐)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+13. #105 | 아일랜드 | Ireland | code=IE
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 7
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+14. #233 | 영국 | United Kingdom | code=GB
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+內
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ 영국 내 모든 주소는 영국 우체국 웹사이트 https://www.royalmail.com/find-a-postcode에서 검색하신 후 우편번호를 빠짐없이 입력해 주시기 바립니다.
+- 저지(Jersey) 및 건지(Guensey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(앞 4 또는 6자리)
+ - 공백 포함, 전체 우편번호 직접 입력 가능
+ - 앞 2-4자리(A9, A99, A9A, AA9, AA99, AA9A) + 공백 + 뒤3자리(9AA)
+ㅇ송달소요일수(선편) : 70~90일
+금지·제한품목
+ㅇ금지품목: 부도덕한 내용의 서류, 광물성 제품, 
+ 외설비디오, 외설적인 음반 및 인쇄물, 
+ 칼날이 나오는 칼, 감옥에서 만든 상품, 
+ 전파송신기, 복권 및 관련 광고,물개 가죽제품, 
+ 진공포장 안된 음식물, 사람 또는 동물 유해/유골
+ㅇ제한품목: 동물제품, 식물 및 식물제품, 채소류, 
+ 무기류, Textile sample(5~10kg는 원산지 증명서
+ 없이 통관가능), 생선 및 육류반입 제한중량은 
+ 1kg(초과 시 수의검역서 필요)
+ㅇ사기 우편물에 대한 폐기 등 조치
+ㅇ 담배의 경우 통지 없지 폐기됨 (2019.10.8. 국제사업과)
+배달특이사항
+ㅇP.O. BOX 접수 불가
+세관·통관사항
+ㅇ수취인 부재 시에는 이웃집에 배달될 수 있음
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 內
+긴급공지
+국가별 공통사항
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+주요안내사항
+접수 시 주의사항
+ㅇ 영국 내 모든 주소는 영국 우체국 웹사이트 https://www.royalmail.com/find-a-postcode에서 검색하신 후 우편번호를 빠짐없이 입력해 주시기 바립니다.
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ 영국 내 모든 주소는 영국 우체국 웹사이트 https://www.royalmail.com/find-a-postcode에서 검색하신 후 우편번호를 빠짐없이 입력해 주시기 바립니다.
+저지(Jersey) 및 건지(Guensey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(앞 4 또는 6자리)
+공백 포함, 전체 우편번호 직접 입력 가능
+앞 2-4자리(A9, A99, A9A, AA9, AA99, AA9A) + 공백 + 뒤3자리(9AA)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 1kg(초과 시 수의검역서 필요)
+ㅇ사기 우편물에 대한 폐기 등 조치
+ㅇ 담배의 경우 통지 없지 폐기됨 (2019.10.8. 국제사업과)
+배달특이사항
+ㅇP.O. BOX 접수 불가
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 배달특이사항
+ㅇP.O. BOX 접수 불가
+세관·통관사항
+ㅇ수취인 부재 시에는 이웃집에 배달될 수 있음
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+15. #14 | 오스트레일리아(호주) | Australia | code=AU
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ 평균송달소요일수(선편) : 50 ~ 70일
+ㅇ 박스 재사용 금지(음식물, 동물, 식물 등의 그림 표시가 있는 박스 포장 금지), 통관 불허 즉시 반송처리됨
+ㅇ 통관 불허로 인한 배달불능 우편물은 손해배상 불가
+금지·제한품목
+ㅇ금지품목 : 식품류(특히 김치류),침구(털제품),의약품,헌옷,통조림,축산물,과일류,동물부산물,귀금속,여권 등
+ㅇ음식물(부패 여부와 관계없이 음식물 전체로 확대), 밀짚과 기타 식물재료가 포함된 생산품, 동식물 관련 생산품 등
+ㅇ제한품목: 육류, 기타 동물제품, 가루분유, 고체우유(호주검역당국의 허가) 식품, 생수(Mineral Water), 청량음료(Soft Drink)는 보건허가 필요
+ㅇ호주(AU)행 국제우편물 담배 접수 금지( 2019.7.1.)
+- 허위(불성실)로 세관신고서 작성하거나 담배 제품이 전체 또는 일부 포함된 소포 모두 세관 압류, 폐기조치(담배 제외한 물품만 일부 배달 및 반송 불가)
+- 통관 불허로 인한 배달불능 우편물은 손해배상 불가
+ㅇ호주 검역당국의 식물위생조치(수입금지)로 다음 대상식물의 원물 및 분말 접수금지
+- 쌀(Rice), 병아리콩(Chickpeas), 호박씨(Cucurbit seed), 쿠민씨(Cumin seed), 잇꽃씨(Safflower seed), 야생콩(Bean seed), 대두(Soybean), 녹두 및 동부콩(Mung beans/cowpeas), 렌틸콩(Lentils), 밀(Wheat), 고수씨(Coriander seed), 셀러리씨(Celery seed), 땅콩(Peanuts), 건고추(Dried chillies/capsicum), 누에콩(Faba bean), 비둘기콩(Pigeon Pea), 완두(Pea
+seed), 회향씨(Fennel seed)
+- 적용 예외 : 열처리 가공품(레토르트, 데친것, 튀긴것, 저온 살균 등) 및 화학적 가공품, 신선 채소, 냉동 또는 동결 건조제품, 식초 또는 알콜에 절인것, 식물에서 추출한 기름, 식물에서 추출한 특정 성분(전분, 레시틴, 단백질, 셀룰로오스, 설탕 등)
+(우정사업본부 국제사업과, 2020.10.19.)
+ㅇ 돼지고기 및 돼지고기가 포함된 소시지류, 살라미, 육포류(빌통 포함), 햄류, 캔류 포함 발견즉시 폐기 (2019.11.18. 우정사업본부 국제사업과)
+배달특이사항
+세관·통관사항
+ㅇ 세관신고서 허위 작성 금지 및 반입 관련 허가서가 필요한 우편물(씨앗, 식물, 동물, 광물 등) 에 대해 호주 도착 전까지 서류구비 (UPU회람-85, '18.7.2.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국가별 공통사항
+o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.)
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연
+o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 배달 시까지 80일~120일 소요(한달이상 지연 예상)
+o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.)
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+대상 : 호주행 국제우편
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.)
+o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.)
+o 호주행 국제우편 반려동물 물품 관련 주의사항 안내
+대상 : 호주행 국제우편
+대상품목 : 동물을 재료로 사용한 반려동물 음식
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ제한품목: 육류, 기타 동물제품, 가루분유, 고체우유(호주검역당국의 허가) 식품, 생수(Mineral Water), 청량음료(Soft Drink)는 보건허가 필요
+ㅇ호주(AU)행 국제우편물 담배 접수 금지( 2019.7.1.)
+허위(불성실)로 세관신고서 작성하거나 담배 제품이 전체 또는 일부 포함된 소포 모두 세관 압류, 폐기조치(담배 제외한 물품만 일부 배달 및 반송 불가)
+통관 불허로 인한 배달불능 우편물은 손해배상 불가
+ㅇ호주 검역당국의 식물위생조치(수입금지)로 다음 대상식물의 원물 및 분말 접수금지
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 허위(불성실)로 세관신고서 작성하거나 담배 제품이 전체 또는 일부 포함된 소포 모두 세관 압류, 폐기조치(담배 제외한 물품만 일부 배달 및 반송 불가)
+통관 불허로 인한 배달불능 우편물은 손해배상 불가
+ㅇ호주 검역당국의 식물위생조치(수입금지)로 다음 대상식물의 원물 및 분말 접수금지
+쌀(Rice), 병아리콩(Chickpeas), 호박씨(Cucurbit seed), 쿠민씨(Cumin seed), 잇꽃씨(Safflower seed), 야생콩(Bean seed), 대두(Soybean), 녹두 및 동부콩(Mung beans/cowpeas), 렌틸콩(Lentils), 밀(Wheat), 고수씨(Coriander seed), 셀러리씨(Celery seed), 땅콩(Peanuts), 건고추(Dried chillies/capsicum), 누에콩(Faba bean), 비둘기콩(Pigeon Pea), 완두(Pea
+seed), 회향씨(Fennel seed)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 세관·통관사항
+ㅇ 세관신고서 허위 작성 금지 및 반입 관련 허가서가 필요한 우편물(씨앗, 식물, 동물, 광물 등) 에 대해 호주 도착 전까지 서류구비 (UPU회람-85, '18.7.2.)
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+16. #101 | 인도 | India | code=IN
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+1502(1SDR=1,749원)
+세관신고서매수
+2
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+17. #102 | 인도네시아 | Indonesia | code=ID
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+0
+세관신고서매수
+2
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+* UPU 회람 2021-209 (21.12.20.)
+ㅇ휴대폰 발송 시 내용품명 또는 인보이스에 IMEI번호 기재 필요
+ - 미기재 시 반송될 수 있음
+ㅇ 상품이 들어있는 우편물 관련 세관 규정이 변경되어 우편물 접수시 세금 납부 번호(NPWP) 기재 필요(21.8.1.자 시행)
+- 기표지 수취인 주소란에 수기 입력
+- 미기재시 세관 계류에 의한 배달 지연
+(본부 국제사업과 21.10.05, UPU 회람 2021-143 21.09.20.)
+ㅇ서류/상품에 CN23, 상품에 따라 필요한 서류 2매 첨부
+ㅇ화장품, 페인트 등 액체류는 자국내 항공기 탑재가 불가하므로 지연배달
+금지·제한품목
+ㅇ 금지품목: 저작권 침해 서적, 청소년에게 해로운 인쇄물, 외설적이거나 부도덕한 물건, 연결된 편지류, 알코올, 보석, 주류, 정치서적, 담배
+ㅇ제한품목: 동물제품, 의약품, 음식물, 카셋, 레코드, 비디오, 식물 및 식물의 일부, 인도네시아어로 된 인쇄물, 한자로된 인쇄물, 캘린더 발송 시 음란물이나 한자가 들어간 것
+배달특이사항
+세관·통관사항
+* (UPU 회람 2020-20)(20.2.3.)
+물품이 들어있는 우편물 반입 관련 세관 규정이 변경되어 면세한도금액이 1일 1인당 75USD에서 우편물 통당 3USD로 변경(20.1.30.자 시행)
+ㅇ우편물 가액이 3USD 및 그 미만인 우편물은 물품가액 10%의 부가가치세 적용
+ㅇ우편물 가액이 3USD 이상이며 1,500USD 미초과 우편물은 7.5%의 관세와 10%의 부가가치세를 적용하되, 아래 특정품목은 예외
+ a. 가방류(HS코드 4204)는 15~20%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용 
+ b. 신발류(HS 코드 64)는 25~30%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용 
+ c. 직물류(textiles)(HS 코드 61, 62, 63)는 15~25%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용 "
+ㅇ통관허용한도: 2000$까지(초과 시 정식수입절차요)
+ㅇ 다양한 통관요율 적용
+ㅇ통관취급수수료 없음
+ㅇ 면세한도 : 500,000 IDR[인도네시아 루피아]
+ㅇEMS는 상품인 경우 면세한도 없음
+ㅇ신규 관세법 조항에 따른 CN 22/23, CP 72 등 세관신고양식 작성 철저 요청
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
+주요안내사항
+접수 시 주의사항
+* UPU 회람 2021-209 (21.12.20.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 미기재 시 반송될 수 있음
+ㅇ 상품이 들어있는 우편물 관련 세관 규정이 변경되어 우편물 접수시 세금 납부 번호(NPWP) 기재 필요(21.8.1.자 시행)
+기표지 수취인 주소란에 수기 입력
+미기재시 세관 계류에 의한 배달 지연
+(본부 국제사업과 21.10.05, UPU 회람 2021-143 21.09.20.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 기표지 수취인 주소란에 수기 입력
+미기재시 세관 계류에 의한 배달 지연
+(본부 국제사업과 21.10.05, UPU 회람 2021-143 21.09.20.)
+ㅇ서류/상품에 CN23, 상품에 따라 필요한 서류 2매 첨부
+ㅇ화장품, 페인트 등 액체류는 자국내 항공기 탑재가 불가하므로 지연배달
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: * (UPU 회람 2020-20)(20.2.3.)
+물품이 들어있는 우편물 반입 관련 세관 규정이 변경되어 면세한도금액이 1일 1인당 75USD에서 우편물 통당 3USD로 변경(20.1.30.자 시행)
+ㅇ우편물 가액이 3USD 및 그 미만인 우편물은 물품가액 10%의 부가가치세 적용
+ㅇ우편물 가액이 3USD 이상이며 1,500USD 미초과 우편물은 7.5%의 관세와 10%의 부가가치세를 적용하되, 아래 특정품목은 예외
+a. 가방류(HS코드 4204)는 15~20%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 물품이 들어있는 우편물 반입 관련 세관 규정이 변경되어 면세한도금액이 1일 1인당 75USD에서 우편물 통당 3USD로 변경(20.1.30.자 시행)
+ㅇ우편물 가액이 3USD 및 그 미만인 우편물은 물품가액 10%의 부가가치세 적용
+ㅇ우편물 가액이 3USD 이상이며 1,500USD 미초과 우편물은 7.5%의 관세와 10%의 부가가치세를 적용하되, 아래 특정품목은 예외
+a. 가방류(HS코드 4204)는 15~20%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용
+b. 신발류(HS 코드 64)는 25~30%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ우편물 가액이 3USD 및 그 미만인 우편물은 물품가액 10%의 부가가치세 적용
+ㅇ우편물 가액이 3USD 이상이며 1,500USD 미초과 우편물은 7.5%의 관세와 10%의 부가가치세를 적용하되, 아래 특정품목은 예외
+a. 가방류(HS코드 4204)는 15~20%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용
+b. 신발류(HS 코드 64)는 25~30%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용
+c. 직물류(textiles)(HS 코드 61, 62, 63)는 15~25%의 관세, 10%의 부가가치세, 7.5~10%의 개인 소득세 적용 "
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+18. #110 | 일본 | Japan | code=JP
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+12540(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(앞 5자리)
+ - 전체 우편번호 직접 입력 가능 ( '-' 제외 7자리, 9999999)
+ㅇ항공스페이스 부족으로 항공우편물 운송지연. 접수 시 고객 사전 안내 및
+ 시한성 있는 우편물은 반드시 지연 안내 (서울청 국제영업과, 2021.09.14.)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연발생(우정사업본부 국제사업과, 2021.03.31.)
+ㅇ평균송달소요일수(선편): 20~30일
+ㅇ식물반입시 검사 강화로 인해 관련 인증서(식물위생에 관한 증명서, Phytosanitary Certificate)가 없는 경우 폐기됨(UPU 회람 2019-17)(20190430) 
+ㅇ김은 1회 발송 허용량이 1,000장이며 초과 시 관세부과되거나 폐기됨
+금지·제한품목
+ㅇ육류 통관 강화(아프리카돼지열병 관련 국가로부터의 수입 금지) (UPU 회람 2019-92, 2019.6.10)
+www.maff.go.jp/aqs/english/news/im_prohibit.html (참조)
+(일본 관세청 안내 사이트)http://www.post.japanpost.jp/int/use/receive_en.html
+ㅇ금지품목: 동물부산물(가죽, 깃털), 의약품, 육류, 흙, 씨앗(종자류), 검(15Cm 이상 긴칼), 특허 또는 상표 위반 물품, 위조상품, 요리되지 않은(육류, 생선, 계란 또는 유제품) 냉동식료품, 훈제제품 또는 생식품, 화기, 부품 및 부속품, 탄약 등 총기류 및 마약류, 마약성 진통제, 향정신성물질 등 불법적인 물품 발송금지
+ㅇ제한품목: 알코올(10kg미만), 음식물(10kg미만), 인삼(6뿌리까지 허용), 화학제품, 화장품(화주가 수입허가서와 약품취급 허가서 제출)
+배달특이사항
+세관·통관사항
+ㅇ 관세지불시기 : 배달 동시
+ㅇ 관세납부방법 : 현금만 가능
+ㅇ 관세납부우편물 수령방법 : 배달 또는 세관 방문
+ㅇ 관세가 300,000 JPY(일본 엔)이하 시 배달, 300,000 JYP(일본 엔) 초과 시 배달국 방문
+ㅇ 통관회부료 : 200 JPY(일본 엔)
+ㅇ 통관업무 대표전화번호 : Tokyo int +81 3 5665 3755 Nagoya int +81 56 938 1524 Osaka int +81 72 455 1852 Shin-Fukuoka int +81 92 663 6260 Naha int +81 98 854 8292
+ㅇ 통관업무 대표웹사이트 : https://www.customs.go.jp/english/index.htm
+ - 비고 : 내용품 가액이 200,000 JPY(일본 엔)이상 (자체평가 관세 시스템 적용, invoic 사본 반드시 동봉)
+ㅇ 면세한도(우편요금포함) : 10,000 JPY(일본 엔)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국가별 공통사항
+o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+주요안내사항
+접수 시 주의사항
+o 우편번호 검색 기능은 배달보장일 기준의 우편번호 단위로 검색 됨(앞 5자리)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 전체 우편번호 직접 입력 가능 ( '-' 제외 7자리, 9999999)
+ㅇ항공스페이스 부족으로 항공우편물 운송지연. 접수 시 고객 사전 안내 및
+시한성 있는 우편물은 반드시 지연 안내 (서울청 국제영업과, 2021.09.14.)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연발생(우정사업본부 국제사업과, 2021.03.31.)
+ㅇ평균송달소요일수(선편): 20~30일
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ항공스페이스 부족으로 항공우편물 운송지연. 접수 시 고객 사전 안내 및
+시한성 있는 우편물은 반드시 지연 안내 (서울청 국제영업과, 2021.09.14.)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연발생(우정사업본부 국제사업과, 2021.03.31.)
+ㅇ평균송달소요일수(선편): 20~30일
+ㅇ식물반입시 검사 강화로 인해 관련 인증서(식물위생에 관한 증명서, Phytosanitary Certificate)가 없는 경우 폐기됨(UPU 회람 2019-17)(20190430)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 시한성 있는 우편물은 반드시 지연 안내 (서울청 국제영업과, 2021.09.14.)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연발생(우정사업본부 국제사업과, 2021.03.31.)
+ㅇ평균송달소요일수(선편): 20~30일
+ㅇ식물반입시 검사 강화로 인해 관련 인증서(식물위생에 관한 증명서, Phytosanitary Certificate)가 없는 경우 폐기됨(UPU 회람 2019-17)(20190430)
+ㅇ김은 1회 발송 허용량이 1,000장이며 초과 시 관세부과되거나 폐기됨
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ 관세납부방법 : 현금만 가능
+ㅇ 관세납부우편물 수령방법 : 배달 또는 세관 방문
+ㅇ 관세가 300,000 JPY(일본 엔)이하 시 배달, 300,000 JYP(일본 엔) 초과 시 배달국 방문
+ㅇ 통관회부료 : 200 JPY(일본 엔)
+ㅇ 통관업무 대표전화번호 : Tokyo int +81 3 5665 3755 Nagoya int +81 56 938 1524 Osaka int +81 72 455 1852 Shin-Fukuoka int +81 92 663 6260 Naha int +81 98 854 8292
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+19. #45 | 중국 | China | code=CN
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+876(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+內
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+o 중국세관에서 통관을 위해 수취인의 휴대전화 번호를 반드시 입력하도록 요구하고 있으므로 반드시 휴대전화번호를 기입하시기 바랍니다. (SMS 통한 과세통지 및 납부처리 목적)
+o 수취인 전화번호는 중국 현지 핸드폰번호로 필수 기재
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생(우정사업본부 국제사업과, 2021.03.31.)
+o 평균송달소요일수(선편) : 40~60일
+o 보험취급 서비스 이용불가 안내(취급정지) (우정사업본부 국제사업과, 2020.02.24.)
+금지·제한품목
+o 금지품목 : 중국정치, 경제, 문화, 도덕적으로유해한인쇄물, 사진, 영상, 녹음등, 각종무기류(탄약/폭발성물품), 위조화폐 및 유가증권, 골동품, 금/은제품, 마약류 및 마취 성분있는 약물, 독약, 위험/유해한 병균, 식/약품
+o 중국행 동물 및 식물 제품류 반입 금지 안내
+① 동물 및 그 제품류
+ - 갑각류 포함 살아있는 동물 및 동물유래성분이 포함된 사료 반입금지
+ - 기생충 등 동식물 병원체 및 기타 고위험 바이오 인자 반입금지
+② 식물 및 그제품류
+ - 생과일, 채소, 신선한 절화, 토양 및 유기 재배 매개체 등 반입금지
+③ 기타 반입금지 동식물 검역물품
+o 제한품목 : 무선송수신기, 통신보안기, 담배, 술, 멸종위기의 진귀한 동물, 식물 (샘플 포함) 및 각종 종자, 번식 재료, 국가화폐, 세관에서 입국제한한 기타물품 
+ - 그외: 전자계산기 연간 1대, 자기식 카셋테이프 5개, 폭 130Cm 이내 화학섬유 및 면 제품 10m, 우취용 우표 100장, 40위안의 중국약에 사용된 약품 및 물질, 자동차 및 오토바이 관련 부품, 수입허가서(import License) 제출, 가죽 제품은 50% 가량 과세, 개인용 음식물은 30kg 미만만 발송 가능
+배달특이사항
+ㅇ우편물 소독 및 비대면 배달실시로 인하여 처리지연 발생 
+ㅇ수취인 서명 및 배달증명 자료 제공불가 발송인 사전안내 
+ㅇ항공편 축소로 인한 중국행 보름 이상 배송지연 (우정사업본부 국제사업과, 2020.05.01.)
+세관·통관사항
+ㅇ관세 : 면세 기준은 50위안 이하, 50위안 초과 시 신고가격에 따라 관세가 부가됨('24.12.1. 시행)
+ - 다량물품의 경우 총 신고가격 2000위안을 초과하면 통관 불가(통관 불가 시 세관 계류 또는 반송 처리)
+ - 다만, 다량물품이고 총 신고가격 2000위안을 초과하더라도 세관에서 개인물품으로 판단할 경우 통관 가능(통관을 위해서는 수취인은 중국 세관에서 요구하는 서류 제출 필요) 
+ㅇ자세한 내용품 내역 및 가격 기재 필요
+ㅇ제품 부자재(의류, 기계 등) 등은 세관에 계류될 수 있으며, 정식 통관절차 필요, 통관에 3-7일 소요 
+ㅇ통관기초정보[국제사업과-72(2012.06.12.)]
+ㅇ관세지불시기: 세관통관 시 납부가 원칙
+ㅇ관세납부방법: 현금
+ㅇ관세납부우편물 수령방법: 배달
+ㅇ통관회부료: EMS(수출통관 대행시 200위안), 소포(8위안), 홍콩행
+o 관세부과 우편물 보관료: 8일부터 1위안씩 부과
+ * 화장품, 기계부품, 인쇄물(책, 판촉물) 등은 관세 부과 대상. 
+ * 면세한도: 2010.9.1.일이후 면세기준이 모두 폐지되어 전량 과세 ---> (변경) 면세 50위안('24.12.1.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 內
+긴급공지
+국가별 공통사항
+o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: o 수취인 전화번호는 중국 현지 핸드폰번호로 필수 기재
+o 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생(우정사업본부 국제사업과, 2021.03.31.)
+o 평균송달소요일수(선편) : 40~60일
+o 보험취급 서비스 이용불가 안내(취급정지) (우정사업본부 국제사업과, 2020.02.24.)
+금지·제한품목
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 배달특이사항
+ㅇ우편물 소독 및 비대면 배달실시로 인하여 처리지연 발생
+ㅇ수취인 서명 및 배달증명 자료 제공불가 발송인 사전안내
+ㅇ항공편 축소로 인한 중국행 보름 이상 배송지연 (우정사업본부 국제사업과, 2020.05.01.)
+세관·통관사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ관세납부방법: 현금
+ㅇ관세납부우편물 수령방법: 배달
+ㅇ통관회부료: EMS(수출통관 대행시 200위안), 소포(8위안), 홍콩행
+o 관세부과 우편물 보관료: 8일부터 1위안씩 부과
+* 화장품, 기계부품, 인쇄물(책, 판촉물) 등은 관세 부과 대상.
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ통관회부료: EMS(수출통관 대행시 200위안), 소포(8위안), 홍콩행
+o 관세부과 우편물 보관료: 8일부터 1위안씩 부과
+* 화장품, 기계부품, 인쇄물(책, 판촉물) 등은 관세 부과 대상.
+* 면세한도: 2010.9.1.일이후 면세기준이 모두 폐지되어 전량 과세 ---> (변경) 면세 50위안('24.12.1.)
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+20. #40 | 캐나다 | Canada | code=CA
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 15
+선편 15
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+21. #219 | 타이(태국) | Thailand | code=TH
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 60
+선편 60
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+1000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ유사한 국가약호(약호 오입력 주의): TH(태국), TW (대만)
+ㅇ평균송달소요일수(선편) : 50~70일
+금지·제한품목
+ㅇ금지품목 : 전자게임, 모조수공품, 미사용 우편엽서 및 편지지, 독극물, 연쇄편지, 산동물(꿀벌,거머리,누에는 제외), 총기류, 외설잡지, 술, 혈액, 의약품, 음식물, 곡물, 귀금속, 담배, 비디오게임, 액체(LIQUIDS), China 원산지 제품 발송 불가
+ㅇ(UPU 회람 2019-70)리튬배터리/셀 포함 금지(2019.5.13.)
+ㅇ제한품목 : 주류, 탄산음료, 동물부산물, 음식물, 동물가죽, 콘텍트렌즈, 의료기구, 놀이카드, 섬유제품, 채소류 및 식물제품, 식물기름, 식초
+배달특이사항
+세관·통관사항
+ㅇ 태국 저가상품 수입 세관 규정 변경 알림(2024.7.5. 시행)
+ - (부가세) 저가상품에 대한 7% 부가가치세(VAT) 면제 한도 폐지(모든 물품에 부가가치세 부가 가능)
+ - (관세) 면세 한도 조건 삭제(26.1.1.), 모든 물품에 대해 관세 부과 
+ - (대상) 물품을 포함한 모든 종류의 국제우편물(EMS, 소포, 패킷류 / C2C(선물), B2C, B2B, 중고물품, 수제물품)
+ㅇ개인 음식물: 적절한 양(세관에 의해 판단)은 FDA허가서 필요 없음
+ㅇ 약: 30일치를 넘지 않는 태국에서 구할수 없는 약은 수입허가필요.
+ㅇ 통관진행 : 40,000THB(태국 바트)이상의 화물은 정식통관 진행되며 2일정도 시간소요됨
+ㅇ약품, 식품, 화장품, 의학품, 영양식품, 위험품, 휘발성물품은 FDA 승인을 받아야 함. 수입자는 화물 도착전에 수입허가를 받아야함. 도착전에 수입허가를 받지 못할 경우 세금에 10% 혹은 최대 20,000THB(태국 바트)의 벌금이 부가됨
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국가별 공통사항
+ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+접수 시 주의사항
+ㅇ유사한 국가약호(약호 오입력 주의): TH(태국), TW (대만)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: (관세) 면세 한도 조건 삭제(26.1.1.), 모든 물품에 대해 관세 부과
+(대상) 물품을 포함한 모든 종류의 국제우편물(EMS, 소포, 패킷류 / C2C(선물), B2C, B2B, 중고물품, 수제물품)
+ㅇ개인 음식물: 적절한 양(세관에 의해 판단)은 FDA허가서 필요 없음
+ㅇ 약: 30일치를 넘지 않는 태국에서 구할수 없는 약은 수입허가필요.
+ㅇ 통관진행 : 40,000THB(태국 바트)이상의 화물은 정식통관 진행되며 2일정도 시간소요됨
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+22. #216 | 타이완(대만) | Taiwan | code=TW
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 60
+선편 60
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+1000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 外
+긴급공지
+국가별 공통사항
+ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터)
+발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+23. #176 | 폴란드 | Poland | code=PL
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 14
+선편 14
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ평균송달소요일수(선편) : 100~120일
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+금지·제한품목
+ㅇ금지품목: 젤라틴, 육류, 전자제품, 헌옷, 수출회사명의 상품, 생과일류 취급불가
+배달특이사항
+세관·통관사항
+ㅇ면세한도: 개인 45EUR 이하, 사업자 22EUR(단, 술 면제, 담배는 비면세품)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ평균송달소요일수(선편) : 100~120일
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+금지·제한품목
+ㅇ금지품목: 젤라틴, 육류, 전자제품, 헌옷, 수출회사명의 상품, 생과일류 취급불가
+배달특이사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+24. #76 | 프랑스 | France | code=FR
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 15
+선편 15
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+3475(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ평균송달소요일수(선편) : 70~90일
+금지·제한품목
+ㅇ금지품목 : 청소년 및 공공질서에 해로운 물건, 향수, 색소물, 도박용 물품, 목재, 밤(식용), 의류(모조상품인 경우), 광물성제품, 전기매트 및 장판(통관 불가), 알코올, 약, 현재 프랑스에서 유통되는 지폐, 동전 및 법정통화를 삽입한 등기 및 보험우편물 포함 우편물 발송 금지
+배달특이사항
+o 수취인명은 주소지 우편함/문패에 적혀있는 이름과 동일하게 기재(우편함/문패 에 수취인명이 없는경우 배달불가)
+세관·통관사항
+ㅇ통관기초정보[국제사업과-772(2012.06.12.카할라국가에 대한 통관기초정보 제공)]
+ㅇ관세 납부 시기: EMS(배달 시 납부), 소포(우체국 방문 납부)
+ㅇ관세 납부 방법: EMS(현금,수표), 소포(현금,신용카드)
+ㅇ관세 납부 우편물 수령방법: EMS(배달), 소포(배달국 방문)
+ㅇ통관회부료: EMS(18 EUR), 소포(세금이 2300 EUR 이하 3.15 EUR, 세금이 2300 EUR 이상 63.27 EUR)
+ㅇ관세 부과 우편물 보관료: 없음
+ㅇ통관업무 대표전화번호: EMS(00 33(0) 969 391 391), 소포(0825 878 888)
+ㅇ면세한도: 선물 45 EUR 이하
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 금지·제한품목
+ㅇ금지품목 : 청소년 및 공공질서에 해로운 물건, 향수, 색소물, 도박용 물품, 목재, 밤(식용), 의류(모조상품인 경우), 광물성제품, 전기매트 및 장판(통관 불가), 알코올, 약, 현재 프랑스에서 유통되는 지폐, 동전 및 법정통화를 삽입한 등기 및 보험우편물 포함 우편물 발송 금지
+배달특이사항
+o 수취인명은 주소지 우편함/문패에 적혀있는 이름과 동일하게 기재(우편함/문패 에 수취인명이 없는경우 배달불가)
+세관·통관사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ관세 납부 방법: EMS(현금,수표), 소포(현금,신용카드)
+ㅇ관세 납부 우편물 수령방법: EMS(배달), 소포(배달국 방문)
+ㅇ통관회부료: EMS(18 EUR), 소포(세금이 2300 EUR 이하 3.15 EUR, 세금이 2300 EUR 이상 63.27 EUR)
+ㅇ관세 부과 우편물 보관료: 없음
+ㅇ통관업무 대표전화번호: EMS(00 33(0) 969 391 391), 소포(0825 878 888)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ통관회부료: EMS(18 EUR), 소포(세금이 2300 EUR 이하 3.15 EUR, 세금이 2300 EUR 이상 63.27 EUR)
+ㅇ관세 부과 우편물 보관료: 없음
+ㅇ통관업무 대표전화번호: EMS(00 33(0) 969 391 391), 소포(0825 878 888)
+ㅇ면세한도: 선물 45 EUR 이하
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+25. #75 | 핀란드 | Finland | code=FI
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 21
+선편 21
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇ 평균송달소요일수(선편): 100 ~ 120일
+금지·제한품목
+ㅇ금지품목: 알코올, 귀금속, 진공포장 되지 않은 음식물, X-Ray
+배달특이사항
+세관·통관사항
+ㅇ UPU 회람 2020-32 (20.3.9.)
+관세 부과 대상 물품이 들어있는 우편물에 대한 통관수수료 통당 2.90유로를 핀란드 세관에서 우편물 수취인에게 부과하며 내용품 가격 22유로를 초과하는 통관 대상 물품에 적용(20.1.31.자 시행)
+ㅇ 면세한도: 선물 45 유로 이하 (2021.09.27. 수정 본부 국제사업과)
+ㅇ수리 후 재반입의 경우 상업송장(invoice)상에 warranty repair or repair against costs 문구와 수리비 기재
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 3 지역
+선편 3 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ UPU 회람 2020-32 (20.3.9.)
+관세 부과 대상 물품이 들어있는 우편물에 대한 통관수수료 통당 2.90유로를 핀란드 세관에서 우편물 수취인에게 부과하며 내용품 가격 22유로를 초과하는 통관 대상 물품에 적용(20.1.31.자 시행)
+ㅇ 면세한도: 선물 45 유로 이하 (2021.09.27. 수정 본부 국제사업과)
+ㅇ수리 후 재반입의 경우 상업송장(invoice)상에 warranty repair or repair against costs 문구와 수리비 기재
+인쇄
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+26. #174 | 필리핀 | Philippines | code=PH
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 30
+선편 30
+보험서장 취급지역
+항공 취급안함
+선편 취급안함
+귀증품등기취급
+취급안함
+주소변경/변환청구
+항공 취급
+선편 취급
+취급한도액(SDR)
+0
+세관신고서매수
+1
+첨부위치
+外
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 접수 시 주의사항
+ㅇUPU 회람 2020-40 (20.03.16.)
+대금교환서비스 제공 및 수신하지 않으며, 자국으로 잘못 반입되어 해당 물품에 상응하는 금액이 미징수된 채 배달된 어떠한 대금교환서비스 우편물에 대해서 책임이 없음
+ㅇ평균송달소요일수(선편) : 70~90일
+ㅇ국제 항공우편물 취급 지역은 우편번호별로 차이가 존재 <EMS운영가이드 필리핀>
+ 1. 우편번호 [1~로] 시작 하는 메트로 마닐라지역 EMS서비스 제공가능 (단, 지연가능) > 기존대로 접수
+ 2. 팔라완섬(5314,5315,5316,5317), 민도로섬(5110,5111)은 EMS서비스 제공 불가 지역으로 접수 불가
+ 3. 1번,2번 이외의 지역은 코로나19로 인해 상시 지연 지역으로 배달은 가능하나 EMS서비스 제약
+ (배달확인 등 종적정보 누락 및 장기 지연 배달 관련 등) => 접수 시 고객안내 철저
+ * ILOILO(우편번호 [5~로] 시작), CEBU(우편번호 [6~로] 시작) 지역은 현지 선편 운송으로 배달까지 4주 이상 소요 
+ ※ 항공통상, 항공소포, K-Packet도 동일하게 적용. 선편소포는 전 지역 접수 가능
+(우정사업본부 국제사업과, 2021.11.02.)
+ㅇ수취인명은 여권상 영문 이름(full name)을 필히 기재
+ㅇ내용품(음식물, 액체류, 파우더, 베터리 등은 마닐라에서 각 도
+시 전송 시, 선편(Surface) 전송(1개월 이상 소요)
+금지·제한품목
+ㅇ 마약류, 향정신성 물질
+ㅇ금지품목: 화폐,유가증권 취급불가, 바인더,청사진, 코카 잎, 다이너마이트, 화약, 아편, 양귀비, 도박 기구
+ㅇ모든 수입품에 관부과세 부과
+ㅇ카트(Khat,아프리카 산 식물) 잎으로 된 내용품이 담긴 우편물 발송 금지
+ㅇ식물 및 유사내용품(특히 온라인을 통한 구매 포함) 발송 시 적절한 관련 서류(필리핀 식물 산업국 또는 필리핀 식물보호기관으로부터 발급받은 위생 및 식물 위생 수입통관서류, 식물위생증명서 등 첨부 필요, 
+ 서류 미제출 시 당국 법에 따라 폐기 처분
+배달특이사항
+ㅇ관세 미납 우편물 반환청구 불가 / 수취인 수취거절 불가
+ㅇ마닐라 외 도시의 경우 100% 수취인이 주소 관할 우체국 방문 수령
+세관·통관사항
+ㅇ세관신고서(CN22, CN23, CP72) 부착 철저 및 
+ 주요 정보(수신자 이름과 주소 전체, 전화번호, 
+ 상품 상세정보) 미기재 시 지연 가능
+ㅇ세관계류 시, 수취인은 100% 세관 방문 통관(반환청구 시, 수취인의 관세 미납 시, 반환청구 불가 국가
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 2 지역
+선편 2 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇUPU 회람 2020-40 (20.03.16.)
+대금교환서비스 제공 및 수신하지 않으며, 자국으로 잘못 반입되어 해당 물품에 상응하는 금액이 미징수된 채 배달된 어떠한 대금교환서비스 우편물에 대해서 책임이 없음
+ㅇ평균송달소요일수(선편) : 70~90일
+ㅇ국제 항공우편물 취급 지역은 우편번호별로 차이가 존재 <EMS운영가이드 필리핀>
+1. 우편번호 [1~로] 시작 하는 메트로 마닐라지역 EMS서비스 제공가능 (단, 지연가능) > 기존대로 접수
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: ㅇ평균송달소요일수(선편) : 70~90일
+ㅇ국제 항공우편물 취급 지역은 우편번호별로 차이가 존재 <EMS운영가이드 필리핀>
+1. 우편번호 [1~로] 시작 하는 메트로 마닐라지역 EMS서비스 제공가능 (단, 지연가능) > 기존대로 접수
+2. 팔라완섬(5314,5315,5316,5317), 민도로섬(5110,5111)은 EMS서비스 제공 불가 지역으로 접수 불가
+3. 1번,2번 이외의 지역은 코로나19로 인해 상시 지연 지역으로 배달은 가능하나 EMS서비스 제약
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 1. 우편번호 [1~로] 시작 하는 메트로 마닐라지역 EMS서비스 제공가능 (단, 지연가능) > 기존대로 접수
+2. 팔라완섬(5314,5315,5316,5317), 민도로섬(5110,5111)은 EMS서비스 제공 불가 지역으로 접수 불가
+3. 1번,2번 이외의 지역은 코로나19로 인해 상시 지연 지역으로 배달은 가능하나 EMS서비스 제약
+(배달확인 등 종적정보 누락 및 장기 지연 배달 관련 등) => 접수 시 고객안내 철저
+* ILOILO(우편번호 [5~로] 시작), CEBU(우편번호 [6~로] 시작) 지역은 현지 선편 운송으로 배달까지 4주 이상 소요
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ㅇ모든 수입품에 관부과세 부과
+ㅇ카트(Khat,아프리카 산 식물) 잎으로 된 내용품이 담긴 우편물 발송 금지
+ㅇ식물 및 유사내용품(특히 온라인을 통한 구매 포함) 발송 시 적절한 관련 서류(필리핀 식물 산업국 또는 필리핀 식물보호기관으로부터 발급받은 위생 및 식물 위생 수입통관서류, 식물위생증명서 등 첨부 필요,
+서류 미제출 시 당국 법에 따라 폐기 처분
+배달특이사항
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 배달특이사항
+ㅇ관세 미납 우편물 반환청구 불가 / 수취인 수취거절 불가
+ㅇ마닐라 외 도시의 경우 100% 수취인이 주소 관할 우체국 방문 수령
+세관·통관사항
+ㅇ세관신고서(CN22, CN23, CP72) 부착 철저 및
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+27. #98 | 홍콩(중국) | Hong Kong | code=HK
+  Destination-specific notices:
+  Korean: 국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+제한중량(g)
+2000
+교부보관 기간(일)
+항공 60
+선편 60
+보험서장 취급지역
+항공 전국
+선편 전국
+귀증품등기취급
+취급
+주소변경/변환청구
+항공 취급안함
+선편 취급안함
+취급한도액(SDR)
+4000(1SDR=1,749원)
+세관신고서매수
+1
+첨부위치
+內
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+가나
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: ※ 접수불가능국가
+국제통상
+요금적용지역
+항공 1 지역
+선편 1 지역
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+  Korean: 內
+긴급공지
+국가별 공통사항
+o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+  Korean: o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG)
+ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+주요안내사항
+접수 시 주의사항
+o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
 
-- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
-Urgent notice (English): [Translation unavailable] o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+TOTAL LIVE DROPDOWN DESTINATIONS: 27
 
-- 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
-------------------------------------------------------------------------
-Postcrossing No.: 234
-Korean name: (not present in dropdown)
-English name: Uruguay
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 236
-Korean name: (not present in dropdown)
-English name: U.S. Minor Outlying Islands
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 237
-Korean name: (not present in dropdown)
-English name: Uzbekistan
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 238
-Korean name: (not present in dropdown)
-English name: Vanuatu
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 239
-Korean name: (not present in dropdown)
-English name: Vatican
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 240
-Korean name: (not present in dropdown)
-English name: Venezuela
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 242
-Korean name: (not present in dropdown)
-English name: Virgin Islands (UK)
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 243
-Korean name: (not present in dropdown)
-English name: Virgin Islands of the USA
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 244
-Korean name: (not present in dropdown)
-English name: Wallis & Futuna
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 245
-Korean name: (not present in dropdown)
-English name: Western Sahara
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 246
-Korean name: (not present in dropdown)
-English name: Yemen
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 247
-Korean name: (not present in dropdown)
-English name: Zambia
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
-Postcrossing No.: 248
-Korean name: (not present in dropdown)
-English name: Zimbabwe
-Reason: Missing from the Korea Post destination dropdown
-Urgent notice (Korean): (not available)
-Urgent notice (English): (not available)
-------------------------------------------------------------------------
+2. URGENT NOTICES FOUND ON THE MAIN PAGE
+================================================================
+Notice 1:
+  Korean: 국제통상
+요금적용지역
+제한중량(g)
+교부보관 기간(일)
+보험서장 취급지역
+귀증품등기취급
+주소변경/변환청구
+취급한도액(SDR)
+세관신고서매수
+첨부위치
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
 
-Extraction warnings: none recorded.
+Notice 2:
+  Korean: 국제소포
+국제통상
+도착국
+선택하세요
+남아프리카공화국
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: NO / not detected
+
+Notice 3:
+  Korean: 검색
+※ 접수불가능국가
+국제통상
+요금적용지역
+제한중량(g)
+  English: Translation unavailable; Korean text retained.
+  Suspension wording detected: YES
+
+
+3. DESTINATIONS WITH VERIFIED COUNTRY-SPECIFIC SUSPENSION WORDING
+================================================================
+#14 | 오스트레일리아(호주) | Australia | code=AU
+#19 | 방글라데시 | Bangladesh | code=BD
+#31 | 브라질 | Brazil | code=BR
+#40 | 캐나다 | Canada | code=CA
+#45 | 중국 | China | code=CN
+#208 | 스페인(에스파니아) | Spain | code=ES
+#75 | 핀란드 | Finland | code=FI
+#76 | 프랑스 | France | code=FR
+#233 | 영국 | United Kingdom | code=GB
+#98 | 홍콩(중국) | Hong Kong | code=HK
+#102 | 인도네시아 | Indonesia | code=ID
+#105 | 아일랜드 | Ireland | code=IE
+#101 | 인도 | India | code=IN
+#110 | 일본 | Japan | code=JP
+#133 | 말레이시아 | Malaysia | code=MY
+#155 | 네덜란드(네델란드) | Netherlands | code=NL
+#165 | 노르웨이 | Norway | code=NO
+#174 | 필리핀 | Philippines | code=PH
+#176 | 폴란드 | Poland | code=PL
+#182 | 러시아 | Russia | code=RU
+#213 | 스웨덴 | Sweden | code=SE
+#199 | 싱가포르 | Singapore | code=SG
+#219 | 타이(태국) | Thailand | code=TH
+#216 | 타이완(대만) | Taiwan | code=TW
+#235 | 미국 | U.S.A. | code=US
+#241 | 베트남 | Vietnam | code=VN
+#205 | 남아프리카공화국 | South Africa | code=ZA
+TOTAL DESTINATIONS WITH VERIFIED COUNTRY-SPECIFIC SUSPENSION WORDING: 27
+MAIN-PAGE NOTICE BLOCKS CONTAINING SUSPENSION WORDING: 1
+
+4. MASTER DESTINATIONS ABSENT FROM THE LIVE DROPDOWN
+================================================================
+These are candidates to investigate, not confirmed suspensions.
+
+#1 | Afghanistan
+#2 | Åland Islands
+#3 | Albania
+#4 | Algeria
+#5 | American Samoa
+#6 | Andorra
+#7 | Angola
+#8 | Anguilla
+#9 | Antarctica
+#10 | Antigua & Barbuda
+#11 | Argentina
+#12 | Armenia
+#13 | Aruba
+#15 | Austria
+#16 | Azerbaijan
+#17 | Bahamas
+#18 | Bahrain
+#20 | Barbados
+#21 | Belarus
+#22 | Belgium
+#23 | Belize
+#24 | Benin
+#25 | Bermuda
+#26 | Bhutan
+#27 | Bolivia
+#28 | Bonaire, Sint Eustatius and Saba
+#29 | Bosnia-Herzegovina
+#30 | Botswana
+#32 | British Indian Ocean Territory
+#33 | Brunei
+#34 | Bulgaria
+#35 | Burkina Faso
+#36 | Burundi
+#37 | Cabo Verde
+#38 | Cambodia
+#39 | Cameroon
+#41 | Cayman Islands
+#42 | Central African Republic
+#43 | Chad
+#44 | Chile
+#46 | Christmas Island
+#47 | Cocos Islands
+#48 | Colombia
+#49 | Comoros
+#50 | Congo
+#51 | Dem. Rep. Of Congo
+#52 | Cook Islands
+#53 | Costa Rica
+#54 | Côte d'Ivoire
+#55 | Croatia
+#56 | Cuba
+#57 | Curaçao
+#58 | Cyprus
+#59 | Czechia
+#60 | Denmark
+#61 | Djibouti
+#62 | Dominica
+#63 | Dominican Republic
+#64 | Ecuador
+#65 | Egypt
+#66 | El Salvador
+#67 | Equatorial Guinea
+#68 | Eritrea
+#69 | Estonia
+#70 | Eswatini /Swaziland
+#71 | Ethiopia
+#72 | Falkland Islands /Malvinas
+#73 | Faroe Islands
+#74 | Fiji
+#77 | French Guiana
+#78 | French Polynesia
+#79 | French Southern Territories
+#80 | Gabon
+#81 | Gambia
+#82 | Georgia
+#83 | Germany
+#84 | Ghana
+#85 | Gibraltar
+#86 | Greece
+#87 | Greenland
+#88 | Grenada
+#89 | Guadeloupe
+#90 | Guam
+#91 | Guatemala
+#92 | Guernsey
+#93 | Guinea
+#94 | Guinea-Bissau
+#95 | Guyana
+#96 | Haiti
+#97 | Honduras
+#99 | Hungary
+#100 | Iceland
+#103 | Iran
+#104 | Iraq
+#106 | Isle of Man
+#107 | Israel
+#108 | Italy
+#109 | Jamaica
+#111 | Jersey
+#112 | Jordan
+#113 | Kazakhstan
+#114 | Kenya
+#115 | Kiribati
+#116 | Korea(North)
+#117 | Korea(South)
+#118 | Kosovo
+#119 | Kuwait
+#120 | Kyrgyzstan
+#121 | Laos
+#122 | Latvia
+#123 | Lebanon
+#124 | Lesotho
+#125 | Liberia
+#126 | Libya
+#127 | Liechtenstein
+#128 | Lithuania
+#129 | Luxembourg
+#130 | Macao
+#131 | Madagascar
+#132 | Malawi
+#134 | Maldives
+#135 | Mali
+#136 | Malta
+#137 | Marshall Islands
+#138 | Martinique
+#139 | Mauritania
+#140 | Mauritius
+#141 | Mayotte
+#142 | Mexico
+#143 | Micronesia
+#144 | Moldova
+#145 | Monaco
+#146 | Mongolia
+#147 | Montenegro
+#148 | Montserrat
+#149 | Morocco
+#150 | Mozambique
+#151 | Myanmar
+#152 | Namibia
+#153 | Nauru / Naoero
+#154 | Nepal
+#156 | New Caledonia
+#157 | New Zealand
+#158 | Nicaragua
+#159 | Niger
+#160 | Nigeria
+#161 | Niue
+#162 | Norfolk Island
+#163 | Northern Mariana Islands
+#164 | North Macedonia
+#166 | Oman
+#167 | Pakistan
+#168 | Palau
+#169 | Palestine
+#170 | Panama
+#171 | Papua New Guinea
+#172 | Paraguay
+#173 | Peru
+#175 | Pitcairn
+#177 | Portugal
+#178 | Puerto Rico
+#179 | Qatar
+#180 | Réunion
+#181 | Romania
+#183 | Rwanda
+#184 | Saint Barthélemy
+#185 | Saint Helena, Ascension and Tristan da Cunha
+#186 | Saint Kitts and Nevis
+#187 | Saint Lucia
+#188 | Saint Martin
+#189 | Saint Pierre & Miquelon
+#190 | Saint Vincent and the Grenadines
+#191 | Samoa
+#192 | San Marino
+#193 | Sao Tome and Principe
+#194 | Saudi Arabia
+#195 | Senegal
+#196 | Serbia
+#197 | Seychelles
+#198 | Sierra Leone
+#200 | Sint Maarten
+#201 | Slovakia
+#202 | Slovenia
+#203 | Solomon Islands
+#204 | Somalia
+#206 | South Georgia and S. Sandwich Islands
+#207 | South Sudan
+#209 | Sri Lanka
+#210 | Sudan
+#211 | Suriname
+#212 | Svalbard and Jan Mayen
+#214 | Switzerland
+#215 | Syria
+#217 | Tajikistan
+#218 | Tanzania
+#220 | Timor-Leste
+#221 | Togo
+#222 | Tokelau
+#223 | Tonga
+#224 | Trinidad and Tobago
+#225 | Tunisia
+#226 | Turkey
+#227 | Turkmenistan
+#228 | Turks and Caicos Islands
+#229 | Tuvalu
+#230 | Uganda
+#231 | Ukraine
+#232 | United Arab Emirates
+#234 | Uruguay
+#236 | U.S. Minor Outlying Islands
+#237 | Uzbekistan
+#238 | Vanuatu
+#239 | Vatican
+#240 | Venezuela
+#242 | Virgin Islands (UK)
+#243 | Virgin Islands of the USA
+#244 | Wallis & Futuna
+#245 | Western Sahara
+#246 | Yemen
+#247 | Zambia
+#248 | Zimbabwe
+TOTAL MASTER DESTINATIONS ABSENT FROM DROPDOWN: 221
+
+5. LIVE DROPDOWN ITEMS THAT DID NOT MATCH THE MASTER LIST
+================================================================
+None.
+TOTAL UNMATCHED LIVE DROPDOWN ITEMS: 0
+
+6. EXTRACTION WARNINGS
+================================================================
+- Only 27 destination options were extracted. The source may be filtered, incomplete, or dynamically rendered.
+- The number of live dropdown options is smaller than the 248-item master list. Missing entries are reported separately and are not automatically treated as confirmed suspensions.
+- The live dropdown contains 30 or fewer destinations. Confirm manually that the page is displaying the intended International Letter Post (국제통상) service and that the destination list is not being filtered.
+- The live dropdown is much smaller than the 248-item master list. This report does not assume that every missing destination is officially suspended.
+
+7. SUMMARY
+================================================================
+Master destinations: 248
+Live dropdown destinations: 27
+Master destinations absent from dropdown: 221
+Unmatched live dropdown entries: 0
+Main-page urgent/notice blocks: 3
+Main-page notices containing suspension wording: 1
+Country-specific suspensions verified by form response: 27
 
 END OF REPORT
