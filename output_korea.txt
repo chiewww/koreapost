@@ -1,52 +1,415 @@
 KOREA POST INTERNATIONAL LETTER POST MONITOR
-Generated: 2026-10-26 07:12 UTC
-Destination dropdown count: 27
+Generated: 2026-10-26 07:33 UTC
+Destination dropdown count: 199
 
 DESTINATIONS
 ============================================================
+#84 | 가나 | Ghana | code=GH
+긴급공지: No text extracted.
+
+#80 | 가봉 | Gabon | code=GA
+긴급공지: No text extracted.
+
+#81 | 감비아 | Gambia | code=GM
+긴급공지: No text extracted.
+
+#89 | 과들루프섬(프랑스) | Guadeloupe | code=GP
+긴급공지: No text extracted.
+
+#91 | 과테말라 | Guatemala | code=GT
+긴급공지: No text extracted.
+
+#90 | 괌(미국) | Guam | code=GU
+긴급공지: No text extracted.
+
+#86 | 그리스 | Greece | code=GR
+긴급공지: No text extracted.
+
+#87 | 그린란드(덴마크) | Greenland | code=GL
+긴급공지: No text extracted.
+
+#93 | 기니 | Guinea | code=GN
+긴급공지: No text extracted.
+
+#94 | 기니비사우 | Guinea-Bissau | code=GW
+긴급공지: No text extracted.
+
+#152 | 나미비아 | Namibia | code=NA
+긴급공지: No text extracted.
+
+#153 | 나우루 | Nauru | code=NR
+긴급공지: No text extracted.
+
+#160 | 나이지리아 | Nigeria | code=NG
+긴급공지: No text extracted.
+
 #205 | 남아프리카공화국 | South Africa | code=ZA
 긴급공지: No text extracted.
 
 #155 | 네덜란드(네델란드) | Netherlands | code=NL
 긴급공지: No text extracted.
 
+#154 | 네팔 | Nepal | code=NP
+긴급공지: No text extracted.
+
 #165 | 노르웨이 | Norway | code=NO
+긴급공지: No text extracted.
+
+#162 | 노퍽섬(오스트레일리아) | Norfolk Island | code=NF
+긴급공지: No text extracted.
+
+#157 | 뉴질랜드 | New Zealand | code=NZ
+긴급공지: No text extracted.
+
+#156 | 뉴칼레도니아섬(프랑스) | New Caledonia | code=NC
+긴급공지: No text extracted.
+
+#161 | 니베섬(뉴질랜드) | Niue | code=NU
+긴급공지: No text extracted.
+
+#158 | 니카라과 | Nicaragua | code=NI
+긴급공지: No text extracted.
+
+#60 | 덴마크 | Denmark | code=DK
+긴급공지: No text extracted.
+
+#63 | 도미니카공화국 | Dominican Republic | code=DO
+긴급공지: No text extracted.
+
+#83 | 독일 | Germany | code=DE
+긴급공지: No text extracted.
+
+#220 | 동티모르 | Timor-Leste | code=TL
+긴급공지: No text extracted.
+
+#121 | 라오스 | Laos | code=LA
+긴급공지: No text extracted.
+
+#122 | 라트비아 | Latvia | code=LV
 긴급공지: No text extracted.
 
 #182 | 러시아 | Russia | code=RU
 긴급공지: No text extracted.
 
+#123 | 레바논 | Lebanon | code=LB
+긴급공지: No text extracted.
+
+#124 | 레소토 | Lesotho | code=LS
+긴급공지: No text extracted.
+
+#180 | 레위니옹섬(프랑스) | Réunion | code=RE
+긴급공지: No text extracted.
+
+#181 | 루마니아 | Romania | code=RO
+긴급공지: No text extracted.
+
+#129 | 룩셈부르크 | Luxembourg | code=LU
+긴급공지: No text extracted.
+
+#183 | 르완다 | Rwanda | code=RW
+긴급공지: No text extracted.
+
+#128 | 리투아니아 | Lithuania | code=LT
+긴급공지: No text extracted.
+
+#127 | 리히텐슈타인 | Liechtenstein | code=LI
+긴급공지: No text extracted.
+
+#131 | 마다가스카르 | Madagascar | code=MG
+긴급공지: No text extracted.
+
+#138 | 마르티니크섬(프랑스) | Martinique | code=MQ
+긴급공지: No text extracted.
+
+#137 | 마셜제도(미국) | Marshall Islands | code=MH
+긴급공지: No text extracted.
+
+#141 | 마요트 | Mayotte | code=YT
+긴급공지: No text extracted.
+
+#130 | 마카오(중국) | Macao | code=MO
+긴급공지: No text extracted.
+
+#132 | 말라위 | Malawi | code=MW
+긴급공지: No text extracted.
+
 #133 | 말레이시아 | Malaysia | code=MY
+긴급공지: No text extracted.
+
+#142 | 멕시코 | Mexico | code=MX
+긴급공지: No text extracted.
+
+#145 | 모나코 | Monaco | code=MC
+긴급공지: No text extracted.
+
+#149 | 모로코 | Morocco | code=MA
+긴급공지: No text extracted.
+
+#140 | 모리셔스 | Mauritius | code=MU
+긴급공지: No text extracted.
+
+#139 | 모리타니 | Mauritania | code=MR
+긴급공지: No text extracted.
+
+#150 | 모잠비크 | Mozambique | code=MZ
+긴급공지: No text extracted.
+
+#147 | 몬테네그로 | Montenegro | code=ME
+긴급공지: No text extracted.
+
+#148 | 몬트세랫(영국) | Montserrat | code=MS
+긴급공지: No text extracted.
+
+#144 | 몰도바 | Moldova | code=MD
+긴급공지: No text extracted.
+
+#134 | 몰디브 | Maldives | code=MV
+긴급공지: No text extracted.
+
+#136 | 몰타 | Malta | code=MT
+긴급공지: No text extracted.
+
+#146 | 몽골 | Mongolia | code=MN
 긴급공지: No text extracted.
 
 #235 | 미국 | U.S.A. | code=US
 긴급공지: No text extracted.
 
+#151 | 미얀마 | Myanmar | code=MM
+긴급공지: No text extracted.
+
+#UNMATCHED | 미크로네시아(마이크로네시아) | Micronesia, Federated States of | code=FM
+긴급공지: No text extracted.
+
+#238 | 바누아투 | Vanuatu | code=VU
+긴급공지: No text extracted.
+
+#18 | 바레인 | Bahrain | code=BH
+긴급공지: No text extracted.
+
+#20 | 바베이도스 | Barbados | code=BB
+긴급공지: No text extracted.
+
+#239 | 바티칸 | Vatican | code=VA
+긴급공지: No text extracted.
+
+#17 | 바하마 | Bahamas | code=BS
+긴급공지: No text extracted.
+
 #19 | 방글라데시 | Bangladesh | code=BD
+긴급공지: No text extracted.
+
+#25 | 버뮤다섬(영국) | Bermuda | code=BM
+긴급공지: No text extracted.
+
+#243 | 버진제도(미국) | Virgin Islands, U.S. | code=VI
+긴급공지: No text extracted.
+
+#242 | 버진제도(영국) | Virgin Islands, British | code=VG
+긴급공지: No text extracted.
+
+#240 | 베네수엘라 | Venezuela | code=VE
 긴급공지: No text extracted.
 
 #241 | 베트남 | Vietnam | code=VN
 긴급공지: No text extracted.
 
+#22 | 벨기에 | Belgium | code=BE
+긴급공지: No text extracted.
+
+#21 | 벨라루스 | Belarus | code=BY
+긴급공지: No text extracted.
+
+#UNMATCHED | 보스니아헤르체코비나 | Bosnia and Herzegovina | code=BA
+긴급공지: No text extracted.
+
+#30 | 보츠와나 | Botswana | code=BW
+긴급공지: No text extracted.
+
+#26 | 부탄 | Bhutan | code=BT
+긴급공지: No text extracted.
+
+#164 | 북마케도니아 | North Macedonia | code=MK
+긴급공지: No text extracted.
+
+#34 | 불가리아 | Bulgaria | code=BG
+긴급공지: No text extracted.
+
 #31 | 브라질 | Brazil | code=BR
+긴급공지: No text extracted.
+
+#33 | 브루네이(브루나이) | Brunei Darussalam | code=BN
+긴급공지: No text extracted.
+
+#191 | 사모아(구서사모아) | Samoa | code=WS
+긴급공지: No text extracted.
+
+#5 | 사모아제도(미국) | American Samoa | code=AS
+긴급공지: No text extracted.
+
+#194 | 사우디아라비아 | Saudi Arabia | code=SA
+긴급공지: No text extracted.
+
+#163 | 사이판(미국) | Northern Mariana Islands | code=MP
+긴급공지: No text extracted.
+
+#58 | 사이프러스 | Cyprus | code=CY
+긴급공지: No text extracted.
+
+#192 | 산마리노 | San Marino | code=SM
+긴급공지: No text extracted.
+
+#193 | 상투메프린시페 | Sao Tome and Principe | code=ST
+긴급공지: No text extracted.
+
+#189 | 생피에르미클롱섬(프랑스) | Saint Pierre and Miquelon | code=PM
+긴급공지: No text extracted.
+
+#195 | 세네갈 | Senegal | code=SN
+긴급공지: No text extracted.
+
+#196 | 세르비아 | Serbia | code=RS
+긴급공지: No text extracted.
+
+#197 | 세이셸 | Seychelles | code=SC
+긴급공지: No text extracted.
+
+#187 | 세인트루시아 | Saint Lucia | code=LC
+긴급공지: No text extracted.
+
+#190 | 세인트빈센트그레나딘 | Saint Vincent and the Grenadines | code=VC
+긴급공지: No text extracted.
+
+#186 | 세인트키츠네비스 | Saint Kitts and Nevis | code=KN
+긴급공지: No text extracted.
+
+#204 | 소말리아 | Somalia | code=SO
+긴급공지: No text extracted.
+
+#203 | 솔로몬아일란드 | Solomon Islands | code=SB
+긴급공지: No text extracted.
+
+#210 | 수단 | Sudan | code=SD
+긴급공지: No text extracted.
+
+#211 | 수리남 | Suriname | code=SR
+긴급공지: No text extracted.
+
+#209 | 스리랑카 | Sri Lanka | code=LK
 긴급공지: No text extracted.
 
 #213 | 스웨덴 | Sweden | code=SE
 긴급공지: No text extracted.
 
+#214 | 스위스 | Switzerland | code=CH
+긴급공지: No text extracted.
+
 #208 | 스페인(에스파니아) | Spain | code=ES
+긴급공지: No text extracted.
+
+#201 | 슬로바키아 | Slovakia | code=SK
+긴급공지: No text extracted.
+
+#202 | 슬로베니아 | Slovenia | code=SI
 긴급공지: No text extracted.
 
 #199 | 싱가포르 | Singapore | code=SG
 긴급공지: No text extracted.
 
+#232 | 아랍에미리트연합국 | United Arab Emirates | code=AE
+긴급공지: No text extracted.
+
+#13 | 아루바섬(네덜란드) | Aruba | code=AW
+긴급공지: No text extracted.
+
+#12 | 아르메니아 | Armenia | code=AM
+긴급공지: No text extracted.
+
+#11 | 아르헨티나 | Argentina | code=AR
+긴급공지: No text extracted.
+
+#100 | 아이슬란드 | Iceland | code=IS
+긴급공지: No text extracted.
+
 #105 | 아일랜드 | Ireland | code=IE
+긴급공지: No text extracted.
+
+#16 | 아제르바이잔 | Azerbaijan | code=AZ
+긴급공지: No text extracted.
+
+#1 | 아프가니스탄 | Afghanistan | code=AF
+긴급공지: No text extracted.
+
+#6 | 안도라 | Andorra | code=AD
+긴급공지: No text extracted.
+
+#3 | 알바니아 | Albania | code=AL
+긴급공지: No text extracted.
+
+#4 | 알제리 | Algeria | code=DZ
+긴급공지: No text extracted.
+
+#7 | 앙골라 | Angola | code=AO
+긴급공지: No text extracted.
+
+#8 | 앵귈라섬(영국) | Anguilla | code=AI
+긴급공지: No text extracted.
+
+#70 | 에스와티니 | Eswatini /Swaziland | code=SZ
+긴급공지: No text extracted.
+
+#69 | 에스토니아 | Estonia | code=EE
+긴급공지: No text extracted.
+
+#64 | 에콰도르 | Ecuador | code=EC
+긴급공지: No text extracted.
+
+#71 | 에티오피아 | Ethiopia | code=ET
+긴급공지: No text extracted.
+
+#66 | 엘살바도르 | El Salvador | code=SV
 긴급공지: No text extracted.
 
 #233 | 영국 | United Kingdom | code=GB
 긴급공지: No text extracted.
 
+#166 | 오만 | Oman | code=OM
+긴급공지: No text extracted.
+
 #14 | 오스트레일리아(호주) | Australia | code=AU
+긴급공지: No text extracted.
+
+#15 | 오스트리아 | Austria | code=AT
+긴급공지: No text extracted.
+
+#244 | 왈리스푸투나제도(프랑스) | Wallis and Futuna | code=WF
+긴급공지: No text extracted.
+
+#112 | 요르단 | Jordan | code=JO
+긴급공지: No text extracted.
+
+#230 | 우간다 | Uganda | code=UG
+긴급공지: No text extracted.
+
+#234 | 우루과이 | Uruguay | code=UY
+긴급공지: No text extracted.
+
+#237 | 우즈베키스탄 | Uzbekistan | code=UZ
+긴급공지: No text extracted.
+
+#231 | 우크라이나 | Ukraine | code=UA
+긴급공지: No text extracted.
+
+#103 | 이란 | Iran | code=IR
+긴급공지: No text extracted.
+
+#107 | 이스라엘 | Israel | code=IL
+긴급공지: No text extracted.
+
+#65 | 이집트 | Egypt | code=EG
+긴급공지: No text extracted.
+
+#108 | 이탈리아(이태리) | Italy | code=IT
 긴급공지: No text extracted.
 
 #101 | 인도 | India | code=IN
@@ -58,10 +421,91 @@ DESTINATIONS
 #110 | 일본 | Japan | code=JP
 긴급공지: No text extracted.
 
+#247 | 잠비아 | Zambia | code=ZM
+긴급공지: No text extracted.
+
+#67 | 적도기니 | Equatorial Guinea | code=GQ
+긴급공지: No text extracted.
+
+#82 | 조지아 | Georgia | code=GE
+긴급공지: No text extracted.
+
 #45 | 중국 | China | code=CN
 긴급공지: No text extracted.
 
+#42 | 중앙아프리카 | Central African Republic | code=CF
+긴급공지: No text extracted.
+
+#61 | 지부티 | Djibouti | code=DJ
+긴급공지: No text extracted.
+
+#85 | 지브롤터(영국) | Gibraltar | code=GI
+긴급공지: No text extracted.
+
+#59 | 체코 | Czechia | code=CZ
+긴급공지: No text extracted.
+
+#44 | 칠레 | Chile | code=CL
+긴급공지: No text extracted.
+
+#37 | 카보베르데 | Cabo Verde | code=CV
+긴급공지: No text extracted.
+
+#113 | 카자흐스탄 | Kazakhstan | code=KZ
+긴급공지: No text extracted.
+
+#179 | 카타르 | Qatar | code=QA
+긴급공지: No text extracted.
+
+#38 | 캄보디아 | Cambodia | code=KH
+긴급공지: No text extracted.
+
 #40 | 캐나다 | Canada | code=CA
+긴급공지: No text extracted.
+
+#114 | 케냐 | Kenya | code=KE
+긴급공지: No text extracted.
+
+#41 | 케이맨제도 | Cayman Islands | code=KY
+긴급공지: No text extracted.
+
+#49 | 코모로 | Comoros | code=KM
+긴급공지: No text extracted.
+
+#53 | 코스타리카 | Costa Rica | code=CR
+긴급공지: No text extracted.
+
+#UNMATCHED | 코코스제도(오스트레일리아) | Cocos (Keeling) Islands | code=CC
+긴급공지: No text extracted.
+
+#48 | 콜롬비아 | Colombia | code=CO
+긴급공지: No text extracted.
+
+#51 | 콩고민주공화국 | Dem. Rep. Of Congo | code=CD
+긴급공지: No text extracted.
+
+#56 | 쿠바 | Cuba | code=CU
+긴급공지: No text extracted.
+
+#119 | 쿠웨이트 | Kuwait | code=KW
+긴급공지: No text extracted.
+
+#52 | 쿡제도(뉴질랜드) | Cook Islands | code=CK
+긴급공지: No text extracted.
+
+#57 | 퀴라소 | Curaçao | code=CW
+긴급공지: No text extracted.
+
+#55 | 크로아티아 | Croatia | code=HR
+긴급공지: No text extracted.
+
+#46 | 크리스마스섬(오스트레일리아) | Christmas Island | code=CX
+긴급공지: No text extracted.
+
+#120 | 키르기스스탄 | Kyrgyzstan | code=KG
+긴급공지: No text extracted.
+
+#115 | 키리바시 | Kiribati | code=KI
 긴급공지: No text extracted.
 
 #219 | 타이(태국) | Thailand | code=TH
@@ -70,10 +514,76 @@ DESTINATIONS
 #216 | 타이완(대만) | Taiwan | code=TW
 긴급공지: No text extracted.
 
+#217 | 타지키스탄 | Tajikistan | code=TJ
+긴급공지: No text extracted.
+
+#218 | 탄자니아 | Tanzania | code=TZ
+긴급공지: No text extracted.
+
+#228 | 터크스케이커스제도(영국) | Turks and Caicos Islands | code=TC
+긴급공지: No text extracted.
+
+#222 | 토켈라우제도(뉴질렌드) | Tokelau | code=TK
+긴급공지: No text extracted.
+
+#223 | 통가 | Tonga | code=TO
+긴급공지: No text extracted.
+
+#227 | 투르크메니스탄 | Turkmenistan | code=TM
+긴급공지: No text extracted.
+
+#229 | 투발루 | Tuvalu | code=TV
+긴급공지: No text extracted.
+
+#225 | 튀니지 | Tunisia | code=TN
+긴급공지: No text extracted.
+
+#226 | 튀르키예 | Turkey | code=TR
+긴급공지: No text extracted.
+
+#224 | 트리니다드토바고 | Trinidad and Tobago | code=TT
+긴급공지: No text extracted.
+
+#170 | 파나마 | Panama | code=PA
+긴급공지: No text extracted.
+
+#172 | 파라과이 | Paraguay | code=PY
+긴급공지: No text extracted.
+
+#167 | 파키스탄 | Pakistan | code=PK
+긴급공지: No text extracted.
+
+#171 | 파푸아뉴기니 | Papua New Guinea | code=PG
+긴급공지: No text extracted.
+
+#168 | 팔라우섬 | Palau | code=PW
+긴급공지: No text extracted.
+
+#73 | 페로제도(덴마크) | Faroe Islands | code=FO
+긴급공지: No text extracted.
+
+#173 | 페루 | Peru | code=PE
+긴급공지: No text extracted.
+
+#177 | 포르투갈 | Portugal | code=PT
+긴급공지: No text extracted.
+
 #176 | 폴란드 | Poland | code=PL
 긴급공지: No text extracted.
 
+#78 | 폴리네시아(프랑스) | French Polynesia | code=PF
+긴급공지: No text extracted.
+
+#178 | 푸에르토리코섬(미국) | Puerto Rico | code=PR
+긴급공지: No text extracted.
+
 #76 | 프랑스 | France | code=FR
+긴급공지: No text extracted.
+
+#79 | 프랑스(프랑스령동남및남극권) | French Southern Territories | code=TF
+긴급공지: No text extracted.
+
+#74 | 피지 | Fiji | code=FJ
 긴급공지: No text extracted.
 
 #75 | 핀란드 | Finland | code=FI
@@ -82,258 +592,490 @@ DESTINATIONS
 #174 | 필리핀 | Philippines | code=PH
 긴급공지: No text extracted.
 
+#175 | 핏케언제도(영국) | Pitcairn | code=PN
+긴급공지: No text extracted.
+
+#99 | 헝가리 | Hungary | code=HU
+긴급공지: No text extracted.
+
 #98 | 홍콩(중국) | Hong Kong | code=HK
 긴급공지: No text extracted.
 
 
 A. URGENT NOTICES WITH POSSIBLE SUSPENSION WORDING
 ============================================================
-No urgent notices matched the configured terms.
+No urgent notices matched the configured suspension terms.
 
 B. MASTER-LIST DESTINATIONS NOT MATCHED TO LIVE DROPDOWN
 ============================================================
-#1 | Afghanistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #2 | Åland Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#3 | Albania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#4 | Algeria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#5 | American Samoa | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#6 | Andorra | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#7 | Angola | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#8 | Anguilla | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #9 | Antarctica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #10 | Antigua & Barbuda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#11 | Argentina | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#12 | Armenia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#13 | Aruba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#15 | Austria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#16 | Azerbaijan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#17 | Bahamas | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#18 | Bahrain | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#20 | Barbados | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#21 | Belarus | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#22 | Belgium | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #23 | Belize | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #24 | Benin | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#25 | Bermuda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#26 | Bhutan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #27 | Bolivia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #28 | Bonaire, Sint Eustatius and Saba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #29 | Bosnia-Herzegovina | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#30 | Botswana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #32 | British Indian Ocean Territory | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#33 | Brunei | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#34 | Bulgaria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #35 | Burkina Faso | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #36 | Burundi | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#37 | Cabo Verde | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#38 | Cambodia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #39 | Cameroon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#41 | Cayman Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#42 | Central African Republic | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #43 | Chad | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#44 | Chile | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#46 | Christmas Island | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #47 | Cocos Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#48 | Colombia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#49 | Comoros | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #50 | Congo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#51 | Dem. Rep. Of Congo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#52 | Cook Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#53 | Costa Rica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #54 | Côte d'Ivoire | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#55 | Croatia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#56 | Cuba | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#57 | Curaçao | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#58 | Cyprus | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#59 | Czechia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#60 | Denmark | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#61 | Djibouti | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #62 | Dominica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#63 | Dominican Republic | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#64 | Ecuador | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#65 | Egypt | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#66 | El Salvador | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#67 | Equatorial Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #68 | Eritrea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#69 | Estonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#70 | Eswatini /Swaziland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#71 | Ethiopia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #72 | Falkland Islands /Malvinas | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#73 | Faroe Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#74 | Fiji | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #77 | French Guiana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#78 | French Polynesia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#79 | French Southern Territories | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#80 | Gabon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#81 | Gambia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#82 | Georgia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#83 | Germany | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#84 | Ghana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#85 | Gibraltar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#86 | Greece | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#87 | Greenland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #88 | Grenada | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#89 | Guadeloupe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#90 | Guam | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#91 | Guatemala | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #92 | Guernsey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#93 | Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#94 | Guinea-Bissau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #95 | Guyana | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #96 | Haiti | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #97 | Honduras | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#99 | Hungary | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#100 | Iceland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#103 | Iran | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #104 | Iraq | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #106 | Isle of Man | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#107 | Israel | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#108 | Italy | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #109 | Jamaica | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #111 | Jersey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#112 | Jordan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#113 | Kazakhstan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#114 | Kenya | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#115 | Kiribati | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #116 | Korea(North) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #117 | Korea(South) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #118 | Kosovo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#119 | Kuwait | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#120 | Kyrgyzstan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#121 | Laos | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#122 | Latvia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#123 | Lebanon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#124 | Lesotho | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #125 | Liberia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #126 | Libya | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#127 | Liechtenstein | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#128 | Lithuania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#129 | Luxembourg | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#130 | Macao | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#131 | Madagascar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#132 | Malawi | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#134 | Maldives | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #135 | Mali | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#136 | Malta | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#137 | Marshall Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#138 | Martinique | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#139 | Mauritania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#140 | Mauritius | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#141 | Mayotte | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#142 | Mexico | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #143 | Micronesia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#144 | Moldova | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#145 | Monaco | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#146 | Mongolia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#147 | Montenegro | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#148 | Montserrat | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#149 | Morocco | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#150 | Mozambique | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#151 | Myanmar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#152 | Namibia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#153 | Nauru / Naoero | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#154 | Nepal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#156 | New Caledonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#157 | New Zealand | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#158 | Nicaragua | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #159 | Niger | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#160 | Nigeria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#161 | Niue | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#162 | Norfolk Island | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#163 | Northern Mariana Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#164 | North Macedonia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#166 | Oman | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#167 | Pakistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#168 | Palau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #169 | Palestine | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#170 | Panama | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#171 | Papua New Guinea | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#172 | Paraguay | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#173 | Peru | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#175 | Pitcairn | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#177 | Portugal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#178 | Puerto Rico | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#179 | Qatar | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#180 | Réunion | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#181 | Romania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#183 | Rwanda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #184 | Saint Barthélemy | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #185 | Saint Helena, Ascension and Tristan da Cunha | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#186 | Saint Kitts and Nevis | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#187 | Saint Lucia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #188 | Saint Martin | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#189 | Saint Pierre & Miquelon | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#190 | Saint Vincent and the Grenadines | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#191 | Samoa | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#192 | San Marino | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#193 | Sao Tome and Principe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#194 | Saudi Arabia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#195 | Senegal | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#196 | Serbia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#197 | Seychelles | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #198 | Sierra Leone | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #200 | Sint Maarten | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#201 | Slovakia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#202 | Slovenia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#203 | Solomon Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#204 | Somalia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #206 | South Georgia and S. Sandwich Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #207 | South Sudan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#209 | Sri Lanka | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#210 | Sudan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#211 | Suriname | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #212 | Svalbard and Jan Mayen | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#214 | Switzerland | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #215 | Syria | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#217 | Tajikistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#218 | Tanzania | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#220 | Timor-Leste | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #221 | Togo | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#222 | Tokelau | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#223 | Tonga | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#224 | Trinidad and Tobago | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#225 | Tunisia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#226 | Turkey | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#227 | Turkmenistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#228 | Turks and Caicos Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#229 | Tuvalu | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#230 | Uganda | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#231 | Ukraine | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#232 | United Arab Emirates | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#234 | Uruguay | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #236 | U.S. Minor Outlying Islands | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#237 | Uzbekistan | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#238 | Vanuatu | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#239 | Vatican | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#240 | Venezuela | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#242 | Virgin Islands (UK) | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#243 | Virgin Islands of the USA | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#244 | Wallis & Futuna | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #245 | Western Sahara | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #246 | Yemen | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
-#247 | Zambia | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 #248 | Zimbabwe | NOT MATCHED IN LIVE DROPDOWN (not proof of suspension)
 
 IMPORTANT INTERPRETATION
 ============================================================
 A destination absent from the observed dropdown is not confirmed suspended by that fact alone.
-Suspension wording is a candidate indicator and should be checked against the full official notice and applicable service rules.
-This report extracts only 긴급공지. It intentionally excludes 주요안내사항.
+Suspension wording is a candidate indicator and should be checked against the complete official notice.
+This report extracts only 긴급공지 and intentionally excludes 주요안내사항.
 
 DATA-QUALITY SUMMARY
 ============================================================
-Live dropdown destinations: 27
-Master-list destinations not matched: 221
+Live dropdown destinations: 199
+Master-list destinations not matched: 52
 Urgent notices with possible suspension wording: 0
 Destination processing errors: 0
 
-WARNING: FEWER THAN 100 LIVE DROPDOWN DESTINATIONS
-The observed dropdown may be incomplete, may be in a different page state, or may be populated dynamically.
-Do not treat the unmatched master-list destinations as confirmed suspensions.
-
 BROWSER NETWORK DIAGNOSTICS
 ============================================================
-XHR/fetch requests and responses observed during this run:
-No XHR/fetch events were captured. The page may use other resource types or load its options in the initial HTML.
+XHR/fetch requests and responses captured during this run:
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+REQUEST | xhr | POST | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
+RESPONSE | status=200 | xhr | content-type=application/xml;charset=UTF-8 | https://ems.epost.go.kr/front.EmsDeliveryNoticeCountry.postal
 
 END OF REPORT
