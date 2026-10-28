@@ -2,8 +2,8 @@ KOREA POST EMS - SERVICE CONDITION MONITOR
 Source: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal
 
 TOTAL COUNTRIES IN 도착국 DROPDOWN: 223
-TOTAL SUSPENDED COUNTRIES: 82
-   (A: urgent notice mentions suspension = 39, B: missing from dropdown = 43)
+TOTAL SUSPENDED COUNTRIES: 69
+   (A: urgent notice mentions suspension = 43, B: missing from dropdown = 26)
 
 ======================================================================
 SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
@@ -17,10 +17,16 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [4] 알제리 | Algeria
     긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
     Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[5] 사모아제도(미국) | American Samoa
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Samoa(AS) , 단일 우편번호 사용 : AS 96799
+    Urgent notice (EN): Resume receiving international airmail (24.04.22.) o Country name (country code) Samoa (AS), single zip code: AS 96799
 [6] 안도라 | Andorra
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [7] 앙골라 | Angola
+[8] 앵귈라섬(영국) | Anguilla
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Anguilla(AI) , 단일 우편번호 사용 : AI-2640
+    Urgent notice (EN): Resume receiving international airmail (24.04.22.) o Country name (country code) Anguilla (AI), single zip code: AI-2640
 [10] 앤티과바부다 | Antigua & Barbuda
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
@@ -28,6 +34,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): .
     Urgent notice (EN): LTD.
 [12] 아르메니아 | Armenia
+[13] 아루바섬(네덜란드) | Aruba
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [14] 오스트레일리아(호주) | Australia
     긴급공지 (KO): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 o 배달 시까지 80일~120일 소요(한달이상 지연 예상) o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.) o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) o 호주행 국제우편 반려동물 물품 관련 주의사항 안내 - 대상 : 호주행 국제우편 - 대상품목 : 동물을 재료로 사용한 반려동물 음식 - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분 - 사유 : 내용 물품으로 인한 질병 확산 방지
     Urgent notice (EN): o Resumption of acceptance of ship mail to Australia (from 12/16) (Dept. of International Affairs, 2022.12.15.) o Resumption of acceptance of international air mail (usually, parcels, K-Packet) (Dept. of International Affairs, 2022.09.08.) o Delay in delivery of ship mail to Australia, the United States and Canada due to lack of space for ships o Delay in delivery of ship mail to Australia, the United States and Canada (expected to be delayed by more than a month) o No timely mail, emergency documents or food accepted (Dept. of International Affairs, 2022.01.11.) o Delay in delivery of shipments due to increased shipments (Dept. of International Affairs, 2020.10.16.) o Instructions regarding items for international mail to Australia - Subject: International mail to Australia - Subject: Pet food using animals as material - Contents: Immediate disposal by Australian authorities if found in international mail to Australia - Reason: Disease spread due to contents Prevent
@@ -57,6 +66,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [24] 베넹 | Benin
     긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
     Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
+[25] 버뮤다섬(영국) | Bermuda
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [26] 부탄 | Bhutan
     긴급공지 (KO): .
     Urgent notice (EN): LTD.
@@ -185,7 +197,13 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [75] 핀란드 | Finland
-[76] 과들루프섬(프랑스) | France
+[76] 프랑스 | France
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
+[77] 기아나(프랑스) | French Guiana
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) * 보통통상 및 등기에는 화폐 취급불가
+    Urgent notice (EN): International airmail reception resumed (24.04.22.) * Money cannot be handled in normal trade and registration
+[78] 폴리네시아(프랑스) | French Polynesia
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [80] 가봉 | Gabon
@@ -207,6 +225,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [88] 그레나다 | Grenada
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
+[89] 과들루프섬(프랑스) | Guadeloupe
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [90] 괌(미국) | Guam
@@ -312,6 +333,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [137] 마셜제도(미국) | Marshall Islands
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
+[138] 마르티니크섬(프랑스) | Martinique
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [139] 모리타니 | Mauritania
     긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
     Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
@@ -359,6 +383,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [155] 네덜란드(네델란드) | Netherlands
     긴급공지 (KO): .
     Urgent notice (EN): LTD.
+[156] 뉴칼레도니아섬(프랑스) | New Caledonia
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [157] 뉴질랜드 | New Zealand
     긴급공지 (KO): ㅇ뉴질랜드 우정의 선편서비스 폐지로 인한 접수중지
     Urgent notice (EN): Suspension of acceptance due to the abolition of the New Zealand Friendship Shipping Service
@@ -369,9 +396,13 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [160] 나이지리아 | Nigeria
+[161] 니베섬(뉴질랜드) | Niue
 [162] 노퍽섬(오스트레일리아) | Norfolk Island
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Norfolk Island(NF) , 단일 우편번호 사용 : 2899
     Urgent notice (EN): Resumption of acceptance of international airmail (24.04.2002.) o Country name (country code) Norfolk Island (NF), using a single zip code: 2899
+[163] 사이판(미국) | Northern Mariana Islands
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [164] 북마케도니아 | North Macedonia
     긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
     Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
@@ -403,6 +434,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     Urgent notice (EN): o Country name (country code) Pitcairn, Henderson, Ducie and Oeno Islands (PN), single zip code: PCRN 1ZZ
 [176] 폴란드 | Poland
 [177] 포르투갈 | Portugal
+[178] 푸에르토리코섬(미국) | Puerto Rico
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) / K-Packet 접수 불가
+    Urgent notice (EN): International airmail reception resumed (24.04.22.)/Unable to accept K-Packet
 [179] 카타르 | Qatar
 [180] 레위니옹섬(프랑스) | Réunion
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
@@ -414,10 +448,16 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [183] 르완다 | Rwanda
     긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
     Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
+[185] 아센션섬(영국) | Saint Helena, Ascension and Tristan da Cunha
+    긴급공지 (KO): ㅇ중계국가(영국) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.) o 국가명(국가코드) Ascension(SH) , 단일 우편번호 사용 : ASCN 1ZZ
+    Urgent notice (EN): Unable to receive airmail due to intermediate country (UK) suspension (Friendship Division International Business Division, 2020.06.08.) o Country name (country code) Ascension (SH), Use a single postal code: ASCN 1ZZ
 [186] 세인트키츠네비스 | Saint Kitts and Nevis
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [187] 세인트루시아 | Saint Lucia
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
+[189] 생피에르미클롱섬(프랑스) | Saint Pierre & Miquelon
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [190] 세인트빈센트그레나딘 | Saint Vincent and the Grenadines
@@ -513,9 +553,9 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): ㅇ러시아 국경 인접지역(우편번호 첫 두자리 91, 83, 69, 73, 95)은 접수불가 <출처 : 우정사업본부 국제사업과, 2022.10.14.>
     Urgent notice (EN): The regions adjacent to the Russian border (the first two digits of the postcode 91, 83, 69, 73, 95) are not accepted. < Source: International Affairs Division, Friendship Division, 2022.10.14. >
 [232] 아랍에미리트연합국 | United Arab Emirates
-[233] 버뮤다섬(영국) | United Kingdom
-    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
-    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[233] 영국 | United Kingdom
+    긴급공지 (KO): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) - 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+    Urgent notice (EN): o International airmail (normal, parcel, K-Packet) acceptance resumed (from 09/09) (Friendship Division, International Business Division, 2022.09.08.) -Jersey and Guernsey areas cannot accept international mail, refrain from accepting detours to the UK
 [234] 우루과이 | Uruguay
     긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
     Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
@@ -535,6 +575,15 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [241] 베트남 | Vietnam
     긴급공지 (KO): .
     Urgent notice (EN): LTD.
+[242] 버진제도(영국) | Virgin Islands (UK)
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
+[243] 버진제도(미국) | Virgin Islands of the USA
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
+[244] 왈리스푸투나제도(프랑스) | Wallis & Futuna
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [247] 잠비아 | Zambia
     긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
     Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
@@ -542,11 +591,16 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
     긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
     Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 
+--- Dropdown entries that map to a master entry already used (check the mapping) ---
+[76] 프랑스(프랑스령동남및남극권) | France  (duplicate, not counted above)
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) French Southern Territories , 단일 우편번호 사용 : 97408 o 국가명(국가코드) French Southern Territories (La Terre-Adélie) , 단일 우편번호 사용 : 95724 o 국가명(국가코드) French Southern Territories (Île Tromelin) , 단일 우편번호 사용 : 97410
+    Urgent notice (EN): Resume international airmail reception (24.04.22.) o Country name (country code) French Southern Territories, using a single postal code: 97408 o Country name (country code) French Southern Territories (La Terre-Adélie), using a single postal code: 95724 o Country name (country code) French Southern Territories (Île Tromelin), using a single postal code: 97410
+
 ======================================================================
 SECTION 2: SUSPENDED COUNTRIES
 ======================================================================
 
---- A) Urgent notice mentions suspension / route unavailable / no service (39) ---
+--- A) Urgent notice mentions suspension / route unavailable / no service (43) ---
 [1] 아프가니스탄 | Afghanistan
     긴급공지 (KO): ㅇ운송편 비운항으로 항공통상, 항공소포 접수중지 (서울청 국제영업과, 2020.05.15.)
     Urgent notice (EN): Air traffic and air parcel suspension due to non-transportation (Seoul Office International Sales Division, 2020.05.15.)
@@ -565,6 +619,9 @@ SECTION 2: SUSPENDED COUNTRIES
 [21] 벨라루스 | Belarus
     긴급공지 (KO): ㅇ 항공편 운항 지연으로 일시적 접수 중지(25.10.) ㅇ 국제항공우편 접수 재개 (24.04.22.)
     Urgent notice (EN): Temporarily suspended due to flight delays (25.10.) International airmail reception resumed (24.04.22.)
+[25] 버뮤다섬(영국) | Bermuda
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [31] 브라질 | Brazil
     긴급공지 (KO): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
     Urgent notice (EN): Request to stop accepting ship mail from Japan Post due to the deepening of Japan Kawasaki Exchange, a relay country (Friendship Division, International Business Division, 2022.02.28.) o Resume accepting international air mail (normal, parcel, K-Packet) (from 09/09) (Friendship Division, International Business Division, 2022.09.08.)
@@ -577,6 +634,9 @@ SECTION 2: SUSPENDED COUNTRIES
 [70] 에스와티니 | Eswatini /Swaziland
     긴급공지 (KO): ㅇ중계국가(프랑스) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
     Urgent notice (EN): Can not be sent due to the suspension of the relay country (France) (Seoul Office International Sales Division, 2020.04.02.)
+[77] 기아나(프랑스) | French Guiana
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) * 보통통상 및 등기에는 화폐 취급불가
+    Urgent notice (EN): International airmail reception resumed (24.04.22.) * Money cannot be handled in normal trade and registration
 [83] 독일 | Germany
     긴급공지 (KO): ㅇ 선편 통상우편물 접수중지로 접수 불가(우정사업본부 국제사업과, 2022.09.08~) ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
     Urgent notice (EN): Unable to accept shipments due to the suspension of regular mail (International Business Division of the Postal Service, 2022.09.08-) Delayed processing of shipments in arriving countries. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
@@ -619,9 +679,15 @@ SECTION 2: SUSPENDED COUNTRIES
 [173] 페루 | Peru
     긴급공지 (KO): ㅇ 해당국가의 요청으로 선편 접수 중지(2023.05.31.)
     Urgent notice (EN): Stop receiving shipments at the request of the country (May 31, 2023).
+[178] 푸에르토리코섬(미국) | Puerto Rico
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) / K-Packet 접수 불가
+    Urgent notice (EN): International airmail reception resumed (24.04.22.)/Unable to accept K-Packet
 [182] 러시아 | Russia
     긴급공지 (KO): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~) o 러시아 K-Packet 접수 재개(2025.3.17.~) * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
     Urgent notice (EN): o Suspension of ship mail reception due to local circumstances in Vladivostok, Russia (2020.11.23.~) o Resumption of K-Packet reception in Russia (2025.3.17.~) * (Reference) Request to stop K-Packet reception of Russian friendship (notification of withdrawal from Prime) (2023.3.1.~2025.3.16.)
+[185] 아센션섬(영국) | Saint Helena, Ascension and Tristan da Cunha
+    긴급공지 (KO): ㅇ중계국가(영국) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.) o 국가명(국가코드) Ascension(SH) , 단일 우편번호 사용 : ASCN 1ZZ
+    Urgent notice (EN): Unable to receive airmail due to intermediate country (UK) suspension (Friendship Division International Business Division, 2020.06.08.) o Country name (country code) Ascension (SH), Use a single postal code: ASCN 1ZZ
 [196] 세르비아 | Serbia
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) - 코소보행 우편물은 접수 및 배달 불가하므로, 반드시 확인 요망
     Urgent notice (EN): International airmail reception resumed (24.04.22.) -Kosovo mail cannot be accepted and delivered, so be sure to check
@@ -655,9 +721,9 @@ SECTION 2: SUSPENDED COUNTRIES
 [231] 우크라이나 | Ukraine
     긴급공지 (KO): ㅇ러시아 국경 인접지역(우편번호 첫 두자리 91, 83, 69, 73, 95)은 접수불가 <출처 : 우정사업본부 국제사업과, 2022.10.14.>
     Urgent notice (EN): The regions adjacent to the Russian border (the first two digits of the postcode 91, 83, 69, 73, 95) are not accepted. < Source: International Affairs Division, Friendship Division, 2022.10.14. >
-[233] 버뮤다섬(영국) | United Kingdom
-    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
-    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[233] 영국 | United Kingdom
+    긴급공지 (KO): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) - 저지(Jersey) 및 건지(Guernsey) 지역은 국제우편물 접수 불가, 영국으로 우회 접수 자제
+    Urgent notice (EN): o International airmail (normal, parcel, K-Packet) acceptance resumed (from 09/09) (Friendship Division, International Business Division, 2022.09.08.) -Jersey and Guernsey areas cannot accept international mail, refrain from accepting detours to the UK
 [247] 잠비아 | Zambia
     긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
     Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
@@ -665,19 +731,12 @@ SECTION 2: SUSPENDED COUNTRIES
     긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
     Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 
---- B) In master list of 248 but missing from the dropdown (43) ---
+--- B) In master list of 248 but missing from the dropdown (26) ---
 [2] 올란드제도 | Åland Islands
-[5] 미국령사모아 | American Samoa
-[8] 앵귈라 | Anguilla
 [9] 남극 | Antarctica
-[13] 아루바 | Aruba
-[25] 버뮤다 | Bermuda
 [28] 보네르 | Bonaire, Sint Eustatius and Saba
 [32] 영국령인도양지역 | British Indian Ocean Territory
-[77] 프랑스령기아나 | French Guiana
-[78] 프랑스령폴리네시아 | French Polynesia
 [79] 프랑스령남방지역 | French Southern Territories
-[89] 과들루프 | Guadeloupe
 [92] 건지 | Guernsey
 [96] 아이티 | Haiti
 [104] 이라크 | Iraq
@@ -687,16 +746,9 @@ SECTION 2: SUSPENDED COUNTRIES
 [117] 한국 | Korea(South)
 [118] 코소보 | Kosovo
 [126] 리비아 | Libya
-[138] 마르티니크 | Martinique
-[156] 뉴칼레도니아 | New Caledonia
-[161] 니우에 | Niue
-[163] 북마리아나제도 | Northern Mariana Islands
 [169] 팔레스타인 | Palestine
-[178] 푸에르토리코 | Puerto Rico
 [184] 생바르텔레미 | Saint Barthélemy
-[185] 세인트헬레나 | Saint Helena, Ascension and Tristan da Cunha
 [188] 생마르탱 | Saint Martin
-[189] 생피에르미클롱 | Saint Pierre & Miquelon
 [198] 시에라리온 | Sierra Leone
 [200] 신트마르턴 | Sint Maarten
 [206] 사우스조지아 | South Georgia and S. Sandwich Islands
@@ -704,10 +756,7 @@ SECTION 2: SUSPENDED COUNTRIES
 [212] 스발바르 | Svalbard and Jan Mayen
 [215] 시리아 | Syria
 [236] 미국령소군도 | U.S. Minor Outlying Islands
-[242] 영국령버진아일랜드 | Virgin Islands (UK)
-[243] 미국령버진아일랜드 | Virgin Islands of the USA
-[244] 왈리스푸투나 | Wallis & Futuna
 [245] 서사하라 | Western Sahara
 [246] 예멘 | Yemen
 
-TOTAL SUSPENDED COUNTRIES: 82
+TOTAL SUSPENDED COUNTRIES: 69
