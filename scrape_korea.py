@@ -53,7 +53,7 @@ MASTER_RAW = """
 22|Belgium|BE|벨기에
 23|Belize|BZ|벨리즈
 24|Benin|BJ|베냉
-25|Bermuda|BM|버뮤다
+25|Bermuda|BM|버뮤다/버뮤다섬
 26|Bhutan|BT|부탄
 27|Bolivia|BO|볼리비아
 28|Bonaire, Sint Eustatius and Saba|BQ|보네르/보네르신트외스타티위스사바
@@ -311,20 +311,39 @@ def norm_ko(s):
     return re.sub(r"[\s·・\-_.,'’]", "", s or "")
 
 
+# Parent countries that appear in parentheses after a territory's name, e.g. "버뮤다섬(영국)".
+# The text inside those parentheses is the PARENT country, not the territory itself,
+# so it must never be used to identify the entry.
+PARENT_STATES = {
+    "영국", "프랑스", "미국", "네덜란드", "호주", "뉴질랜드", "덴마크",
+    "노르웨이", "중국", "포르투갈", "스페인", "핀란드", "칠레", "에콰도르",
+}
+
+
 def ko_candidates(name):
-    """'터키(튀르키예)' -> ['터키튀르키예', '터키', '튀르키예']"""
-    cands = [norm_ko(name)]
+    """'터키(튀르키예)'  -> (['터키(튀르키예)', '터키', '튀르키예'], [])
+       '버뮤다섬(영국)'  -> (['버뮤다섬(영국)', '버뮤다섬'], ['영국'])   # 영국 is only a parent hint"""
+    full = norm_ko(name)
     outside = norm_ko(re.sub(r"\(.*?\)", "", name))
-    inside = re.findall(r"\((.*?)\)", name)
-    if outside:
-        cands.append(outside)
-    cands.extend(norm_ko(i) for i in inside if i)
+    inside = [norm_ko(i) for i in re.findall(r"\((.*?)\)", name) if norm_ko(i)]
+    parents = [i for i in inside if i in PARENT_STATES]
+    alt_names = [i for i in inside if i not in PARENT_STATES]
     seen, result = set(), []
-    for c in cands:
+    for c in [full, outside] + alt_names:
         if c and c not in seen:
             seen.add(c)
             result.append(c)
-    return result
+    return result, parents
+
+
+def name_score(ko, m):
+    """How exactly a dropdown name matches a master entry (2 = primary name, 1 = alias, 0 = other)."""
+    n = norm_ko(ko)
+    if n == norm_ko(m["ko"]):
+        return 2
+    if n in {norm_ko(a) for a in m["aliases"]}:
+        return 1
+    return 0
 
 
 def build_indexes(master):
@@ -337,7 +356,7 @@ def build_indexes(master):
 
 
 def match_master(ko_name, option_value, by_alias, by_iso, master):
-    cands = ko_candidates(ko_name)
+    cands, parents = ko_candidates(ko_name)
     # 1) exact Korean (or alias) match
     for c in cands:
         if c in by_alias:
@@ -356,6 +375,15 @@ def match_master(ko_name, option_value, by_alias, by_iso, master):
                 na = norm_ko(a)
                 if len(na) >= 3 and (na in c or c in na):
                     hits.add(m["num"])
+    # several partial hits, e.g. "버진아일랜드(영국)": use the parent country to pick the right one
+    if len(hits) > 1 and parents:
+        narrowed = {
+            m["num"]
+            for m in master
+            if m["num"] in hits and any(p in norm_ko(a) for p in parents for a in m["aliases"])
+        }
+        if len(narrowed) == 1:
+            hits = narrowed
     if len(hits) == 1:
         num = hits.pop()
         return next(m for m in master if m["num"] == num)
@@ -640,6 +668,7 @@ def build_report(results):
 
     matched = {}  # master num -> dict
     unmatched = []  # dropdown entries that match nothing in the master list
+    duplicates = []  # dropdown entries that landed on a master entry that is already taken
     for value, ko, notice in results:
         m = match_master(ko, value, by_alias, by_iso, master)
         if notice == NOTICE_READ_FAILED:
@@ -649,9 +678,18 @@ def build_report(results):
         entry = {"value": value, "ko": ko, "notice_ko": notice, "notice_en": notice_en}
         if m:
             entry["m"] = m
-            # if two dropdown rows hit the same master row, keep the one with a notice
-            if m["num"] not in matched or (notice and not matched[m["num"]]["notice_ko"]):
+            old = matched.get(m["num"])
+            if old is None:
                 matched[m["num"]] = entry
+            else:
+                # two dropdown rows hit the same master row: keep the better name match
+                # (on a tie, keep the one that has a notice), and LIST the other one - never drop it silently
+                s_new, s_old = name_score(ko, m), name_score(old["ko"], m)
+                if s_new > s_old or (s_new == s_old and notice and not old["notice_ko"]):
+                    matched[m["num"]] = entry
+                    duplicates.append(old)
+                else:
+                    duplicates.append(entry)
         else:
             entry["en"] = to_english(ko)
             unmatched.append(entry)
@@ -694,6 +732,14 @@ def build_report(results):
         w("--- Dropdown entries NOT found in the master list (check spelling/aliases) ---")
         for e in sorted(unmatched, key=lambda x: x["ko"]):
             w(f"[?] {e['ko']} | {e['en']}")
+            if e["notice_ko"]:
+                w(f"    긴급공지 (KO): {e['notice_ko']}")
+                w(f"    Urgent notice (EN): {e['notice_en']}")
+    if duplicates:
+        w("")
+        w("--- Dropdown entries that map to a master entry already used (check the mapping) ---")
+        for e in sorted(duplicates, key=lambda x: x["m"]["num"]):
+            w(f"[{e['m']['num']}] {e['ko']} | {e['m']['en']}  (duplicate, not counted above)")
             if e["notice_ko"]:
                 w(f"    긴급공지 (KO): {e['notice_ko']}")
                 w(f"    Urgent notice (EN): {e['notice_en']}")
