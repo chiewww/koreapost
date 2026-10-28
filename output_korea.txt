@@ -2,1248 +2,633 @@ KOREA POST EMS - SERVICE CONDITION MONITOR
 Source: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal
 
 TOTAL COUNTRIES IN 도착국 DROPDOWN: 223
-TOTAL SUSPENDED COUNTRIES: 248
-   (A: urgent notice mentions suspension = 205, B: missing from dropdown = 43)
+TOTAL SUSPENDED COUNTRIES: 43
+   (A: urgent notice mentions suspension = 0, B: missing from dropdown = 43)
 
 ======================================================================
 SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 ======================================================================
 [1] 아프가니스탄 | Afghanistan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [3] 알바니아 | Albania
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [4] 알제리 | Algeria
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [6] 안도라 | Andorra
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [7] 앙골라 | Angola
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [10] 앤티과바부다 | Antigua & Barbuda
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [11] 아르헨티나 | Argentina
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [12] 아르메니아 | Armenia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [14] 오스트레일리아(호주) | Australia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [15] 오스트리아 | Austria
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [16] 아제르바이잔 | Azerbaijan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [17] 바하마 | Bahamas
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [18] 바레인 | Bahrain
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [19] 방글라데시 | Bangladesh
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [20] 바베이도스 | Barbados
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [21] 벨라루스 | Belarus
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [22] 벨기에 | Belgium
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [23] 벨리즈 | Belize
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [24] 베넹 | Benin
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [26] 부탄 | Bhutan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [27] 볼리비아 | Bolivia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [29] 보스니아헤르체코비나 | Bosnia-Herzegovina
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [30] 보츠와나 | Botswana
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [31] 브라질 | Brazil
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [33] 브루네이(브루나이) | Brunei
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [34] 불가리아 | Bulgaria
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [35] 부르키나파소 | Burkina Faso
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [36] 부룬디 | Burundi
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [37] 카보베르데 | Cabo Verde
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [38] 캄보디아 | Cambodia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [39] 카메룬 | Cameroon
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [40] 캐나다 | Canada
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [41] 케이맨제도 | Cayman Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [42] 중앙아프리카 | Central African Republic
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [43] 차드 | Chad
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [44] 칠레 | Chile
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [45] 중국 | China
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [46] 크리스마스섬(오스트레일리아) | Christmas Island
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [47] 코코스제도(오스트레일리아) | Cocos Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [48] 콜롬비아 | Colombia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [49] 코모로 | Comoros
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [50] 콩고 | Congo
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [51] 콩고민주공화국 | Dem. Rep. Of Congo
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [52] 쿡제도(뉴질랜드) | Cook Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [53] 코스타리카 | Costa Rica
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [54] 코트디부아르 | Côte d'Ivoire
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [55] 크로아티아 | Croatia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [56] 쿠바 | Cuba
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [57] 퀴라소 | Curaçao
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [58] 사이프러스 | Cyprus
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [59] 체코 | Czechia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [60] 덴마크 | Denmark
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [61] 지부티 | Djibouti
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [62] 도미니카연방 | Dominica
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [63] 도미니카공화국 | Dominican Republic
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [64] 에콰도르 | Ecuador
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [65] 이집트 | Egypt
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [66] 엘살바도르 | El Salvador
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [67] 적도기니 | Equatorial Guinea
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [68] 에리트레아 | Eritrea
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [69] 에스토니아 | Estonia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [70] 에스와티니 | Eswatini /Swaziland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [71] 에티오피아 | Ethiopia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [72] 포클랜드제도(영국) | Falkland Islands /Malvinas
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [73] 페로제도(덴마크) | Faroe Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [74] 피지 | Fiji
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [75] 핀란드 | Finland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [76] 과들루프섬(프랑스) | France
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [80] 가봉 | Gabon
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [81] 감비아 | Gambia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [82] 조지아 | Georgia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [83] 독일 | Germany
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [84] 가나 | Ghana
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [85] 지브롤터(영국) | Gibraltar
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [86] 그리스 | Greece
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [87] 그린란드(덴마크) | Greenland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [88] 그레나다 | Grenada
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [90] 괌(미국) | Guam
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [91] 과테말라 | Guatemala
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [93] 기니 | Guinea
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [94] 기니비사우 | Guinea-Bissau
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [95] 가이아나 | Guyana
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [97] 온두라스 | Honduras
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [98] 홍콩(중국) | Hong Kong
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [99] 헝가리 | Hungary
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [100] 아이슬란드 | Iceland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [101] 인도 | India
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [102] 인도네시아 | Indonesia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [103] 이란 | Iran
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [105] 아일랜드 | Ireland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [107] 이스라엘 | Israel
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [108] 이탈리아(이태리) | Italy
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [109] 자메이카 | Jamaica
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [110] 일본 | Japan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [112] 요르단 | Jordan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [113] 카자흐스탄 | Kazakhstan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [114] 케냐 | Kenya
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [115] 키리바시 | Kiribati
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [119] 쿠웨이트 | Kuwait
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [120] 키르기스스탄 | Kyrgyzstan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [121] 라오스 | Laos
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [122] 라트비아 | Latvia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [123] 레바논 | Lebanon
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [124] 레소토 | Lesotho
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [125] 라이베리아 | Liberia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [127] 리히텐슈타인 | Liechtenstein
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [128] 리투아니아 | Lithuania
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [129] 룩셈부르크 | Luxembourg
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [130] 마카오(중국) | Macao
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [131] 마다가스카르 | Madagascar
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [132] 말라위 | Malawi
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [133] 말레이시아 | Malaysia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [134] 몰디브 | Maldives
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [135] 말리 | Mali
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [136] 몰타 | Malta
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [137] 마셜제도(미국) | Marshall Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [139] 모리타니 | Mauritania
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [140] 모리셔스 | Mauritius
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [141] 마요트 | Mayotte
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [142] 멕시코 | Mexico
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [143] 미크로네시아(마이크로네시아) | Micronesia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [144] 몰도바 | Moldova
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [145] 모나코 | Monaco
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [146] 몽골 | Mongolia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [147] 몬테네그로 | Montenegro
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [148] 몬트세랫(영국) | Montserrat
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [149] 모로코 | Morocco
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [150] 모잠비크 | Mozambique
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [151] 미얀마 | Myanmar
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [152] 나미비아 | Namibia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [153] 나우루 | Nauru / Naoero
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [154] 네팔 | Nepal
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [155] 네덜란드(네델란드) | Netherlands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [157] 뉴질랜드 | New Zealand
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [158] 니카라과 | Nicaragua
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [159] 니제르 | Niger
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [160] 나이지리아 | Nigeria
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [162] 노퍽섬(오스트레일리아) | Norfolk Island
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [164] 북마케도니아 | North Macedonia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [165] 노르웨이 | Norway
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [166] 오만 | Oman
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [167] 파키스탄 | Pakistan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [168] 팔라우섬 | Palau
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [170] 파나마 | Panama
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [171] 파푸아뉴기니 | Papua New Guinea
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [172] 파라과이 | Paraguay
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [173] 페루 | Peru
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [174] 필리핀 | Philippines
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [175] 핏케언제도(영국) | Pitcairn
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [176] 폴란드 | Poland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [177] 포르투갈 | Portugal
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [179] 카타르 | Qatar
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [180] 레위니옹섬(프랑스) | Réunion
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [181] 루마니아 | Romania
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [182] 러시아 | Russia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [183] 르완다 | Rwanda
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [186] 세인트키츠네비스 | Saint Kitts and Nevis
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [187] 세인트루시아 | Saint Lucia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [190] 세인트빈센트그레나딘 | Saint Vincent and the Grenadines
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [191] 사모아(구서사모아) | Samoa
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [192] 산마리노 | San Marino
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [193] 상투메프린시페 | Sao Tome and Principe
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [194] 사우디아라비아 | Saudi Arabia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [195] 세네갈 | Senegal
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [196] 세르비아 | Serbia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [197] 세이셸 | Seychelles
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [199] 싱가포르 | Singapore
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [201] 슬로바키아 | Slovakia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [202] 슬로베니아 | Slovenia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [203] 솔로몬아일란드 | Solomon Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [204] 소말리아 | Somalia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [205] 남아프리카공화국 | South Africa
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [208] 스페인(에스파니아) | Spain
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [209] 스리랑카 | Sri Lanka
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [210] 수단 | Sudan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [211] 수리남 | Suriname
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [213] 스웨덴 | Sweden
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [214] 스위스 | Switzerland
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [216] 타이완(대만) | Taiwan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [217] 타지키스탄 | Tajikistan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [218] 탄자니아 | Tanzania
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [219] 타이(태국) | Thailand
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [220] 동티모르 | Timor-Leste
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [221] 토고 | Togo
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [222] 토켈라우제도(뉴질렌드) | Tokelau
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [223] 통가 | Tonga
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [224] 트리니다드토바고 | Trinidad and Tobago
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [225] 튀니지 | Tunisia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [226] 튀르키예 | Turkey
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [227] 투르크메니스탄 | Turkmenistan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [228] 터크스케이커스제도(영국) | Turks and Caicos Islands
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [229] 투발루 | Tuvalu
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [230] 우간다 | Uganda
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [231] 우크라이나 | Ukraine
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [232] 아랍에미리트연합국 | United Arab Emirates
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [233] 버뮤다섬(영국) | United Kingdom
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [234] 우루과이 | Uruguay
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [235] 미국 | U.S.A.
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [237] 우즈베키스탄 | Uzbekistan
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [238] 바누아투 | Vanuatu
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [239] 바티칸 | Vatican
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [240] 베네수엘라 | Venezuela
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [241] 베트남 | Vietnam
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [247] 잠비아 | Zambia
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 [248] 짐바브웨 | Zimbabwe
     긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+    Urgent notice (EN): Country-specific commonalities
 
 ======================================================================
 SECTION 2: SUSPENDED COUNTRIES
 ======================================================================
 
---- A) Urgent notice mentions suspension / route unavailable / no service (205) ---
-[1] 아프가니스탄 | Afghanistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[3] 알바니아 | Albania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[4] 알제리 | Algeria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[6] 안도라 | Andorra
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[7] 앙골라 | Angola
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[10] 앤티과바부다 | Antigua & Barbuda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[11] 아르헨티나 | Argentina
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[12] 아르메니아 | Armenia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[14] 오스트레일리아(호주) | Australia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[15] 오스트리아 | Austria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[16] 아제르바이잔 | Azerbaijan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[17] 바하마 | Bahamas
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[18] 바레인 | Bahrain
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[19] 방글라데시 | Bangladesh
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[20] 바베이도스 | Barbados
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[21] 벨라루스 | Belarus
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[22] 벨기에 | Belgium
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[23] 벨리즈 | Belize
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[24] 베넹 | Benin
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[26] 부탄 | Bhutan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[27] 볼리비아 | Bolivia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[29] 보스니아헤르체코비나 | Bosnia-Herzegovina
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[30] 보츠와나 | Botswana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[31] 브라질 | Brazil
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[33] 브루네이(브루나이) | Brunei
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[34] 불가리아 | Bulgaria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[35] 부르키나파소 | Burkina Faso
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[36] 부룬디 | Burundi
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[37] 카보베르데 | Cabo Verde
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[38] 캄보디아 | Cambodia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[39] 카메룬 | Cameroon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[40] 캐나다 | Canada
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[41] 케이맨제도 | Cayman Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[42] 중앙아프리카 | Central African Republic
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[43] 차드 | Chad
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[44] 칠레 | Chile
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[45] 중국 | China
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[46] 크리스마스섬(오스트레일리아) | Christmas Island
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[47] 코코스제도(오스트레일리아) | Cocos Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[48] 콜롬비아 | Colombia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[49] 코모로 | Comoros
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[50] 콩고 | Congo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[51] 콩고민주공화국 | Dem. Rep. Of Congo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[52] 쿡제도(뉴질랜드) | Cook Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[53] 코스타리카 | Costa Rica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[54] 코트디부아르 | Côte d'Ivoire
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[55] 크로아티아 | Croatia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[56] 쿠바 | Cuba
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[57] 퀴라소 | Curaçao
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[58] 사이프러스 | Cyprus
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[59] 체코 | Czechia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[60] 덴마크 | Denmark
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[61] 지부티 | Djibouti
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[62] 도미니카연방 | Dominica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[63] 도미니카공화국 | Dominican Republic
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[64] 에콰도르 | Ecuador
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[65] 이집트 | Egypt
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[66] 엘살바도르 | El Salvador
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[67] 적도기니 | Equatorial Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[68] 에리트레아 | Eritrea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[69] 에스토니아 | Estonia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[70] 에스와티니 | Eswatini /Swaziland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[71] 에티오피아 | Ethiopia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[72] 포클랜드제도(영국) | Falkland Islands /Malvinas
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[73] 페로제도(덴마크) | Faroe Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[74] 피지 | Fiji
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[75] 핀란드 | Finland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[76] 과들루프섬(프랑스) | France
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[80] 가봉 | Gabon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[81] 감비아 | Gambia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[82] 조지아 | Georgia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[83] 독일 | Germany
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[84] 가나 | Ghana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[85] 지브롤터(영국) | Gibraltar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[86] 그리스 | Greece
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[87] 그린란드(덴마크) | Greenland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[88] 그레나다 | Grenada
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[90] 괌(미국) | Guam
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[91] 과테말라 | Guatemala
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[93] 기니 | Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[94] 기니비사우 | Guinea-Bissau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[95] 가이아나 | Guyana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[97] 온두라스 | Honduras
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[98] 홍콩(중국) | Hong Kong
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[99] 헝가리 | Hungary
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[100] 아이슬란드 | Iceland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[101] 인도 | India
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[102] 인도네시아 | Indonesia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[103] 이란 | Iran
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[105] 아일랜드 | Ireland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[107] 이스라엘 | Israel
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[108] 이탈리아(이태리) | Italy
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[109] 자메이카 | Jamaica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[110] 일본 | Japan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[112] 요르단 | Jordan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[113] 카자흐스탄 | Kazakhstan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[114] 케냐 | Kenya
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[115] 키리바시 | Kiribati
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[119] 쿠웨이트 | Kuwait
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[120] 키르기스스탄 | Kyrgyzstan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[121] 라오스 | Laos
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[122] 라트비아 | Latvia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[123] 레바논 | Lebanon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[124] 레소토 | Lesotho
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[125] 라이베리아 | Liberia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[127] 리히텐슈타인 | Liechtenstein
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[128] 리투아니아 | Lithuania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[129] 룩셈부르크 | Luxembourg
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[130] 마카오(중국) | Macao
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[131] 마다가스카르 | Madagascar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[132] 말라위 | Malawi
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[133] 말레이시아 | Malaysia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[134] 몰디브 | Maldives
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[135] 말리 | Mali
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[136] 몰타 | Malta
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[137] 마셜제도(미국) | Marshall Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[139] 모리타니 | Mauritania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[140] 모리셔스 | Mauritius
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[141] 마요트 | Mayotte
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[142] 멕시코 | Mexico
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[143] 미크로네시아(마이크로네시아) | Micronesia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[144] 몰도바 | Moldova
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[145] 모나코 | Monaco
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[146] 몽골 | Mongolia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[147] 몬테네그로 | Montenegro
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[148] 몬트세랫(영국) | Montserrat
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[149] 모로코 | Morocco
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[150] 모잠비크 | Mozambique
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[151] 미얀마 | Myanmar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[152] 나미비아 | Namibia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[153] 나우루 | Nauru / Naoero
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[154] 네팔 | Nepal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[155] 네덜란드(네델란드) | Netherlands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[157] 뉴질랜드 | New Zealand
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[158] 니카라과 | Nicaragua
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[159] 니제르 | Niger
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[160] 나이지리아 | Nigeria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[162] 노퍽섬(오스트레일리아) | Norfolk Island
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[164] 북마케도니아 | North Macedonia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[165] 노르웨이 | Norway
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[166] 오만 | Oman
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[167] 파키스탄 | Pakistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[168] 팔라우섬 | Palau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[170] 파나마 | Panama
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[171] 파푸아뉴기니 | Papua New Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[172] 파라과이 | Paraguay
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[173] 페루 | Peru
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[174] 필리핀 | Philippines
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[175] 핏케언제도(영국) | Pitcairn
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[176] 폴란드 | Poland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[177] 포르투갈 | Portugal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[179] 카타르 | Qatar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[180] 레위니옹섬(프랑스) | Réunion
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[181] 루마니아 | Romania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[182] 러시아 | Russia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[183] 르완다 | Rwanda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[186] 세인트키츠네비스 | Saint Kitts and Nevis
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[187] 세인트루시아 | Saint Lucia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[190] 세인트빈센트그레나딘 | Saint Vincent and the Grenadines
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[191] 사모아(구서사모아) | Samoa
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[192] 산마리노 | San Marino
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[193] 상투메프린시페 | Sao Tome and Principe
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[194] 사우디아라비아 | Saudi Arabia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[195] 세네갈 | Senegal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[196] 세르비아 | Serbia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[197] 세이셸 | Seychelles
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[199] 싱가포르 | Singapore
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[201] 슬로바키아 | Slovakia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[202] 슬로베니아 | Slovenia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[203] 솔로몬아일란드 | Solomon Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[204] 소말리아 | Somalia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[205] 남아프리카공화국 | South Africa
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[208] 스페인(에스파니아) | Spain
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[209] 스리랑카 | Sri Lanka
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[210] 수단 | Sudan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[211] 수리남 | Suriname
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[213] 스웨덴 | Sweden
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[214] 스위스 | Switzerland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[216] 타이완(대만) | Taiwan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[217] 타지키스탄 | Tajikistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[218] 탄자니아 | Tanzania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[219] 타이(태국) | Thailand
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[220] 동티모르 | Timor-Leste
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[221] 토고 | Togo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[222] 토켈라우제도(뉴질렌드) | Tokelau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[223] 통가 | Tonga
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[224] 트리니다드토바고 | Trinidad and Tobago
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[225] 튀니지 | Tunisia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[226] 튀르키예 | Turkey
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[227] 투르크메니스탄 | Turkmenistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[228] 터크스케이커스제도(영국) | Turks and Caicos Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[229] 투발루 | Tuvalu
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[230] 우간다 | Uganda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[231] 우크라이나 | Ukraine
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[232] 아랍에미리트연합국 | United Arab Emirates
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[233] 버뮤다섬(영국) | United Kingdom
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[234] 우루과이 | Uruguay
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[235] 미국 | U.S.A.
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[237] 우즈베키스탄 | Uzbekistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[238] 바누아투 | Vanuatu
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[239] 바티칸 | Vatican
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[240] 베네수엘라 | Venezuela
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[241] 베트남 | Vietnam
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[247] 잠비아 | Zambia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
-[248] 짐바브웨 | Zimbabwe
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): (translation unavailable)
+--- A) Urgent notice mentions suspension / route unavailable / no service (0) ---
 
 --- B) In master list of 248 but missing from the dropdown (43) ---
 [2] 올란드제도 | Åland Islands
@@ -1290,4 +675,4 @@ SECTION 2: SUSPENDED COUNTRIES
 [245] 서사하라 | Western Sahara
 [246] 예멘 | Yemen
 
-TOTAL SUSPENDED COUNTRIES: 248
+TOTAL SUSPENDED COUNTRIES: 43
