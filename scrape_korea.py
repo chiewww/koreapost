@@ -288,6 +288,10 @@ SUSPEND_EN = re.compile(
 )
 # 긴급공지 values that mean "nothing written"
 EMPTY_NOTICES = {"", "-", "--", "없음", "해당없음", "해당 없음", "none", "null", "n/a"}
+# Placeholder texts. These must NEVER be run through the suspension check
+# (the old bug: "(translation unavailable)" contains the word "unavailable").
+TRANSLATION_FAILED = "(translation unavailable)"
+NOTICE_READ_FAILED = "(could not read page)"
 
 
 # --------------------------------------------------------------------------
@@ -379,26 +383,54 @@ def save_cache():
         json.dump(_cache, f, ensure_ascii=False, indent=0, sort_keys=True)
 
 
+_fail_streak = 0  # consecutive texts that no translator could handle
+
+
+def _google(chunk):
+    from deep_translator import GoogleTranslator
+
+    return GoogleTranslator(source="ko", target="en").translate(chunk)
+
+
+def _mymemory(chunk):
+    from deep_translator import MyMemoryTranslator
+
+    return MyMemoryTranslator(source="ko-KR", target="en-US").translate(chunk)
+
+
+def _translate_chunks(text, fn, size):
+    parts = []
+    for i in range(0, len(text), size):
+        part = fn(text[i : i + size])
+        if not part or not part.strip():
+            raise RuntimeError("empty translation returned")
+        parts.append(part.strip())
+    return " ".join(parts)
+
+
 def to_english(text):
+    """Korean -> English. Tries Google, then MyMemory; paced and retried. Cached on success."""
+    global _fail_streak
     text = (text or "").strip()
     if not text:
         return ""
     if text in _cache:
         return _cache[text]
-    try:
-        from deep_translator import GoogleTranslator
-
-        out = ""
-        # Google's free endpoint limits each request to ~5000 chars
-        chunks = [text[i : i + 4500] for i in range(0, len(text), 4500)]
-        out = " ".join(GoogleTranslator(source="ko", target="en").translate(c) or "" for c in chunks)
-        out = out.strip()
-        if out:
-            _cache[text] = out
-            return out
-    except Exception as e:
-        print(f"  [translate failed: {e}]", file=sys.stderr)
-    return "(translation unavailable)"
+    if _fail_streak >= 3:  # translators are clearly blocked: don't waste the run's time
+        return TRANSLATION_FAILED
+    for label, fn, size in (("google", _google, 4500), ("mymemory", _mymemory, 450)):
+        for attempt in range(2):
+            try:
+                out = _translate_chunks(text, fn, size)
+                _cache[text] = out
+                _fail_streak = 0
+                time.sleep(0.4)  # be gentle with the free endpoints
+                return out
+            except Exception as e:
+                print(f"  [{label} attempt {attempt + 1} failed: {type(e).__name__}: {e}]", file=sys.stderr)
+                time.sleep(1.5 * (attempt + 1))
+    _fail_streak += 1
+    return TRANSLATION_FAILED
 
 
 # --------------------------------------------------------------------------
@@ -584,7 +616,7 @@ def scrape():
                         print(f"  prepare failed: {e2}", file=sys.stderr)
                         time.sleep(2)
             if notice is None:
-                notice = "(could not read page)"
+                notice = NOTICE_READ_FAILED
             if notice.strip().lower() in EMPTY_NOTICES:
                 notice = ""
             results.append((value, name, notice))
@@ -604,7 +636,11 @@ def build_report(results):
     unmatched = []  # dropdown entries that match nothing in the master list
     for value, ko, notice in results:
         m = match_master(ko, value, by_alias, by_iso, master)
-        entry = {"value": value, "ko": ko, "notice_ko": notice, "notice_en": to_english(notice) if notice else ""}
+        if notice == NOTICE_READ_FAILED:
+            notice_en = NOTICE_READ_FAILED  # English placeholder: nothing to translate
+        else:
+            notice_en = to_english(notice) if notice else ""
+        entry = {"value": value, "ko": ko, "notice_ko": notice, "notice_en": notice_en}
         if m:
             entry["m"] = m
             # if two dropdown rows hit the same master row, keep the one with a notice
@@ -615,9 +651,12 @@ def build_report(results):
             unmatched.append(entry)
 
     def is_suspended_notice(e):
-        if not e["notice_ko"]:
+        ko, en = e["notice_ko"], e["notice_en"]
+        if not ko or ko == NOTICE_READ_FAILED:
             return False
-        return bool(SUSPEND_KO.search(e["notice_ko"]) or SUSPEND_EN.search(e["notice_en"] or ""))
+        # the Korean text is the primary check; the English only counts when it is a real translation
+        en_is_real = bool(en) and en not in (TRANSLATION_FAILED, NOTICE_READ_FAILED)
+        return bool(SUSPEND_KO.search(ko) or (en_is_real and SUSPEND_EN.search(en)))
 
     missing = [m for m in master if m["num"] not in matched]
     suspended_a = [e for e in matched.values() if is_suspended_notice(e)]
