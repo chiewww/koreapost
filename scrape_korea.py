@@ -438,25 +438,29 @@ def to_english(text):
 # --------------------------------------------------------------------------
 JS_GET_NOTICE = """
 () => {
+  // Page layout (from the real HTML):
+  //   <div class="title_wrap"><h4>긴급공지</h4><a id="pop_commlimit">국가별 공통사항</a></div>
+  //   <textarea readonly>...the notice text...</textarea>
   const clean = s => (s || '').replace(/\\s+/g, ' ').trim();
-  const labels = Array.from(document.querySelectorAll('th,dt,td,label,span,strong,b,li,div,p,h3,h4'))
-    .filter(el => el.children.length <= 2 && clean(el.textContent).replace(/\\s/g,'').startsWith('긴급공지')
-                  && clean(el.textContent).length < 12);
-  for (const el of labels) {
-    // same-cell text after the label
-    let sib = el.nextElementSibling;
-    while (sib && !clean(sib.innerText)) sib = sib.nextElementSibling;
-    if (sib) return clean(sib.innerText);
-    const p = el.parentElement;
-    if (p) {
-      let psib = p.nextElementSibling;
-      while (psib && !clean(psib.innerText)) psib = psib.nextElementSibling;
-      if (psib) return clean(psib.innerText);
+  const heads = Array.from(document.querySelectorAll('h1,h2,h3,h4,h5,strong,span,th,dt,label'))
+    .filter(el => clean(el.textContent) === '긴급공지');
+  const visible = heads.filter(el => el.offsetParent !== null);
+  const pool = visible.length ? visible : heads;
+  for (const h of pool) {
+    const wrap = h.closest('.title_wrap') || h.parentElement;
+    // the notice is the textarea that follows the title block
+    let n = wrap.nextElementSibling;
+    for (let i = 0; n && i < 5; i++, n = n.nextElementSibling) {
+      const ta = n.tagName === 'TEXTAREA' ? n : n.querySelector('textarea');
+      if (ta) return clean(ta.value || ta.textContent);
     }
+    // fallback: first textarea after the heading in document order
+    const after = Array.from(document.querySelectorAll('textarea'))
+      .find(t => h.compareDocumentPosition(t) & Node.DOCUMENT_POSITION_FOLLOWING);
+    if (after) return clean(after.value || after.textContent);
+    return '';  // heading found, but no text box: treat as "no notice"
   }
-  // fallback: any element whose id/class looks like an urgent-notice box
-  const box = document.querySelector('[id*="emgc" i],[id*="urgent" i],[id*="notice" i],[class*="urgent" i]');
-  return box ? clean(box.innerText) : '';
+  return null;  // the 긴급공지 section is not on the page at all
 }
 """
 
@@ -596,7 +600,7 @@ def scrape():
                         page.wait_for_load_state("networkidle", timeout=15000)
                     except Exception:
                         pass
-                    page.wait_for_timeout(700)
+                    page.wait_for_timeout(1000)  # let the results (and the notice box) refresh
                     # the page may have re-rendered: find frame again if needed
                     got = None
                     for f in page.frames:
@@ -606,7 +610,9 @@ def scrape():
                                 break
                         except Exception:
                             continue
-                    notice = got or ""
+                    if got is None:
+                        raise RuntimeError("긴급공지 section not found on the page")
+                    notice = got
                     break
                 except Exception as e:
                     print(f"  retry {attempt + 1} for {name}: {e}", file=sys.stderr)
