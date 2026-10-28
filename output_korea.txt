@@ -2,633 +2,668 @@ KOREA POST EMS - SERVICE CONDITION MONITOR
 Source: https://ems.epost.go.kr/front.EmsNormalAirShipSendCondition.postal
 
 TOTAL COUNTRIES IN 도착국 DROPDOWN: 223
-TOTAL SUSPENDED COUNTRIES: 43
-   (A: urgent notice mentions suspension = 0, B: missing from dropdown = 43)
+TOTAL SUSPENDED COUNTRIES: 82
+   (A: urgent notice mentions suspension = 39, B: missing from dropdown = 43)
 
 ======================================================================
 SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 ======================================================================
 [1] 아프가니스탄 | Afghanistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ운송편 비운항으로 항공통상, 항공소포 접수중지 (서울청 국제영업과, 2020.05.15.)
+    Urgent notice (EN): Air traffic and air parcel suspension due to non-transportation (Seoul Office International Sales Division, 2020.05.15.)
 [3] 알바니아 | Albania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [4] 알제리 | Algeria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [6] 안도라 | Andorra
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [7] 앙골라 | Angola
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [10] 앤티과바부다 | Antigua & Barbuda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [11] 아르헨티나 | Argentina
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [12] 아르메니아 | Armenia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [14] 오스트레일리아(호주) | Australia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 o 배달 시까지 80일~120일 소요(한달이상 지연 예상) o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.) o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) o 호주행 국제우편 반려동물 물품 관련 주의사항 안내 - 대상 : 호주행 국제우편 - 대상품목 : 동물을 재료로 사용한 반려동물 음식 - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분 - 사유 : 내용 물품으로 인한 질병 확산 방지
+    Urgent notice (EN): o Resumption of acceptance of ship mail to Australia (from 12/16) (Dept. of International Affairs, 2022.12.15.) o Resumption of acceptance of international air mail (usually, parcels, K-Packet) (Dept. of International Affairs, 2022.09.08.) o Delay in delivery of ship mail to Australia, the United States and Canada due to lack of space for ships o Delay in delivery of ship mail to Australia, the United States and Canada (expected to be delayed by more than a month) o No timely mail, emergency documents or food accepted (Dept. of International Affairs, 2022.01.11.) o Delay in delivery of shipments due to increased shipments (Dept. of International Affairs, 2020.10.16.) o Instructions regarding items for international mail to Australia - Subject: International mail to Australia - Subject: Pet food using animals as material - Contents: Immediate disposal by Australian authorities if found in international mail to Australia - Reason: Disease spread due to contents Prevent
 [15] 오스트리아 | Austria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇK-Packet Regular 서비스 종료로 접수불가 (2020.07.01.)
+    Urgent notice (EN): Unable to accept due to the end of K-Packet Regular service (2020.07.01.)
 [16] 아제르바이잔 | Azerbaijan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [17] 바하마 | Bahamas
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [18] 바레인 | Bahrain
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [19] 방글라데시 | Bangladesh
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): Delayed processing of ship mail from the arriving country. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
 [20] 바베이도스 | Barbados
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [21] 벨라루스 | Belarus
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 항공편 운항 지연으로 일시적 접수 중지(25.10.) ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Temporarily suspended due to flight delays (25.10.) International airmail reception resumed (24.04.22.)
 [22] 벨기에 | Belgium
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [23] 벨리즈 | Belize
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [24] 베넹 | Benin
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [26] 부탄 | Bhutan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [27] 볼리비아 | Bolivia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [29] 보스니아헤르체코비나 | Bosnia-Herzegovina
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [30] 보츠와나 | Botswana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [31] 브라질 | Brazil
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+    Urgent notice (EN): Request to stop accepting ship mail from Japan Post due to the deepening of Japan Kawasaki Exchange, a relay country (Friendship Division, International Business Division, 2022.02.28.) o Resume accepting international air mail (normal, parcel, K-Packet) (from 09/09) (Friendship Division, International Business Division, 2022.09.08.)
 [33] 브루네이(브루나이) | Brunei
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [34] 불가리아 | Bulgaria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [35] 부르키나파소 | Burkina Faso
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [36] 부룬디 | Burundi
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [37] 카보베르데 | Cabo Verde
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [38] 캄보디아 | Cambodia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [39] 카메룬 | Cameroon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [40] 캐나다 | Canada
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [41] 케이맨제도 | Cayman Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [42] 중앙아프리카 | Central African Republic
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [43] 차드 | Chad
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [44] 칠레 | Chile
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [45] 중국 | China
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 접수 후 배달까지 2주 이상 소요될 수 있으므로 시한성 서류 및 음식물 접수지양 (우정사업본부 국제사업과, 2021.08.23.)
+    Urgent notice (EN): o Due to the fact that it may take more than 2 weeks from receipt to delivery, the deadline for receiving documents and food should be avoided (Division of International Affairs, 2021.08.23.)
 [46] 크리스마스섬(오스트레일리아) | Christmas Island
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Christmas Island(CX) , 단일 우편번호 사용 : 6798
+    Urgent notice (EN): Resume receiving international airmail (24.04.22.) o Country name (country code) Christmas Island (CX), single zip code: 6798
 [47] 코코스제도(오스트레일리아) | Cocos Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Cocos (Keeling) Island(CC) , 단일 우편번호 사용 : 6799
+    Urgent notice (EN): Resumption of acceptance of international airmail (24.04.2002.) o Country name (country code) Cocos (Keeling) Island (CC), using a single zip code: 6799
 [48] 콜롬비아 | Colombia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [49] 코모로 | Comoros
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [50] 콩고 | Congo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [51] 콩고민주공화국 | Dem. Rep. Of Congo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [52] 쿡제도(뉴질랜드) | Cook Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [53] 코스타리카 | Costa Rica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [54] 코트디부아르 | Côte d'Ivoire
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [55] 크로아티아 | Croatia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [56] 쿠바 | Cuba
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [57] 퀴라소 | Curaçao
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [58] 사이프러스 | Cyprus
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [59] 체코 | Czechia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [60] 덴마크 | Denmark
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [61] 지부티 | Djibouti
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [62] 도미니카연방 | Dominica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [63] 도미니카공화국 | Dominican Republic
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [64] 에콰도르 | Ecuador
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [65] 이집트 | Egypt
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [66] 엘살바도르 | El Salvador
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [67] 적도기니 | Equatorial Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [68] 에리트레아 | Eritrea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [69] 에스토니아 | Estonia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [70] 에스와티니 | Eswatini /Swaziland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(프랑스) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relay country (France) (Seoul Office International Sales Division, 2020.04.02.)
 [71] 에티오피아 | Ethiopia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [72] 포클랜드제도(영국) | Falkland Islands /Malvinas
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Falkland Island (Malvinas)(FK) , 단일 우편번호 사용 : F1QQ 1ZZ
+    Urgent notice (EN): Resume international airmail reception (24.04.22.) o Country name (country code) Falkland Island (Malvinas) (FK), single zip code: F1QQ 1ZZ
 [73] 페로제도(덴마크) | Faroe Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [74] 피지 | Fiji
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [75] 핀란드 | Finland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [76] 과들루프섬(프랑스) | France
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [80] 가봉 | Gabon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [81] 감비아 | Gambia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [82] 조지아 | Georgia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [83] 독일 | Germany
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 선편 통상우편물 접수중지로 접수 불가(우정사업본부 국제사업과, 2022.09.08~) ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): Unable to accept shipments due to the suspension of regular mail (International Business Division of the Postal Service, 2022.09.08-) Delayed processing of shipments in arriving countries. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
 [84] 가나 | Ghana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [85] 지브롤터(영국) | Gibraltar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Gibraltar(GI) , 단일 우편번호 사용 : GX11 1AA
+    Urgent notice (EN): Resume international airmail reception (24.04.22.) o Country name (country code) Gibraltar (GI), single zip code: GX11 1AA
 [86] 그리스 | Greece
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [87] 그린란드(덴마크) | Greenland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [88] 그레나다 | Grenada
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [90] 괌(미국) | Guam
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [91] 과테말라 | Guatemala
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [93] 기니 | Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.) ㅇ수취인 full name, full address, 전화번호, e-mail 기재
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.) Enter the recipient's full name, full address, phone number, and e-mail
 [94] 기니비사우 | Guinea-Bissau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [95] 가이아나 | Guyana
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [97] 온두라스 | Honduras
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [98] 홍콩(중국) | Hong Kong
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국가명(국가코드) Hong Kong(HK) , 단일 우편번호 사용 : 999077 (from CHN to HKG) ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): o Country name (country code) Hong Kong (HK), using a single postal code: 999077 (from CHN to HKG) Arrival country ship mail delayed. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
 [99] 헝가리 | Hungary
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [100] 아이슬란드 | Iceland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [101] 인도 | India
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [102] 인도네시아 | Indonesia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.) ㅇ모든 인바운드/아웃바운드 국제우편물 처리 및 배달 지연 (우정사업본부 국제사업과, 2020.03.23.)
+    Urgent notice (EN): Delayed processing of ship mail from the arriving country. Delay of one to two months or more based on the average number of days of service (International Business Division of the Friendship Division, 2021.03.31.) All inbound/outbound international mail processing and delivery delays (Friendship Division, International Business Division, 2020.03.23.)
 [103] 이란 | Iran
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [105] 아일랜드 | Ireland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [107] 이스라엘 | Israel
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [108] 이탈리아(이태리) | Italy
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): 2026년 2월 6일부터 3월 15일까지 개최되는 동계올림픽 및 패럴림픽으로 인해 일부 지역 우편서비스 지연 ㅇ 영향 받는 지역 우편번호: 32043, 20121-20124, 20138, 20145, 20148, 20151, 20153, 20154, 20158, 20159, 20057, 20017, 20099, 23030, 23037, 23034, 23033, 23035, 23038, 23032, 23041
+    Urgent notice (EN): Some local postal service delays due to the Winter Olympics and Paralympics taking place from February 6 to March 15, 2026. Affected area zip codes: 32043, 20121-20124, 20138, 20145, 20148, 20151, 20153, 20154, 20158, 20159, 20057, 20017, 20099, 23030, 23037, 23034, 23033, 23035, 23038, 23032, 23041
 [109] 자메이카 | Jamaica
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [110] 일본 | Japan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+    Urgent notice (EN): o International airmail (normal, parcel, K-Packet) acceptance resumed (from 09/09) (Friendship Division, International Business Division, 2022.09.08.)
 [112] 요르단 | Jordan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [113] 카자흐스탄 | Kazakhstan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [114] 케냐 | Kenya
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [115] 키리바시 | Kiribati
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [119] 쿠웨이트 | Kuwait
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [120] 키르기스스탄 | Kyrgyzstan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [121] 라오스 | Laos
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [122] 라트비아 | Latvia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [123] 레바논 | Lebanon
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과) ㅇ 분쟁상황 격화로 인한 접수중지(24.09.25) ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Due to the deepening dispute in the Middle East, suspension of airline operations, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries, including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Department) Suspension of acceptance due to escalation of dispute situation (24.09.25) Resumption of acceptance of international airmail (24.04.22.)
 [124] 레소토 | Lesotho
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(캐나다) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.)
+    Urgent notice (EN): Unable to receive airmail due to suspension of submission of intermediate country (Canada) (International Business Division of Friendship Division, 2020.06.08.)
 [125] 라이베리아 | Liberia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [127] 리히텐슈타인 | Liechtenstein
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(스위스) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relaying country (Switzerland) (Seoul Office International Sales Division, 2020.04.02.)
 [128] 리투아니아 | Lithuania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [129] 룩셈부르크 | Luxembourg
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [130] 마카오(중국) | Macao
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국가명(국가코드) Macao(MO) , 단일 우편번호 사용 : 999078 (from CHN to MAC)
+    Urgent notice (EN): o Country name (country code) Macao (MO), single zip code: 999078 (from CHN to Mac);
 [131] 마다가스카르 | Madagascar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [132] 말라위 | Malawi
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [133] 말레이시아 | Malaysia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [134] 몰디브 | Maldives
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [135] 말리 | Mali
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [136] 몰타 | Malta
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [137] 마셜제도(미국) | Marshall Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [139] 모리타니 | Mauritania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [140] 모리셔스 | Mauritius
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포, EMS) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal, parcel, EMS) from 24.01.29. (International Business Division, 2024.01.29.)
 [141] 마요트 | Mayotte
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [142] 멕시코 | Mexico
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [143] 미크로네시아(마이크로네시아) | Micronesia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [144] 몰도바 | Moldova
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [145] 모나코 | Monaco
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [146] 몽골 | Mongolia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국제 항공우편물(통상, 소포) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) - 몽골은 K-PACKET 미운영
+    Urgent notice (EN): o International airmail (normal, parcel) acceptance resumed (from 09/09) (Postal Service International Business Division, 2022.09.08.) - Mongolia does not operate K-packet
 [147] 몬테네그로 | Montenegro
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [148] 몬트세랫(영국) | Montserrat
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(일본) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relaying country (Japan) (Seoul Office International Sales Division, 2020.04.02.)
 [149] 모로코 | Morocco
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [150] 모잠비크 | Mozambique
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [151] 미얀마 | Myanmar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [152] 나미비아 | Namibia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [153] 나우루 | Nauru / Naoero
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Nauru(NR) , 단일 우편번호 사용 : NRU68
+    Urgent notice (EN): Resume international airmail reception (24.04.22.) o Country name (country code) Nauru (NR), single zip code: NRU68
 [154] 네팔 | Nepal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [155] 네덜란드(네델란드) | Netherlands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [157] 뉴질랜드 | New Zealand
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ뉴질랜드 우정의 선편서비스 폐지로 인한 접수중지
+    Urgent notice (EN): Suspension of acceptance due to the abolition of the New Zealand Friendship Shipping Service
 [158] 니카라과 | Nicaragua
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [159] 니제르 | Niger
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [160] 나이지리아 | Nigeria
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [162] 노퍽섬(오스트레일리아) | Norfolk Island
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) Norfolk Island(NF) , 단일 우편번호 사용 : 2899
+    Urgent notice (EN): Resumption of acceptance of international airmail (24.04.2002.) o Country name (country code) Norfolk Island (NF), using a single zip code: 2899
 [164] 북마케도니아 | North Macedonia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [165] 노르웨이 | Norway
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [166] 오만 | Oman
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [167] 파키스탄 | Pakistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.) ㅇ선편국제우편물 취급중지(통상)
+    Urgent notice (EN): Resumption of acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.) Suspension of shipping international mail handling (normal)
 [168] 팔라우섬 | Palau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [170] 파나마 | Panama
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포, EMS) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal, parcel, EMS) from 24.01.29. (International Business Division, 2024.01.29.)
 [171] 파푸아뉴기니 | Papua New Guinea
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [172] 파라과이 | Paraguay
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [173] 페루 | Peru
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 해당국가의 요청으로 선편 접수 중지(2023.05.31.)
+    Urgent notice (EN): Stop receiving shipments at the request of the country (May 31, 2023).
 [174] 필리핀 | Philippines
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [175] 핏케언제도(영국) | Pitcairn
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국가명(국가코드) Pitcairn, Henderson, Ducie and Oeno Islands(PN) , 단일 우편번호 사용 : PCRN 1ZZ
+    Urgent notice (EN): o Country name (country code) Pitcairn, Henderson, Ducie and Oeno Islands (PN), single zip code: PCRN 1ZZ
 [176] 폴란드 | Poland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [177] 포르투갈 | Portugal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [179] 카타르 | Qatar
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [180] 레위니옹섬(프랑스) | Réunion
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [181] 루마니아 | Romania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [182] 러시아 | Russia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~) o 러시아 K-Packet 접수 재개(2025.3.17.~) * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+    Urgent notice (EN): o Suspension of ship mail reception due to local circumstances in Vladivostok, Russia (2020.11.23.~) o Resumption of K-Packet reception in Russia (2025.3.17.~) * (Reference) Request to stop K-Packet reception of Russian friendship (notification of withdrawal from Prime) (2023.3.1.~2025.3.16.)
 [183] 르완다 | Rwanda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [186] 세인트키츠네비스 | Saint Kitts and Nevis
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [187] 세인트루시아 | Saint Lucia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [190] 세인트빈센트그레나딘 | Saint Vincent and the Grenadines
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [191] 사모아(구서사모아) | Samoa
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [192] 산마리노 | San Marino
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [193] 상투메프린시페 | Sao Tome and Principe
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [194] 사우디아라비아 | Saudi Arabia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [195] 세네갈 | Senegal
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [196] 세르비아 | Serbia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) - 코소보행 우편물은 접수 및 배달 불가하므로, 반드시 확인 요망
+    Urgent notice (EN): International airmail reception resumed (24.04.22.) -Kosovo mail cannot be accepted and delivered, so be sure to check
 [197] 세이셸 | Seychelles
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [199] 싱가포르 | Singapore
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.) o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.) o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+    Urgent notice (EN): o Suspension of acceptance of shipping registered traffic to Singapore on arrival country request (Postal Service International Business Division, 2021.07.26.) o Delayed processing for more than a month due to aircraft shrinkage (Seoul Office International Sales Division, 2020.03.19.) o Delivery Status: There are many deliveries in front of the door of non-face-to-face delivery routes, but there are many cases of non-receipient receipt of political parties, so recipient's receiving efforts are required (International Mail & Travel Survey Office, 2020.05.01.)
 [201] 슬로바키아 | Slovakia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.)
+    Urgent notice (EN): Resume acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.)
 [202] 슬로베니아 | Slovenia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ비대면 배달 조치로 서명 불가 등 서비스 제한 발생가능 (우정사업본부 국제사업과, 2020.03.18.)
+    Urgent notice (EN): Service restrictions such as inability to sign due to non-face-to-face delivery measures may occur (Friendship Division, International Business Division, 2020.03.18.)
 [203] 솔로몬아일란드 | Solomon Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [204] 소말리아 | Somalia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(프랑스) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.)
+    Urgent notice (EN): Unable to receive airmail due to suspension of submission of intermediate country (France) (International Business Division of Friendship Division, 2020.06.08.)
 [205] 남아프리카공화국 | South Africa
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [208] 스페인(에스파니아) | Spain
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): Delayed processing of ship mail from the arriving country. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
 [209] 스리랑카 | Sri Lanka
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [210] 수단 | Sudan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국제항공우편물 접수 재개(23.11.20.부터)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (from 23.11.20.)
 [211] 수리남 | Suriname
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [213] 스웨덴 | Sweden
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [214] 스위스 | Switzerland
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [216] 타이완(대만) | Taiwan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터) - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
+    Urgent notice (EN): Restriction on acceptance of international mail to Taiwan, including pork (including all processed forms such as dry and powder) (23.01.03. (Tuesday) - Action on discovery: 200,000 TWD fine to recipient on first discovery, 1,000,000 TWD fine if more than one discovery
 [217] 타지키스탄 | Tajikistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [218] 탄자니아 | Tanzania
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [219] 타이(태국) | Thailand
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): Delayed arrival country ship mail processing. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
 [220] 동티모르 | Timor-Leste
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [221] 토고 | Togo
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal) from 24.01.29. (International Business Division, 2024.01.29.)
 [222] 토켈라우제도(뉴질렌드) | Tokelau
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [223] 통가 | Tonga
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [224] 트리니다드토바고 | Trinidad and Tobago
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [225] 튀니지 | Tunisia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [226] 튀르키예 | Turkey
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 튀르키예(터키) 남부지역 대규모 지진에 따라 배송 지연되었던 국제우편물 배송 정상화 알림(2024.02.07.) - 단, 지진으로 주소지 건물 등이 붕괴 또는 파손된 경우 우편물 배송이 불가하며, 배송 불능 우편물은 반송 등 UPU 조약에 따라 적의 처리
+    Urgent notice (EN): o Notice of normalization of international mail delivery, which was delayed due to a large earthquake in southern Turkey (2024.02.07.) - However, if the building at the address is collapsed or damaged by an earthquake, mail cannot be delivered, and non-deliverable mail is handled by the enemy in accordance with the UPU Treaty, such as return.
 [227] 투르크메니스탄 | Turkmenistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [228] 터크스케이커스제도(영국) | Turks and Caicos Islands
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ중계국가(일본) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.) o 국가명(국가코드) Turks and Caicos Islands(TC) , 단일 우편번호 사용 : TKCA 1ZZ
+    Urgent notice (EN): (Seoul Office International Sales Division, 2020.04.02.) o Country name (country code) Turks and Caicos Islands (TC), using a single zip code: TKCA 1ZZ
 [229] 투발루 | Tuvalu
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Resume acceptance of international airmail (24.04.22.)
 [230] 우간다 | Uganda
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [231] 우크라이나 | Ukraine
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ러시아 국경 인접지역(우편번호 첫 두자리 91, 83, 69, 73, 95)은 접수불가 <출처 : 우정사업본부 국제사업과, 2022.10.14.>
+    Urgent notice (EN): The regions adjacent to the Russian border (the first two digits of the postcode 91, 83, 69, 73, 95) are not accepted. < Source: International Affairs Division, Friendship Division, 2022.10.14. >
 [232] 아랍에미리트연합국 | United Arab Emirates
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [233] 버뮤다섬(영국) | United Kingdom
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [234] 우루과이 | Uruguay
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [235] 미국 | U.S.A.
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국제선편우편물(통상, 소포) 접수 재개(24.04.01.부터) (국제사업과, 2024.03.25.) - 접수가능 : 일반통상(항공, 선편), 등기통상(항공) , 소포(항공, 선편), EMS, EMS프리미엄 o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) o 배달현황 : 실제 배달시도 없이 우편함에 통지서만 두고 오는 경우가 많아 오배달 사례가 많음(수취인의 수취노력 필요) 반송 시 1개월 이상 소요.
+    Urgent notice (EN): o Resumption of acceptance of international mail (normal, parcel) (24.04.01. From) (International Business Division, 2024.03.25.) - Acceptable: General trade (air, ship), registered trade (air), parcel (air, ship), EMS, EMS premium o International airmail (normal, parcel, K-Packet) Acceptance resumed (from 09/09) (International Business Division of Postal Business Division, 2022.09.08.) o Delivery status: Many cases of mis-delivery due to the fact that only a notice is left in the mailbox without an actual delivery attempt (receiver's receiver's efforts are required) It takes more than one month to return.
 [237] 우즈베키스탄 | Uzbekistan
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [238] 바누아투 | Vanuatu
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
 [239] 바티칸 | Vatican
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 국가명(국가코드) Vatican City(VA) , 단일 우편번호 사용 : 00120
+    Urgent notice (EN): o Country name (country code) Vatican City (VA), single zip code: 00120
 [240] 베네수엘라 | Venezuela
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): o 24.01.29.부터 국제항공우편물(통상, 소포) 접수재개 (국제사업과, 2024.01.29.)
+    Urgent notice (EN): o Resumption of acceptance of international airmail (normal and parcel) from 24.01.29. (International Business Division, 2024.01.29.)
 [241] 베트남 | Vietnam
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): .
+    Urgent notice (EN): LTD.
 [247] 잠비아 | Zambia
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 [248] 짐바브웨 | Zimbabwe
-    긴급공지 (KO): 국가별 공통사항
-    Urgent notice (EN): Country-specific commonalities
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 
 ======================================================================
 SECTION 2: SUSPENDED COUNTRIES
 ======================================================================
 
---- A) Urgent notice mentions suspension / route unavailable / no service (0) ---
+--- A) Urgent notice mentions suspension / route unavailable / no service (39) ---
+[1] 아프가니스탄 | Afghanistan
+    긴급공지 (KO): ㅇ운송편 비운항으로 항공통상, 항공소포 접수중지 (서울청 국제영업과, 2020.05.15.)
+    Urgent notice (EN): Air traffic and air parcel suspension due to non-transportation (Seoul Office International Sales Division, 2020.05.15.)
+[4] 알제리 | Algeria
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[14] 오스트레일리아(호주) | Australia
+    긴급공지 (KO): o 호주행 선편우편물 접수재개 (12/16부터) (우정사업본부 국제사업과, 2022.12.15.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.) o 선박 스페이스 공간 부족으로 호주, 미국, 캐나다행 선편 우편물 배송지연 o 배달 시까지 80일~120일 소요(한달이상 지연 예상) o 시한성 우편물이나 긴급서류, 음식물 접수 불가 (우정사업본부 국제사업과, 2022.01.11.) o 발송물량 증가로 선편우편물 배송 지연 안내 (우정사업본부 국제사업과, 2020.10.16.) o 호주행 국제우편 반려동물 물품 관련 주의사항 안내 - 대상 : 호주행 국제우편 - 대상품목 : 동물을 재료로 사용한 반려동물 음식 - 내용 : 호주행 국제우편에 발견될 경우 호주당국에서 즉시 폐기처분 - 사유 : 내용 물품으로 인한 질병 확산 방지
+    Urgent notice (EN): o Resumption of acceptance of ship mail to Australia (from 12/16) (Dept. of International Affairs, 2022.12.15.) o Resumption of acceptance of international air mail (usually, parcels, K-Packet) (Dept. of International Affairs, 2022.09.08.) o Delay in delivery of ship mail to Australia, the United States and Canada due to lack of space for ships o Delay in delivery of ship mail to Australia, the United States and Canada (expected to be delayed by more than a month) o No timely mail, emergency documents or food accepted (Dept. of International Affairs, 2022.01.11.) o Delay in delivery of shipments due to increased shipments (Dept. of International Affairs, 2020.10.16.) o Instructions regarding items for international mail to Australia - Subject: International mail to Australia - Subject: Pet food using animals as material - Contents: Immediate disposal by Australian authorities if found in international mail to Australia - Reason: Disease spread due to contents Prevent
+[15] 오스트리아 | Austria
+    긴급공지 (KO): ㅇK-Packet Regular 서비스 종료로 접수불가 (2020.07.01.)
+    Urgent notice (EN): Unable to accept due to the end of K-Packet Regular service (2020.07.01.)
+[18] 바레인 | Bahrain
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[21] 벨라루스 | Belarus
+    긴급공지 (KO): ㅇ 항공편 운항 지연으로 일시적 접수 중지(25.10.) ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Temporarily suspended due to flight delays (25.10.) International airmail reception resumed (24.04.22.)
+[31] 브라질 | Brazil
+    긴급공지 (KO): ㅇ중계국가인 일본 가와사키 교환국 적체 심화로 일본우정의 선편우편물 접수중지 요청 (우정사업본부 국제사업과, 2022.02.28.) o 국제 항공우편물(통상, 소포, K-Packet) 접수 재개(09/09부터) (우정사업본부 국제사업과, 2022.09.08.)
+    Urgent notice (EN): Request to stop accepting ship mail from Japan Post due to the deepening of Japan Kawasaki Exchange, a relay country (Friendship Division, International Business Division, 2022.02.28.) o Resume accepting international air mail (normal, parcel, K-Packet) (from 09/09) (Friendship Division, International Business Division, 2022.09.08.)
+[41] 케이맨제도 | Cayman Islands
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[61] 지부티 | Djibouti
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[70] 에스와티니 | Eswatini /Swaziland
+    긴급공지 (KO): ㅇ중계국가(프랑스) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relay country (France) (Seoul Office International Sales Division, 2020.04.02.)
+[83] 독일 | Germany
+    긴급공지 (KO): ㅇ 선편 통상우편물 접수중지로 접수 불가(우정사업본부 국제사업과, 2022.09.08~) ㅇ도착국가 선편우편물 처리 지연. 평균 송달일수 기준 1~2개월 이상 지연 발생 (우정사업본부 국제사업과, 2021.03.31.)
+    Urgent notice (EN): Unable to accept shipments due to the suspension of regular mail (International Business Division of the Postal Service, 2022.09.08-) Delayed processing of shipments in arriving countries. Delay of one to two months or more based on the average number of days of service (Friendship Division, International Business Division, 2021.03.31.)
+[103] 이란 | Iran
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[112] 요르단 | Jordan
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[119] 쿠웨이트 | Kuwait
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[123] 레바논 | Lebanon
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과) ㅇ 분쟁상황 격화로 인한 접수중지(24.09.25) ㅇ 국제항공우편 접수 재개 (24.04.22.)
+    Urgent notice (EN): Due to the deepening dispute in the Middle East, suspension of airline operations, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries, including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Department) Suspension of acceptance due to escalation of dispute situation (24.09.25) Resumption of acceptance of international airmail (24.04.22.)
+[124] 레소토 | Lesotho
+    긴급공지 (KO): ㅇ중계국가(캐나다) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.)
+    Urgent notice (EN): Unable to receive airmail due to suspension of submission of intermediate country (Canada) (International Business Division of Friendship Division, 2020.06.08.)
+[127] 리히텐슈타인 | Liechtenstein
+    긴급공지 (KO): ㅇ중계국가(스위스) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relaying country (Switzerland) (Seoul Office International Sales Division, 2020.04.02.)
+[148] 몬트세랫(영국) | Montserrat
+    긴급공지 (KO): ㅇ중계국가(일본) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.)
+    Urgent notice (EN): Can not be sent due to the suspension of the relaying country (Japan) (Seoul Office International Sales Division, 2020.04.02.)
+[149] 모로코 | Morocco
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[150] 모잠비크 | Mozambique
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[157] 뉴질랜드 | New Zealand
+    긴급공지 (KO): ㅇ뉴질랜드 우정의 선편서비스 폐지로 인한 접수중지
+    Urgent notice (EN): Suspension of acceptance due to the abolition of the New Zealand Friendship Shipping Service
+[166] 오만 | Oman
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[167] 파키스탄 | Pakistan
+    긴급공지 (KO): ㅇ 23.11.01.부터 국제항공우편물 접수 재개 (국제사업과 , 2023.10.30.) ㅇ선편국제우편물 취급중지(통상)
+    Urgent notice (EN): Resumption of acceptance of international airmail from 23.11.01. (International Business Division, 2023.10.30.) Suspension of shipping international mail handling (normal)
+[173] 페루 | Peru
+    긴급공지 (KO): ㅇ 해당국가의 요청으로 선편 접수 중지(2023.05.31.)
+    Urgent notice (EN): Stop receiving shipments at the request of the country (May 31, 2023).
+[182] 러시아 | Russia
+    긴급공지 (KO): o 러시아 블라디보스톡 현지사정으로 선편우편물 접수중지 (2020.11.23.~) o 러시아 K-Packet 접수 재개(2025.3.17.~) * (참고) 러시아 우정의 K-Packet 접수 중지 요청(Prime 탈퇴 통보) (2023.3.1.~2025.3.16.)
+    Urgent notice (EN): o Suspension of ship mail reception due to local circumstances in Vladivostok, Russia (2020.11.23.~) o Resumption of K-Packet reception in Russia (2025.3.17.~) * (Reference) Request to stop K-Packet reception of Russian friendship (notification of withdrawal from Prime) (2023.3.1.~2025.3.16.)
+[196] 세르비아 | Serbia
+    긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) - 코소보행 우편물은 접수 및 배달 불가하므로, 반드시 확인 요망
+    Urgent notice (EN): International airmail reception resumed (24.04.22.) -Kosovo mail cannot be accepted and delivered, so be sure to check
+[197] 세이셸 | Seychelles
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[199] 싱가포르 | Singapore
+    긴급공지 (KO): o 도착국가 요청으로 싱가포르행 선편 등기통상 접수중지 (우정사업본부 국제사업과, 2021.07.26.) o 항공기 축소로 한달이상 처리 지연 (서울청 국제영업과, 2020.03.19.) o 배달현황 : 비대면 배달로 출입문 앞 배달이 많으나 정당 수취인 미수령 사례가 많으니 수취인의 수취노력 필요 (국제우편물행방조사실, 2020.05.01.)
+    Urgent notice (EN): o Suspension of acceptance of shipping registered traffic to Singapore on arrival country request (Postal Service International Business Division, 2021.07.26.) o Delayed processing for more than a month due to aircraft shrinkage (Seoul Office International Sales Division, 2020.03.19.) o Delivery Status: There are many deliveries in front of the door of non-face-to-face delivery routes, but there are many cases of non-receipient receipt of political parties, so recipient's receiving efforts are required (International Mail & Travel Survey Office, 2020.05.01.)
+[202] 슬로베니아 | Slovenia
+    긴급공지 (KO): ㅇ비대면 배달 조치로 서명 불가 등 서비스 제한 발생가능 (우정사업본부 국제사업과, 2020.03.18.)
+    Urgent notice (EN): Service restrictions such as inability to sign due to non-face-to-face delivery measures may occur (Friendship Division, International Business Division, 2020.03.18.)
+[204] 소말리아 | Somalia
+    긴급공지 (KO): ㅇ중계국가(프랑스) 접수중지로 항공우편물 접수불가 (우정사업본부 국제사업과, 2020.06.08.)
+    Urgent notice (EN): Unable to receive airmail due to suspension of submission of intermediate country (France) (International Business Division of Friendship Division, 2020.06.08.)
+[216] 타이완(대만) | Taiwan
+    긴급공지 (KO): ㅇ 돼지고기(건조, 분말 등 가공된 형태도 모두 포함)가 포함된 대만행 국제우편물 접수 제한(23.01.03.(화)부터) - 발견 시 조치: 최초 발견 시 수취인에게 200,000 TWD 벌금 부과, 2회 이상 발견 시 1,000,000 TWD 벌금 부과
+    Urgent notice (EN): Restriction on acceptance of international mail to Taiwan, including pork (including all processed forms such as dry and powder) (23.01.03. (Tuesday) - Action on discovery: 200,000 TWD fine to recipient on first discovery, 1,000,000 TWD fine if more than one discovery
+[218] 탄자니아 | Tanzania
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[225] 튀니지 | Tunisia
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[226] 튀르키예 | Turkey
+    긴급공지 (KO): o 튀르키예(터키) 남부지역 대규모 지진에 따라 배송 지연되었던 국제우편물 배송 정상화 알림(2024.02.07.) - 단, 지진으로 주소지 건물 등이 붕괴 또는 파손된 경우 우편물 배송이 불가하며, 배송 불능 우편물은 반송 등 UPU 조약에 따라 적의 처리
+    Urgent notice (EN): o Notice of normalization of international mail delivery, which was delayed due to a large earthquake in southern Turkey (2024.02.07.) - However, if the building at the address is collapsed or damaged by an earthquake, mail cannot be delivered, and non-deliverable mail is handled by the enemy in accordance with the UPU Treaty, such as return.
+[228] 터크스케이커스제도(영국) | Turks and Caicos Islands
+    긴급공지 (KO): ㅇ중계국가(일본) 중계 중지로 발송 불가 (서울청 국제영업과, 2020.04.02.) o 국가명(국가코드) Turks and Caicos Islands(TC) , 단일 우편번호 사용 : TKCA 1ZZ
+    Urgent notice (EN): (Seoul Office International Sales Division, 2020.04.02.) o Country name (country code) Turks and Caicos Islands (TC), using a single zip code: TKCA 1ZZ
+[231] 우크라이나 | Ukraine
+    긴급공지 (KO): ㅇ러시아 국경 인접지역(우편번호 첫 두자리 91, 83, 69, 73, 95)은 접수불가 <출처 : 우정사업본부 국제사업과, 2022.10.14.>
+    Urgent notice (EN): The regions adjacent to the Russian border (the first two digits of the postcode 91, 83, 69, 73, 95) are not accepted. < Source: International Affairs Division, Friendship Division, 2022.10.14. >
+[233] 버뮤다섬(영국) | United Kingdom
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[247] 잠비아 | Zambia
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
+[248] 짐바브웨 | Zimbabwe
+    긴급공지 (KO): ㅇ 중동지역 분쟁 심화에 따른 항공사 운항 중단으로 아랍에미리트,이란,이스라엘,카타르 등 총 34국 항공편 / EMS 프리미엄(포스트넷 공지 참조) 접수 중지(26.3.3. 국제사업과)
+    Urgent notice (EN): Suspension of airline operations due to escalating disputes in the Middle East, suspension of receipt of flights/EMS Premium (see Postnet Notice) to a total of 34 countries including the United Arab Emirates, Iran, Israel, and Qatar (26.3.3. International Business Division)
 
 --- B) In master list of 248 but missing from the dropdown (43) ---
 [2] 올란드제도 | Åland Islands
@@ -675,4 +710,4 @@ SECTION 2: SUSPENDED COUNTRIES
 [245] 서사하라 | Western Sahara
 [246] 예멘 | Yemen
 
-TOTAL SUSPENDED COUNTRIES: 43
+TOTAL SUSPENDED COUNTRIES: 82
