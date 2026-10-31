@@ -37,7 +37,7 @@ MASTER_RAW = """
 6|Andorra|AD|안도라
 7|Angola|AO|앙골라
 8|Anguilla|AI|앵귈라
-9|Antarctica|AQ|남극/프랑스(프랑스령동남및남극권)/프랑스령동남및남극권
+9|Antarctica|AQ|남극
 10|Antigua & Barbuda|AG|앤티가바부다/안티구아바부다
 11|Argentina|AR|아르헨티나
 12|Armenia|AM|아르메니아
@@ -107,7 +107,7 @@ MASTER_RAW = """
 76|France|FR|프랑스
 77|French Guiana|GF|프랑스령기아나/프랑스령가이아나
 78|French Polynesia|PF|프랑스령폴리네시아
-79|French Southern Territories|TF|프랑스령남방지역/프랑스령남방및남극지역
+79|French Southern Territories|TF|프랑스령남방지역/프랑스령남방및남극지역/프랑스(프랑스령동남및남극권)/프랑스령동남및남극권
 80|Gabon|GA|가봉
 81|Gambia|GM|감비아
 82|Georgia|GE|조지아/그루지야
