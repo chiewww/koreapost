@@ -669,13 +669,13 @@ def build_report(results):
     matched = {}  # master num -> dict
     unmatched = []  # dropdown entries that match nothing in the master list
     duplicates = []  # dropdown entries that landed on a master entry that is already taken
-    for value, ko, notice in results:
+    for pos, (value, ko, notice) in enumerate(results):  # pos = position in the dropdown
         m = match_master(ko, value, by_alias, by_iso, master)
         if notice == NOTICE_READ_FAILED:
             notice_en = NOTICE_READ_FAILED  # English placeholder: nothing to translate
         else:
             notice_en = to_english(notice) if notice else ""
-        entry = {"value": value, "ko": ko, "notice_ko": notice, "notice_en": notice_en}
+        entry = {"value": value, "ko": ko, "notice_ko": notice, "notice_en": notice_en, "order": pos}
         if m:
             entry["m"] = m
             old = matched.get(m["num"])
@@ -705,7 +705,7 @@ def build_report(results):
     missing = [m for m in master if m["num"] not in matched]
     suspended_a = [e for e in matched.values() if is_suspended_notice(e)]
     suspended_a += [e for e in unmatched if is_suspended_notice(e)]
-    suspended_a.sort(key=lambda e: e["m"]["num"] if "m" in e else 9999)
+    suspended_a.sort(key=lambda e: e["order"])  # same order as the dropdown
 
     out = []
     w = out.append
@@ -720,8 +720,7 @@ def build_report(results):
     w("=" * 70)
     w("SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN")
     w("=" * 70)
-    for num in sorted(matched):
-        e = matched[num]
+    for e in sorted(matched.values(), key=lambda x: x["order"]):  # dropdown order
         m = e["m"]
         w(f"[{m['num']}] {e['ko']} | {m['en']}")
         if e["notice_ko"]:
@@ -730,7 +729,7 @@ def build_report(results):
     if unmatched:
         w("")
         w("--- Dropdown entries NOT found in the master list (check spelling/aliases) ---")
-        for e in sorted(unmatched, key=lambda x: x["ko"]):
+        for e in sorted(unmatched, key=lambda x: x["order"]):
             w(f"[?] {e['ko']} | {e['en']}")
             if e["notice_ko"]:
                 w(f"    긴급공지 (KO): {e['notice_ko']}")
@@ -738,7 +737,7 @@ def build_report(results):
     if duplicates:
         w("")
         w("--- Dropdown entries that map to a master entry already used (check the mapping) ---")
-        for e in sorted(duplicates, key=lambda x: x["m"]["num"]):
+        for e in sorted(duplicates, key=lambda x: x["order"]):
             w(f"[{e['m']['num']}] {e['ko']} | {e['m']['en']}  (duplicate, not counted above)")
             if e["notice_ko"]:
                 w(f"    긴급공지 (KO): {e['notice_ko']}")
