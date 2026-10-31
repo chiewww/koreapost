@@ -576,7 +576,7 @@ SECTION 1: ALL COUNTRIES IN THE 도착국 DROPDOWN
 [76] 프랑스 | France
     긴급공지 (KO): .
     Urgent notice (EN): LTD.
-[9] 프랑스(프랑스령동남및남극권) | Antarctica
+[79] 프랑스(프랑스령동남및남극권) | French Southern Territories
     긴급공지 (KO): ㅇ 국제항공우편 접수 재개 (24.04.22.) o 국가명(국가코드) French Southern Territories , 단일 우편번호 사용 : 97408 o 국가명(국가코드) French Southern Territories (La Terre-Adélie) , 단일 우편번호 사용 : 95724 o 국가명(국가코드) French Southern Territories (Île Tromelin) , 단일 우편번호 사용 : 97410
     Urgent notice (EN): Resume international airmail reception (24.04.22.) o Country name (country code) French Southern Territories, using a single postal code: 97408 o Country name (country code) French Southern Territories (La Terre-Adélie), using a single postal code: 95724 o Country name (country code) French Southern Territories (Île Tromelin), using a single postal code: 97410
 [74] 피지 | Fiji
@@ -731,9 +731,9 @@ SECTION 2: SUSPENDED COUNTRIES
 
 --- B) In master list of 248 but missing from the dropdown (25) ---
 [2] 올란드제도 | Åland Islands
+[9] 남극 | Antarctica
 [28] 보네르 | Bonaire, Sint Eustatius and Saba
 [32] 영국령인도양지역 | British Indian Ocean Territory
-[79] 프랑스령남방지역 | French Southern Territories
 [92] 건지 | Guernsey
 [96] 아이티 | Haiti
 [104] 이라크 | Iraq
