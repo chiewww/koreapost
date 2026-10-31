@@ -37,7 +37,7 @@ MASTER_RAW = """
 6|Andorra|AD|안도라
 7|Angola|AO|앙골라
 8|Anguilla|AI|앵귈라
-9|Antarctica|AQ|남극
+9|Antarctica|AQ|남극/프랑스(프랑스령동남및남극권)/프랑스령동남및남극권
 10|Antigua & Barbuda|AG|앤티가바부다/안티구아바부다
 11|Argentina|AR|아르헨티나
 12|Armenia|AM|아르메니아
